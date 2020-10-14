@@ -31,6 +31,7 @@ inputs:
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
+    git: false
     path_pattern: indicator_settings/*-*.md
   - class: InputExcelMeta
     path_pattern: meta/*-*.xlsx
