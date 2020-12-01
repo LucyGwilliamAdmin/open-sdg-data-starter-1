@@ -26,8 +26,8 @@ inputs:
       SERIES: 'Series'
       REF_AREA|KG: ''
     drop_dimensions: SOURCE_DETAIL
-    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
-    import_translation_keys: true
+    dsd: 'SDG_DSD.KG.xml'
+    import_codes: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
@@ -35,6 +35,9 @@ inputs:
   - class: InputExcelMeta
     path_pattern: meta/*-*.xlsx
     metadata_mapping: 'metadata-mapping.csv'
+
+sdmx_output:
+    dsd: 'SDG_DSD.KG.xml'
 
 
 # Translations
@@ -55,7 +58,7 @@ translations:
   - class: TranslationInputCsv
     source: translations
   - class: TranslationInputSdmx
-    source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
+    source: 'SDG_DSD.KG.xml'
 
 # Destination directory
 # ---------------------
