@@ -1,6 +1,6 @@
 Year,Reference area,Sex,Income or wealth quantile,Education level,Value
-2014,,,,,78.3
-2018,,,,,71.7
+2014,Kyrgyzstan,,,,78.3
+2018,Kyrgyzstan,,,,71.7
 2014,Batken,,,,81.2
 2018,Batken,,,,83.3
 2014,Jalal-Abad,,,,87.1
@@ -19,25 +19,25 @@ Year,Reference area,Sex,Income or wealth quantile,Education level,Value
 2018,Bishkek (city),,,,81.3
 2014,Osh (city),,,,52.0
 2018,Osh (city),,,,71.5
-2014,,Male,,,76.1
-2018,,Male,,,68.2
-2014,,Female,,,80.6
-2018,,Female,,,75.0
-2014,,,,Lower secondary education,70.1
-2018,,,,Lower secondary education,71.0
-2014,,,,Upper secondary education,77.2
-2018,,,,Upper secondary education,73.8
-2014,,,,Post-secondary non-tertiary education,80.8
-2018,,,,Post-secondary non-tertiary education,70.6
-2014,,,,Short-cycle tertiary education,81.8
-2018,,,,Short-cycle tertiary education,69.6
-2014,,,Quintile 1 (poorest),,76.5
-2018,,,Quintile 1 (poorest),,72.5
-2014,,,Quintile 2,,80.3
-2018,,,Quintile 2,,70.6
-2014,,,Quintile 3,,73.0
-2018,,,Quintile 3,,67.2
-2014,,,Quintile 4,,79.3
-2018,,,Quintile 4,,71.0
-2014,,,Quintile 5 (richest),,84.3
-2018,,,Quintile 5 (richest),,78.0
+2014,Kyrgyzstan,Male,,,76.1
+2018,Kyrgyzstan,Male,,,68.2
+2014,Kyrgyzstan,Female,,,80.6
+2018,Kyrgyzstan,Female,,,75.0
+2014,Kyrgyzstan,,,Lower secondary education,70.1
+2018,Kyrgyzstan,,,Lower secondary education,71.0
+2014,Kyrgyzstan,,,Upper secondary education,77.2
+2018,Kyrgyzstan,,,Upper secondary education,73.8
+2014,Kyrgyzstan,,,Post-secondary non-tertiary education,80.8
+2018,Kyrgyzstan,,,Post-secondary non-tertiary education,70.6
+2014,Kyrgyzstan,,,Short-cycle tertiary education,81.8
+2018,Kyrgyzstan,,,Short-cycle tertiary education,69.6
+2014,Kyrgyzstan,,Quintile 1 (poorest),,76.5
+2018,Kyrgyzstan,,Quintile 1 (poorest),,72.5
+2014,Kyrgyzstan,,Quintile 2,,80.3
+2018,Kyrgyzstan,,Quintile 2,,70.6
+2014,Kyrgyzstan,,Quintile 3,,73.0
+2018,Kyrgyzstan,,Quintile 3,,67.2
+2014,Kyrgyzstan,,Quintile 4,,79.3
+2018,Kyrgyzstan,,Quintile 4,,71.0
+2014,Kyrgyzstan,,Quintile 5 (richest),,84.3
+2018,Kyrgyzstan,,Quintile 5 (richest),,78.0
