@@ -1,4 +1,5 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,Education level
+Reporting type,Reference area
+Reference area,Education level
 Education level,Sex

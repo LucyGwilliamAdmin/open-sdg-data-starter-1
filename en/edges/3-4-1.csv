@@ -1,4 +1,4 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,Composite breakdown
-Composite breakdown,Reference area
+Reporting type,Reference area
+Reference area,Composite breakdown

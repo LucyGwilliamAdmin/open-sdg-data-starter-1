@@ -1,13 +1,13 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
-2010,Annual,National,SL_TLF_MANF,,,PT,7.8
-2011,Annual,National,SL_TLF_MANF,,,PT,7.6
-2012,Annual,National,SL_TLF_MANF,,,PT,7.6
-2013,Annual,National,SL_TLF_MANF,,,PT,6.9
-2014,Annual,National,SL_TLF_MANF,,,PT,6.9
-2015,Annual,National,SL_TLF_MANF,,,PT,7.4
-2016,Annual,National,SL_TLF_MANF,,,PT,7.6
-2017,Annual,National,SL_TLF_MANF,,,PT,10.1
-2018,Annual,National,SL_TLF_MANF,,,PT,12.0
+2010,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,7.8
+2011,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,7.6
+2012,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,7.6
+2013,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,6.9
+2014,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,6.9
+2015,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,7.4
+2016,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,7.6
+2017,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,10.1
+2018,Annual,National,SL_TLF_MANF,Kyrgyzstan,,PT,12.0
 2010,Annual,National,SL_TLF_MANF,Batken,,PT,6.4
 2011,Annual,National,SL_TLF_MANF,Batken,,PT,6.4
 2012,Annual,National,SL_TLF_MANF,Batken,,PT,5.7
@@ -86,21 +86,21 @@ Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Val
 2016,Annual,National,SL_TLF_MANF,Osh (city),,PT,5.1
 2017,Annual,National,SL_TLF_MANF,Osh (city),,PT,7.6
 2018,Annual,National,SL_TLF_MANF,Osh (city),,PT,8.5
-2010,Annual,National,SL_TLF_MANF,,Female,PT,9.3
-2011,Annual,National,SL_TLF_MANF,,Female,PT,8.8
-2012,Annual,National,SL_TLF_MANF,,Female,PT,9.0
-2013,Annual,National,SL_TLF_MANF,,Female,PT,8.8
-2014,Annual,National,SL_TLF_MANF,,Female,PT,8.9
-2015,Annual,National,SL_TLF_MANF,,Female,PT,8.4
-2016,Annual,National,SL_TLF_MANF,,Female,PT,9.1
-2017,Annual,National,SL_TLF_MANF,,Female,PT,11.3
-2018,Annual,National,SL_TLF_MANF,,Female,PT,12.5
-2010,Annual,National,SL_TLF_MANF,,Male,PT,6.7
-2011,Annual,National,SL_TLF_MANF,,Male,PT,6.8
-2012,Annual,National,SL_TLF_MANF,,Male,PT,6.6
-2013,Annual,National,SL_TLF_MANF,,Male,PT,5.7
-2014,Annual,National,SL_TLF_MANF,,Male,PT,5.6
-2015,Annual,National,SL_TLF_MANF,,Male,PT,6.7
-2016,Annual,National,SL_TLF_MANF,,Male,PT,6.7
-2017,Annual,National,SL_TLF_MANF,,Male,PT,9.3
-2018,Annual,National,SL_TLF_MANF,,Male,PT,11.7
+2010,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,9.3
+2011,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,8.8
+2012,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,9.0
+2013,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,8.8
+2014,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,8.9
+2015,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,8.4
+2016,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,9.1
+2017,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,11.3
+2018,Annual,National,SL_TLF_MANF,Kyrgyzstan,Female,PT,12.5
+2010,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,6.7
+2011,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,6.8
+2012,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,6.6
+2013,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,5.7
+2014,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,5.6
+2015,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,6.7
+2016,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,6.7
+2017,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,9.3
+2018,Annual,National,SL_TLF_MANF,Kyrgyzstan,Male,PT,11.7

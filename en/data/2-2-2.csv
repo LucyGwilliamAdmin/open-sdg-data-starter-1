@@ -1,6 +1,6 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Age,Units,Value
-2014,Annual,National,SH_STA_WAST,,under 5 years old,PT,2.8
-2018,Annual,National,SH_STA_WAST,,under 5 years old,PT,2.0
+2014,Annual,National,SH_STA_WAST,Kyrgyzstan,under 5 years old,PT,2.8
+2018,Annual,National,SH_STA_WAST,Kyrgyzstan,under 5 years old,PT,2.0
 2014,Annual,National,SH_STA_WAST,Batken,under 5 years old,PT,2.2
 2018,Annual,National,SH_STA_WAST,Batken,under 5 years old,PT,2.3
 2014,Annual,National,SH_STA_WAST,Jalal-Abad,under 5 years old,PT,7.9
@@ -19,8 +19,8 @@ Year,Frequency of observation,Reporting type,Series,Reference area,Age,Units,Val
 2018,Annual,National,SH_STA_WAST,Bishkek (city),under 5 years old,PT,0.6
 2014,Annual,National,SH_STA_WAST,Osh (city),under 5 years old,PT,2.4
 2018,Annual,National,SH_STA_WAST,Osh (city),under 5 years old,PT,1.8
-2014,Annual,National,SN_STA_OVWGT,,under 5 years old,PT,7.0
-2018,Annual,National,SN_STA_OVWGT,,under 5 years old,PT,6.9
+2014,Annual,National,SN_STA_OVWGT,Kyrgyzstan,under 5 years old,PT,7.0
+2018,Annual,National,SN_STA_OVWGT,Kyrgyzstan,under 5 years old,PT,6.9
 2014,Annual,National,SN_STA_OVWGT,Batken,under 5 years old,PT,3.4
 2018,Annual,National,SN_STA_OVWGT,Batken,under 5 years old,PT,6.9
 2014,Annual,National,SN_STA_OVWGT,Jalal-Abad,under 5 years old,PT,8.7

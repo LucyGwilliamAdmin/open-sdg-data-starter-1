@@ -1,7 +1,7 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,Sex
-Age,Reference area
+Reporting type,Reference area
+Reference area,Sex
 Sex,Age
 Age,Degree of urbanisation
 Age,Income or wealth quantile

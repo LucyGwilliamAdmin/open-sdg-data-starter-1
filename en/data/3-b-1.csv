@@ -1,16 +1,16 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2007,Annual,National,SH_ACS_DTP3,,PT,94.1
-2008,Annual,National,SH_ACS_DTP3,,PT,95.3
-2009,Annual,National,SH_ACS_DTP3,,PT,95.4
-2010,Annual,National,SH_ACS_DTP3,,PT,96.5
-2011,Annual,National,SH_ACS_DTP3,,PT,95.1
-2012,Annual,National,SH_ACS_DTP3,,PT,96.2
-2013,Annual,National,SH_ACS_DTP3,,PT,96.9
-2014,Annual,National,SH_ACS_DTP3,,PT,95.8
-2015,Annual,National,SH_ACS_DTP3,,PT,96.6
-2016,Annual,National,SH_ACS_DTP3,,PT,96.1
-2017,Annual,National,SH_ACS_DTP3,,PT,93.4
-2018,Annual,National,SH_ACS_DTP3,,PT,94.5
+2007,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,94.1
+2008,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,95.3
+2009,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,95.4
+2010,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,96.5
+2011,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,95.1
+2012,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,96.2
+2013,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,96.9
+2014,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,95.8
+2015,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,96.6
+2016,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,96.1
+2017,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,93.4
+2018,Annual,National,SH_ACS_DTP3,Kyrgyzstan,PT,94.5
 2007,Annual,National,SH_ACS_DTP3,Batken,PT,93.4
 2008,Annual,National,SH_ACS_DTP3,Batken,PT,96.8
 2009,Annual,National,SH_ACS_DTP3,Batken,PT,95.4
@@ -119,18 +119,18 @@ Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
 2016,Annual,National,SH_ACS_DTP3,Osh (city),PT,96.7
 2017,Annual,National,SH_ACS_DTP3,Osh (city),PT,98.0
 2018,Annual,National,SH_ACS_DTP3,Osh (city),PT,95.2
-2007,Annual,National,SH_ACS_MCV2,,PT,98.8
-2008,Annual,National,SH_ACS_MCV2,,PT,99.1
-2009,Annual,National,SH_ACS_MCV2,,PT,98.9
-2010,Annual,National,SH_ACS_MCV2,,PT,98.3
-2011,Annual,National,SH_ACS_MCV2,,PT,97.2
-2012,Annual,National,SH_ACS_MCV2,,PT,97.7
-2013,Annual,National,SH_ACS_MCV2,,PT,98.666102
-2014,Annual,National,SH_ACS_MCV2,,PT,95.6
-2015,Annual,National,SH_ACS_MCV2,,PT,99.1
-2016,Annual,National,SH_ACS_MCV2,,PT,97.0
-2017,Annual,National,SH_ACS_MCV2,,PT,94.7
-2018,Annual,National,SH_ACS_MCV2,,PT,96.244215
+2007,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,98.8
+2008,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,99.1
+2009,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,98.9
+2010,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,98.3
+2011,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,97.2
+2012,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,97.7
+2013,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,98.666102
+2014,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,95.6
+2015,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,99.1
+2016,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,97.0
+2017,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,94.7
+2018,Annual,National,SH_ACS_MCV2,Kyrgyzstan,PT,96.244215
 2007,Annual,National,SH_ACS_MCV2,Batken,PT,99.2
 2008,Annual,National,SH_ACS_MCV2,Batken,PT,99.0
 2009,Annual,National,SH_ACS_MCV2,Batken,PT,99.9
@@ -239,10 +239,10 @@ Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
 2016,Annual,National,SH_ACS_MCV2,Osh (city),PT,96.8
 2017,Annual,National,SH_ACS_MCV2,Osh (city),PT,97.7
 2018,Annual,National,SH_ACS_MCV2,Osh (city),PT,99.425085
-2015,Annual,National,SH_ACS_PCV3,,PT,96.8
-2016,Annual,National,SH_ACS_PCV3,,PT,97.2
-2017,Annual,National,SH_ACS_PCV3,,PT,94.2
-2018,Annual,National,SH_ACS_PCV3,,PT,92.0
+2015,Annual,National,SH_ACS_PCV3,Kyrgyzstan,PT,96.8
+2016,Annual,National,SH_ACS_PCV3,Kyrgyzstan,PT,97.2
+2017,Annual,National,SH_ACS_PCV3,Kyrgyzstan,PT,94.2
+2018,Annual,National,SH_ACS_PCV3,Kyrgyzstan,PT,92.0
 2015,Annual,National,SH_ACS_PCV3,Batken,PT,97.3
 2016,Annual,National,SH_ACS_PCV3,Batken,PT,99.3
 2017,Annual,National,SH_ACS_PCV3,Batken,PT,96.3

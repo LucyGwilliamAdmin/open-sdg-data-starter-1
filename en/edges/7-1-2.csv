@@ -1,5 +1,6 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,Degree of urbanisation
-Reporting type,Income or wealth quantile
-Reporting type,Education level
+Reporting type,Reference area
+Reference area,Degree of urbanisation
+Reference area,Income or wealth quantile
+Reference area,Education level

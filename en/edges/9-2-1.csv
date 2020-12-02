@@ -1,3 +1,4 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,Time series-level footnotes
+Reporting type,Reference area
+Reference area,Time series-level footnotes

@@ -1,7 +1,7 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Units,Value
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,,,PT,7.7
-2018,Annual,National,_L_KG_160B01_1,,Female,,Urban,,,,PT,7.9
-2018,Annual,National,_L_KG_160B01_1,,Female,,Rural,,,,PT,7.6
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,,,PT,7.7
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,Urban,,,,PT,7.9
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,Rural,,,,PT,7.6
 2018,Annual,National,_L_KG_160B01_1,Batken,Female,,,,,,PT,0.4
 2018,Annual,National,_L_KG_160B01_1,Jalal-Abad,Female,,,,,,PT,7.3
 2018,Annual,National,_L_KG_160B01_1,Issyk-Kul,Female,,,,,,PT,1.7
@@ -11,24 +11,24 @@ Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degre
 2018,Annual,National,_L_KG_160B01_1,Chui,Female,,,,,,PT,16.6
 2018,Annual,National,_L_KG_160B01_1,Bishkek (city),Female,,,,,,PT,8.7
 2018,Annual,National,_L_KG_160B01_1,Osh (city),Female,,,,,,PT,7.0
-2018,Annual,National,_L_KG_160B01_1,,Female,15 to 19 years old,,,,,PT,6.5
-2018,Annual,National,_L_KG_160B01_1,,Female,15 to 17 years old,,,,,PT,5.7
-2018,Annual,National,_L_KG_160B01_1,,Female,18 to 19 years old,,,,,PT,8.3
-2018,Annual,National,_L_KG_160B01_1,,Female,20 to 24 years old,,,,,PT,9.1
-2018,Annual,National,_L_KG_160B01_1,,Female,25 to 29 years old,,,,,PT,7.1
-2018,Annual,National,_L_KG_160B01_1,,Female,30 to 34 years old,,,,,PT,8.8
-2018,Annual,National,_L_KG_160B01_1,,Female,35 to 39 years old,,,,,PT,8.7
-2018,Annual,National,_L_KG_160B01_1,,Female,40 to 44 years old,,,,,PT,6.4
-2018,Annual,National,_L_KG_160B01_1,,Female,45 to 49 years old,,,,,PT,7.0
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,Early childhood education,,PT,
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,Lower secondary education,,PT,14.0
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,Upper secondary education,,PT,5.9
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,Post-secondary non-tertiary education,,PT,6.9
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,Tertiary education (Bachelor’s and Master's or equivalent),,PT,8.2
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,,Persons with disability,PT,20.7
-2018,Annual,National,_L_KG_160B01_1,,Female,,,,,Persons without disability,PT,7.6
-2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 1 (poorest),,,PT,6.0
-2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 2,,,PT,6.7
-2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 3,,,PT,9.7
-2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 4,,,PT,7.1
-2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 5 (richest),,,PT,8.8
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,15 to 19 years old,,,,,PT,6.5
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,15 to 17 years old,,,,,PT,5.7
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,18 to 19 years old,,,,,PT,8.3
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,20 to 24 years old,,,,,PT,9.1
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,25 to 29 years old,,,,,PT,7.1
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,30 to 34 years old,,,,,PT,8.8
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,35 to 39 years old,,,,,PT,8.7
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,40 to 44 years old,,,,,PT,6.4
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,45 to 49 years old,,,,,PT,7.0
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,Early childhood education,,PT,
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,Lower secondary education,,PT,14.0
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,Upper secondary education,,PT,5.9
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,Post-secondary non-tertiary education,,PT,6.9
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,Tertiary education (Bachelor’s and Master's or equivalent),,PT,8.2
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,,Persons with disability,PT,20.7
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,,,Persons without disability,PT,7.6
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,Quintile 1 (poorest),,,PT,6.0
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,Quintile 2,,,PT,6.7
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,Quintile 3,,,PT,9.7
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,Quintile 4,,,PT,7.1
+2018,Annual,National,_L_KG_160B01_1,Kyrgyzstan,Female,,,Quintile 5 (richest),,,PT,8.8

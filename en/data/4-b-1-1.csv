@@ -1,35 +1,35 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Composite breakdown,Units,Value
-2014,Annual,National,_L_KG_040B01_1,,Country: Russian Federation,NUMBER,465
-2015,Annual,National,_L_KG_040B01_1,,Country: Russian Federation,NUMBER,445
-2016,Annual,National,_L_KG_040B01_1,,Country: Russian Federation,NUMBER,360
-2017,Annual,National,_L_KG_040B01_1,,Country: Russian Federation,NUMBER,364
-2018,Annual,National,_L_KG_040B01_1,,Country: Russian Federation,NUMBER,347
-2019,Annual,National,_L_KG_040B01_1,,Country: Russian Federation,NUMBER,330
-2014,Annual,National,_L_KG_040B01_1,,Country: Republic of Belarus ,NUMBER,3
-2015,Annual,National,_L_KG_040B01_1,,Country: Republic of Belarus ,NUMBER,5
-2016,Annual,National,_L_KG_040B01_1,,Country: Republic of Belarus ,NUMBER,2
-2017,Annual,National,_L_KG_040B01_1,,Country: Republic of Belarus ,NUMBER,5
-2018,Annual,National,_L_KG_040B01_1,,Country: Republic of Belarus ,NUMBER,2
-2014,Annual,National,_L_KG_040B01_1,,Country: Republic of Kazakhstan,NUMBER,1
-2015,Annual,National,_L_KG_040B01_1,,Country: Republic of Kazakhstan,NUMBER,5
-2016,Annual,National,_L_KG_040B01_1,,Country: Republic of Kazakhstan,NUMBER,5
-2017,Annual,National,_L_KG_040B01_1,,Country: Republic of Kazakhstan,NUMBER,5
-2018,Annual,National,_L_KG_040B01_1,,Country: Republic of Kazakhstan,NUMBER,5
-2019,Annual,National,_L_KG_040B01_1,,Country: Republic of Kazakhstan,NUMBER,3
-2014,Annual,National,_L_KG_040B01_1,,Country: Republic of Tajikistan,NUMBER,50
-2015,Annual,National,_L_KG_040B01_1,,Country: Republic of Tajikistan,NUMBER,47
-2016,Annual,National,_L_KG_040B01_1,,Country: Republic of Tajikistan,NUMBER,44
-2017,Annual,National,_L_KG_040B01_1,,Country: Republic of Tajikistan,NUMBER,21
-2018,Annual,National,_L_KG_040B01_1,,Country: Republic of Tajikistan,NUMBER,33
-2014,Annual,National,_L_KG_040B01_1,,Country: People's Republic of China,NUMBER,0
-2015,Annual,National,_L_KG_040B01_1,,Country: People's Republic of China,NUMBER,0
-2016,Annual,National,_L_KG_040B01_1,,Country: People's Republic of China,NUMBER,0
-2017,Annual,National,_L_KG_040B01_1,,Country: People's Republic of China,NUMBER,25
-2018,Annual,National,_L_KG_040B01_1,,Country: People's Republic of China,NUMBER,15
-2019,Annual,National,_L_KG_040B01_1,,Country: People's Republic of China,NUMBER,27
-2014,Annual,National,_L_KG_040B01_1,,Country: Hungary,NUMBER,0
-2015,Annual,National,_L_KG_040B01_1,,Country: Hungary,NUMBER,0
-2016,Annual,National,_L_KG_040B01_1,,Country: Hungary,NUMBER,0
-2017,Annual,National,_L_KG_040B01_1,,Country: Hungary,NUMBER,23
-2018,Annual,National,_L_KG_040B01_1,,Country: Hungary,NUMBER,27
-2019,Annual,National,_L_KG_040B01_1,,Country: Hungary,NUMBER,67
+2014,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Russian Federation,NUMBER,465
+2015,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Russian Federation,NUMBER,445
+2016,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Russian Federation,NUMBER,360
+2017,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Russian Federation,NUMBER,364
+2018,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Russian Federation,NUMBER,347
+2019,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Russian Federation,NUMBER,330
+2014,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Belarus ,NUMBER,3
+2015,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Belarus ,NUMBER,5
+2016,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Belarus ,NUMBER,2
+2017,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Belarus ,NUMBER,5
+2018,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Belarus ,NUMBER,2
+2014,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Kazakhstan,NUMBER,1
+2015,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Kazakhstan,NUMBER,5
+2016,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Kazakhstan,NUMBER,5
+2017,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Kazakhstan,NUMBER,5
+2018,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Kazakhstan,NUMBER,5
+2019,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Kazakhstan,NUMBER,3
+2014,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Tajikistan,NUMBER,50
+2015,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Tajikistan,NUMBER,47
+2016,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Tajikistan,NUMBER,44
+2017,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Tajikistan,NUMBER,21
+2018,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Republic of Tajikistan,NUMBER,33
+2014,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: People's Republic of China,NUMBER,0
+2015,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: People's Republic of China,NUMBER,0
+2016,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: People's Republic of China,NUMBER,0
+2017,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: People's Republic of China,NUMBER,25
+2018,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: People's Republic of China,NUMBER,15
+2019,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: People's Republic of China,NUMBER,27
+2014,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Hungary,NUMBER,0
+2015,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Hungary,NUMBER,0
+2016,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Hungary,NUMBER,0
+2017,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Hungary,NUMBER,23
+2018,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Hungary,NUMBER,27
+2019,Annual,National,_L_KG_040B01_1,Kyrgyzstan,Country: Hungary,NUMBER,67
