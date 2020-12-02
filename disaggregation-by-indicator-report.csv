@@ -1,5 +1,6 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#1-1-1-1a,"REF_AREA, URBANISATION, COMMENT_TS, OBS_STATUS, COMMENT_OBS",5
 #1-2-1,"Территория, Пол, Возраст",3
 #1-2-1-1a,"FREQ, REPORTING_TYPE, REF_AREA, SEX, AGE, URBANISATION, ACTIVITY",7
 #1-2-2,"Территория, Местность, Пол, Возраст",4
