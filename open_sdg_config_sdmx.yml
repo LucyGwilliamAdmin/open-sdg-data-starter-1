@@ -23,6 +23,12 @@ inputs:
     path_pattern: data/*.xml
     dsd: 'SDG_DSD.KG.xml'
     import_codes: true
+    drop_singleton_dimensions: false
+    dimension_map:
+      UNIT_MEASURE: 'Units'
+      SERIES: 'Series'
+      REF_AREA|KG: ''
+    drop_dimensions: SOURCE_DETAIL
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
