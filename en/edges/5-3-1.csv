@@ -1,5 +1,8 @@
 From,To
-SDG Series,Reference area
-Reference area,Income or wealth quantile
-Reference area,Education level
-Reference area,Disability status
+Frequency of observation,Reporting type
+Reporting type,Sex
+Age,Reference area
+Sex,Age
+Age,Income or wealth quantile
+Age,Education level
+Age,Disability status

@@ -1,14 +1,14 @@
-Year,Degree of urbanisation,Income or wealth quantile,Education level,Value
-2018,,,,19.2
-2018,Urban,,,47.2
-2018,Rural,,,3.2
-2018,,,Primary education,6.8
-2018,,,Lower secondary education,10.5
-2018,,,Upper secondary education,11.4
-2018,,,Post-secondary non-tertiary education,19.7
-2018,,,Short-cycle tertiary education,38.9
-2018,,Quintile 1 (poorest),,10.0
-2018,,Quintile 2,,2.6
-2018,,Quintile 3,,6.1
-2018,,Quintile 4,,9.3
-2018,,Quintile 5 (richest),,76.9
+Year,Frequency of observation,Reporting type,Series,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
+2018,Annual,National,EG_EGY_CLEAN,,,,,PT,19.2
+2018,Annual,National,EG_EGY_CLEAN,,Urban,,,PT,47.2
+2018,Annual,National,EG_EGY_CLEAN,,Rural,,,PT,3.2
+2018,Annual,National,EG_EGY_CLEAN,,,,Primary education,PT,6.8
+2018,Annual,National,EG_EGY_CLEAN,,,,Lower secondary education,PT,10.5
+2018,Annual,National,EG_EGY_CLEAN,,,,Upper secondary education,PT,11.4
+2018,Annual,National,EG_EGY_CLEAN,,,,Post-secondary non-tertiary education,PT,19.7
+2018,Annual,National,EG_EGY_CLEAN,,,,Short-cycle tertiary education,PT,38.9
+2018,Annual,National,EG_EGY_CLEAN,,,Quintile 1 (poorest),,PT,10.0
+2018,Annual,National,EG_EGY_CLEAN,,,Quintile 2,,PT,2.6
+2018,Annual,National,EG_EGY_CLEAN,,,Quintile 3,,PT,6.1
+2018,Annual,National,EG_EGY_CLEAN,,,Quintile 4,,PT,9.3
+2018,Annual,National,EG_EGY_CLEAN,,,Quintile 5 (richest),,PT,76.9

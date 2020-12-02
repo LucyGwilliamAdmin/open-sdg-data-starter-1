@@ -1,2 +1,5 @@
 From,To
-Sex,Composite breakdown
+Frequency of observation,Reporting type
+Reporting type,Sex
+Sex,Age
+Age,Composite breakdown

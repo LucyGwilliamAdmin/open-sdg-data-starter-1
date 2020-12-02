@@ -1,4 +1,7 @@
 From,To
-Reference area,Sex
-Reference area,Income or wealth quantile
-Reference area,Education level
+Frequency of observation,Reporting type
+Reporting type,Age
+Age,Reference area
+Age,Sex
+Age,Income or wealth quantile
+Age,Education level

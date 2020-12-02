@@ -1,3 +1,5 @@
 From,To
-Reference area,Sex
-Reference area,Age
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reporting type,Sex
+Reporting type,Age

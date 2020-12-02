@@ -1,1 +1,1 @@
-{"From":["REF_AREA"],"To":["SEX"]}
+{"From":["FREQ","REPORTING_TYPE","REPORTING_TYPE"],"To":["REPORTING_TYPE","REF_AREA","SEX"]}

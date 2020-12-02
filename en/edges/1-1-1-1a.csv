@@ -1,3 +1,5 @@
 From,To
-Reference area,Degree of urbanisation
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reporting type,Degree of urbanisation
 Reference area,Time series-level footnotes

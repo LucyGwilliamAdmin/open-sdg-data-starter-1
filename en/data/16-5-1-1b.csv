@@ -1,31 +1,31 @@
-Year,SDG Series,Sex,Value
-2014,Number of convictions for malfeasance,,378
-2015,Number of convictions for malfeasance,,336
-2016,Number of convictions for malfeasance,,351
-2017,Number of convictions for malfeasance,,234
-2018,Number of convictions for malfeasance,,342
-2014,Number of convictions for сorruption and bribery,,62
-2015,Number of convictions for сorruption and bribery,,69
-2016,Number of convictions for сorruption and bribery,,72
-2017,Number of convictions for сorruption and bribery,,52
-2018,Number of convictions for сorruption and bribery,,56
-2014,Number of convictions for malfeasance,Male,323
-2015,Number of convictions for malfeasance,Male,278
-2016,Number of convictions for malfeasance,Male,286
-2017,Number of convictions for malfeasance,Male,196
-2018,Number of convictions for malfeasance,Male,297
-2014,Number of convictions for сorruption and bribery,Male,57
-2015,Number of convictions for сorruption and bribery,Male,65
-2016,Number of convictions for сorruption and bribery,Male,61
-2017,Number of convictions for сorruption and bribery,Male,44
-2018,Number of convictions for сorruption and bribery,Male,53
-2014,Number of convictions for malfeasance,Female,55
-2015,Number of convictions for malfeasance,Female,58
-2016,Number of convictions for malfeasance,Female,65
-2017,Number of convictions for malfeasance,Female,38
-2018,Number of convictions for malfeasance,Female,45
-2014,Number of convictions for сorruption and bribery,Female,5
-2015,Number of convictions for сorruption and bribery,Female,4
-2016,Number of convictions for сorruption and bribery,Female,11
-2017,Number of convictions for сorruption and bribery,Female,8
-2018,Number of convictions for сorruption and bribery,Female,3
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
+2014,Annual,National,_L_KG_160501_1B1,,,NUMBER,378
+2015,Annual,National,_L_KG_160501_1B1,,,NUMBER,336
+2016,Annual,National,_L_KG_160501_1B1,,,NUMBER,351
+2017,Annual,National,_L_KG_160501_1B1,,,NUMBER,234
+2018,Annual,National,_L_KG_160501_1B1,,,NUMBER,342
+2014,Annual,National,_L_KG_160501_1B2,,,NUMBER,62
+2015,Annual,National,_L_KG_160501_1B2,,,NUMBER,69
+2016,Annual,National,_L_KG_160501_1B2,,,NUMBER,72
+2017,Annual,National,_L_KG_160501_1B2,,,NUMBER,52
+2018,Annual,National,_L_KG_160501_1B2,,,NUMBER,56
+2014,Annual,National,_L_KG_160501_1B1,,Male,NUMBER,323
+2015,Annual,National,_L_KG_160501_1B1,,Male,NUMBER,278
+2016,Annual,National,_L_KG_160501_1B1,,Male,NUMBER,286
+2017,Annual,National,_L_KG_160501_1B1,,Male,NUMBER,196
+2018,Annual,National,_L_KG_160501_1B1,,Male,NUMBER,297
+2014,Annual,National,_L_KG_160501_1B2,,Male,NUMBER,57
+2015,Annual,National,_L_KG_160501_1B2,,Male,NUMBER,65
+2016,Annual,National,_L_KG_160501_1B2,,Male,NUMBER,61
+2017,Annual,National,_L_KG_160501_1B2,,Male,NUMBER,44
+2018,Annual,National,_L_KG_160501_1B2,,Male,NUMBER,53
+2014,Annual,National,_L_KG_160501_1B1,,Female,NUMBER,55
+2015,Annual,National,_L_KG_160501_1B1,,Female,NUMBER,58
+2016,Annual,National,_L_KG_160501_1B1,,Female,NUMBER,65
+2017,Annual,National,_L_KG_160501_1B1,,Female,NUMBER,38
+2018,Annual,National,_L_KG_160501_1B1,,Female,NUMBER,45
+2014,Annual,National,_L_KG_160501_1B2,,Female,NUMBER,5
+2015,Annual,National,_L_KG_160501_1B2,,Female,NUMBER,4
+2016,Annual,National,_L_KG_160501_1B2,,Female,NUMBER,11
+2017,Annual,National,_L_KG_160501_1B2,,Female,NUMBER,8
+2018,Annual,National,_L_KG_160501_1B2,,Female,NUMBER,3

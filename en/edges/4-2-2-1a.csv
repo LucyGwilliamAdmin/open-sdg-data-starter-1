@@ -1,2 +1,5 @@
 From,To
-Reference area,Degree of urbanisation
+Frequency of observation,Reporting type
+Reporting type,Age
+Age,Reference area
+Age,Degree of urbanisation

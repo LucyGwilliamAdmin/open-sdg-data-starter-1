@@ -1,1 +1,1 @@
-{"data":{"Year":["2018","2018","2018"],"URBANISATION":[null,"U","R"],"Value":[29.5,38.4,22.4]},"edges":[]}
+{"data":{"Year":["2018","2018","2018"],"FREQ":["A","A","A"],"REPORTING_TYPE":["N","N","N"],"Series":["VC_PRR_PHYV","VC_PRR_PHYV","VC_PRR_PHYV"],"REF_AREA":[null,null,null],"SEX":["F","F","F"],"AGE":["Y15T49","Y15T49","Y15T49"],"URBANISATION":[null,"U","R"],"Units":["PT","PT","PT"],"Value":[29.5,38.4,22.4]},"edges":{"From":["FREQ","REPORTING_TYPE","SEX","AGE"],"To":["REPORTING_TYPE","SEX","AGE","URBANISATION"]}}

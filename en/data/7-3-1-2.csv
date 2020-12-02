@@ -1,37 +1,37 @@
-Year,Economic activity,Value
-2007,,87.7
-2008,,59.8
-2009,,49.9
-2010,,47.7
-2011,,43.3
-2012,,43.7
-2013,,38.5
-2014,,36.9
-2015,,31.5
-2016,,27.9
-2017,,26.9
-2018,,26.3
-2007,"Agriculture, forestry and fishing",20.5
-2008,"Agriculture, forestry and fishing",15.0
-2009,"Agriculture, forestry and fishing",15.6
-2010,"Agriculture, forestry and fishing",14.3
-2011,"Agriculture, forestry and fishing",14.3
-2012,"Agriculture, forestry and fishing",14.7
-2013,"Agriculture, forestry and fishing",14.9
-2014,"Agriculture, forestry and fishing",12.9
-2015,"Agriculture, forestry and fishing",16.1
-2016,"Agriculture, forestry and fishing",15.8
-2017,"Agriculture, forestry and fishing",16.3
-2018,"Agriculture, forestry and fishing",15.8
-2007,Industry (total),71.8
-2008,Industry (total),46.0
-2009,Industry (total),40.1
-2010,Industry (total),33.1
-2011,Industry (total),30.0
-2012,Industry (total),41.2
-2013,Industry (total),35.0
-2014,Industry (total),43.0
-2015,Industry (total),31.8
-2016,Industry (total),26.3
-2017,Industry (total),25.0
-2018,Industry (total),25.5
+Year,Frequency of observation,Reporting type,Series,Reference area,Economic activity,Units,Value
+2007,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,87.7
+2008,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,59.8
+2009,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,49.9
+2010,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,47.7
+2011,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,43.3
+2012,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,43.7
+2013,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,38.5
+2014,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,36.9
+2015,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,31.5
+2016,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,27.9
+2017,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,26.9
+2018,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,26.3
+2007,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,20.5
+2008,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.0
+2009,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.6
+2010,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
+2011,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
+2012,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.7
+2013,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.9
+2014,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,12.9
+2015,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.1
+2016,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
+2017,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.3
+2018,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
+2007,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,71.8
+2008,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,46.0
+2009,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,40.1
+2010,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,33.1
+2011,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,30.0
+2012,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,41.2
+2013,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,35.0
+2014,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,43.0
+2015,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,31.8
+2016,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,26.3
+2017,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,25.0
+2018,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,25.5

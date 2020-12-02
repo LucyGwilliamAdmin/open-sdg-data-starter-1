@@ -1,2 +1,4 @@
 From,To
-Reference area,Sex
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reporting type,Sex

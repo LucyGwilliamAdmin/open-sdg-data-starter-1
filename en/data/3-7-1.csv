@@ -1,60 +1,60 @@
-Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Value
-2014,Kyrgyzstan,,,,,,42.0
-2018,Kyrgyzstan,,,,,,67.4
-2014,Batken,,,,,,45.0
-2018,Batken,,,,,,48.6
-2014,Jalal-Abad,,,,,,31.4
-2018,Jalal-Abad,,,,,,56.2
-2014,Issyk-Kul,,,,,,46.0
-2018,Issyk-Kul,,,,,,65.1
-2014,Naryn,,,,,,58.9
-2018,Naryn,,,,,,79.8
-2014,Osh,,,,,,38.4
-2018,Osh,,,,,,71.1
-2014,Talas,,,,,,43.4
-2018,Talas,,,,,,79.1
-2014,Chui,,,,,,47.8
-2018,Chui,,,,,,70.7
-2014,Bishkek (city),,,,,,47.0
-2018,Bishkek (city),,,,,,69.6
-2014,Osh (city),,,,,,38.3
-2018,Osh (city),,,,,,71.3
-2014,Kyrgyzstan,,Urban,,,,43.1
-2018,Kyrgyzstan,,Urban,,,,68.6
-2014,Kyrgyzstan,,Rural,,,,41.4
-2018,Kyrgyzstan,,Rural,,,,66.7
-2014,Kyrgyzstan,15 to 19 years old,,,,,17.4
-2018,Kyrgyzstan,15 to 19 years old,,,,,31.7
-2014,Kyrgyzstan,20 to 24 years old,,,,,28.9
-2018,Kyrgyzstan,20 to 24 years old,,,,,53.8
-2014,Kyrgyzstan,25 to 29 years old,,,,,39.2
-2018,Kyrgyzstan,25 to 29 years old,,,,,59.9
-2014,Kyrgyzstan,30 to 34 years old,,,,,50.4
-2018,Kyrgyzstan,30 to 34 years old,,,,,76.2
-2014,Kyrgyzstan,35 to 39 years old,,,,,57.2
-2018,Kyrgyzstan,35 to 39 years old,,,,,74.5
-2014,Kyrgyzstan,40 to 44 years old,,,,,52.2
-2018,Kyrgyzstan,40 to 44 years old,,,,,68.7
-2014,Kyrgyzstan,45 to 49 years old,,,,,29.3
-2018,Kyrgyzstan,45 to 49 years old,,,,,66.0
-2014,Kyrgyzstan,,,,Primary education,,20.4
-2014,Kyrgyzstan,,,,Lower secondary education,,36.5
-2018,Kyrgyzstan,,,,Lower secondary education,,67.8
-2014,Kyrgyzstan,,,,Upper secondary education,,42.1
-2018,Kyrgyzstan,,,,Upper secondary education,,62.9
-2014,Kyrgyzstan,,,,Post-secondary non-tertiary education,,43.3
-2018,Kyrgyzstan,,,,Post-secondary non-tertiary education,,66.2
-2014,Kyrgyzstan,,,,Short-cycle tertiary education,,43.7
-2018,Kyrgyzstan,,,,Short-cycle tertiary education,,74.3
-2018,Kyrgyzstan,,,,,Persons with disability,81.6
-2018,Kyrgyzstan,,,,,Persons without disability,67.1
-2014,Kyrgyzstan,,,Quintile 1 (poorest),,,42.5
-2018,Kyrgyzstan,,,Quintile 1 (poorest),,,66.5
-2014,Kyrgyzstan,,,Quintile 2,,,37.8
-2018,Kyrgyzstan,,,Quintile 2,,,60.7
-2014,Kyrgyzstan,,,Quintile 3,,,39.1
-2018,Kyrgyzstan,,,Quintile 3,,,69.2
-2014,Kyrgyzstan,,,Quintile 4,,,45.1
-2018,Kyrgyzstan,,,Quintile 4,,,69.3
-2014,Kyrgyzstan,,,Quintile 5 (richest),,,45.3
-2018,Kyrgyzstan,,,Quintile 5 (richest),,,71.4
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Units,Value
+2014,Annual,National,SH_FPL_MTMM,,Female,,,,,,PT,42.0
+2018,Annual,National,SH_FPL_MTMM,,Female,,,,,,PT,67.4
+2014,Annual,National,SH_FPL_MTMM,Batken,Female,,,,,,PT,45.0
+2018,Annual,National,SH_FPL_MTMM,Batken,Female,,,,,,PT,48.6
+2014,Annual,National,SH_FPL_MTMM,Jalal-Abad,Female,,,,,,PT,31.4
+2018,Annual,National,SH_FPL_MTMM,Jalal-Abad,Female,,,,,,PT,56.2
+2014,Annual,National,SH_FPL_MTMM,Issyk-Kul,Female,,,,,,PT,46.0
+2018,Annual,National,SH_FPL_MTMM,Issyk-Kul,Female,,,,,,PT,65.1
+2014,Annual,National,SH_FPL_MTMM,Naryn,Female,,,,,,PT,58.9
+2018,Annual,National,SH_FPL_MTMM,Naryn,Female,,,,,,PT,79.8
+2014,Annual,National,SH_FPL_MTMM,Osh,Female,,,,,,PT,38.4
+2018,Annual,National,SH_FPL_MTMM,Osh,Female,,,,,,PT,71.1
+2014,Annual,National,SH_FPL_MTMM,Talas,Female,,,,,,PT,43.4
+2018,Annual,National,SH_FPL_MTMM,Talas,Female,,,,,,PT,79.1
+2014,Annual,National,SH_FPL_MTMM,Chui,Female,,,,,,PT,47.8
+2018,Annual,National,SH_FPL_MTMM,Chui,Female,,,,,,PT,70.7
+2014,Annual,National,SH_FPL_MTMM,Bishkek (city),Female,,,,,,PT,47.0
+2018,Annual,National,SH_FPL_MTMM,Bishkek (city),Female,,,,,,PT,69.6
+2014,Annual,National,SH_FPL_MTMM,Osh (city),Female,,,,,,PT,38.3
+2018,Annual,National,SH_FPL_MTMM,Osh (city),Female,,,,,,PT,71.3
+2014,Annual,National,SH_FPL_MTMM,,Female,,Urban,,,,PT,43.1
+2018,Annual,National,SH_FPL_MTMM,,Female,,Urban,,,,PT,68.6
+2014,Annual,National,SH_FPL_MTMM,,Female,,Rural,,,,PT,41.4
+2018,Annual,National,SH_FPL_MTMM,,Female,,Rural,,,,PT,66.7
+2014,Annual,National,SH_FPL_MTMM,,Female,15 to 19 years old,,,,,PT,17.4
+2018,Annual,National,SH_FPL_MTMM,,Female,15 to 19 years old,,,,,PT,31.7
+2014,Annual,National,SH_FPL_MTMM,,Female,20 to 24 years old,,,,,PT,28.9
+2018,Annual,National,SH_FPL_MTMM,,Female,20 to 24 years old,,,,,PT,53.8
+2014,Annual,National,SH_FPL_MTMM,,Female,25 to 29 years old,,,,,PT,39.2
+2018,Annual,National,SH_FPL_MTMM,,Female,25 to 29 years old,,,,,PT,59.9
+2014,Annual,National,SH_FPL_MTMM,,Female,30 to 34 years old,,,,,PT,50.4
+2018,Annual,National,SH_FPL_MTMM,,Female,30 to 34 years old,,,,,PT,76.2
+2014,Annual,National,SH_FPL_MTMM,,Female,35 to 39 years old,,,,,PT,57.2
+2018,Annual,National,SH_FPL_MTMM,,Female,35 to 39 years old,,,,,PT,74.5
+2014,Annual,National,SH_FPL_MTMM,,Female,40 to 44 years old,,,,,PT,52.2
+2018,Annual,National,SH_FPL_MTMM,,Female,40 to 44 years old,,,,,PT,68.7
+2014,Annual,National,SH_FPL_MTMM,,Female,45 to 49 years old,,,,,PT,29.3
+2018,Annual,National,SH_FPL_MTMM,,Female,45 to 49 years old,,,,,PT,66.0
+2014,Annual,National,SH_FPL_MTMM,,Female,,,,Primary education,,PT,20.4
+2014,Annual,National,SH_FPL_MTMM,,Female,,,,Lower secondary education,,PT,36.5
+2018,Annual,National,SH_FPL_MTMM,,Female,,,,Lower secondary education,,PT,67.8
+2014,Annual,National,SH_FPL_MTMM,,Female,,,,Upper secondary education,,PT,42.1
+2018,Annual,National,SH_FPL_MTMM,,Female,,,,Upper secondary education,,PT,62.9
+2014,Annual,National,SH_FPL_MTMM,,Female,,,,Post-secondary non-tertiary education,,PT,43.3
+2018,Annual,National,SH_FPL_MTMM,,Female,,,,Post-secondary non-tertiary education,,PT,66.2
+2014,Annual,National,SH_FPL_MTMM,,Female,,,,Short-cycle tertiary education,,PT,43.7
+2018,Annual,National,SH_FPL_MTMM,,Female,,,,Short-cycle tertiary education,,PT,74.3
+2018,Annual,National,SH_FPL_MTMM,,Female,,,,,Persons with disability,PT,81.6
+2018,Annual,National,SH_FPL_MTMM,,Female,,,,,Persons without disability,PT,67.1
+2014,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 1 (poorest),,,PT,42.5
+2018,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 1 (poorest),,,PT,66.5
+2014,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 2,,,PT,37.8
+2018,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 2,,,PT,60.7
+2014,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 3,,,PT,39.1
+2018,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 3,,,PT,69.2
+2014,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 4,,,PT,45.1
+2018,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 4,,,PT,69.3
+2014,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 5 (richest),,,PT,45.3
+2018,Annual,National,SH_FPL_MTMM,,Female,,,Quintile 5 (richest),,,PT,71.4

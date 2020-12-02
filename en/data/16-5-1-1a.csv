@@ -1,51 +1,51 @@
-Year,Reference area,Value
-2015,Kyrgyzstan,10.810627
-2016,Kyrgyzstan,16.102629
-2017,Kyrgyzstan,20.2
-2018,Kyrgyzstan,12.4
-2019,Kyrgyzstan,14.109910000000001
-2015,Batken,34.216964000000004
-2016,Batken,51.971709999999995
-2017,Batken,50.7
-2018,Batken,44.9
-2019,Batken,37.375177
-2015,Jalal-Abad,30.828434
-2016,Jalal-Abad,35.669135
-2017,Jalal-Abad,31.6
-2018,Jalal-Abad,28.9
-2019,Jalal-Abad,40.75486
-2015,Issyk-Kul,-8.771443
-2016,Issyk-Kul,19.590714000000002
-2017,Issyk-Kul,25.6
-2018,Issyk-Kul,16.6
-2019,Issyk-Kul,45.71014
-2015,Naryn,-5.438854
-2016,Naryn,-3.7005510000000004
-2017,Naryn,16.3
-2018,Naryn,5.4
-2019,Naryn,24.570798
-2015,Osh,18.022223
-2016,Osh,0.07912999999999999
-2017,Osh,16.9
-2018,Osh,5.4
-2019,Osh,12.597911
-2015,Talas,16.930726999999997
-2016,Talas,15.126176999999998
-2017,Talas,17.2
-2018,Talas,24.8
-2019,Talas,29.450445000000002
-2015,Chui,25.703179000000002
-2016,Chui,26.618610999999998
-2017,Chui,28.8
-2018,Chui,16.2
-2019,Chui,17.355551000000002
-2015,Bishkek (city),-9.015999
-2016,Bishkek (city),-11.403692999999999
-2017,Bishkek (city),-3.4
-2018,Bishkek (city),-12.8
-2019,Bishkek (city),-17.985899
-2015,Osh (city),10.609517
-2016,Osh (city),25.440447
-2017,Osh (city),37.2
-2018,Osh (city),39.6
-2019,Osh (city),22.751648
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2015,Annual,National,_L_KG_160501_1A,,IX,10.810627
+2016,Annual,National,_L_KG_160501_1A,,IX,16.102629
+2017,Annual,National,_L_KG_160501_1A,,IX,20.2
+2018,Annual,National,_L_KG_160501_1A,,IX,12.4
+2019,Annual,National,_L_KG_160501_1A,,IX,14.109910000000001
+2015,Annual,National,_L_KG_160501_1A,Batken,IX,34.216964000000004
+2016,Annual,National,_L_KG_160501_1A,Batken,IX,51.971709999999995
+2017,Annual,National,_L_KG_160501_1A,Batken,IX,50.7
+2018,Annual,National,_L_KG_160501_1A,Batken,IX,44.9
+2019,Annual,National,_L_KG_160501_1A,Batken,IX,37.375177
+2015,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,30.828434
+2016,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,35.669135
+2017,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,31.6
+2018,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,28.9
+2019,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,40.75486
+2015,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,-8.771443
+2016,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,19.590714000000002
+2017,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,25.6
+2018,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,16.6
+2019,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,45.71014
+2015,Annual,National,_L_KG_160501_1A,Naryn,IX,-5.438854
+2016,Annual,National,_L_KG_160501_1A,Naryn,IX,-3.7005510000000004
+2017,Annual,National,_L_KG_160501_1A,Naryn,IX,16.3
+2018,Annual,National,_L_KG_160501_1A,Naryn,IX,5.4
+2019,Annual,National,_L_KG_160501_1A,Naryn,IX,24.570798
+2015,Annual,National,_L_KG_160501_1A,Osh,IX,18.022223
+2016,Annual,National,_L_KG_160501_1A,Osh,IX,0.07912999999999999
+2017,Annual,National,_L_KG_160501_1A,Osh,IX,16.9
+2018,Annual,National,_L_KG_160501_1A,Osh,IX,5.4
+2019,Annual,National,_L_KG_160501_1A,Osh,IX,12.597911
+2015,Annual,National,_L_KG_160501_1A,Talas,IX,16.930726999999997
+2016,Annual,National,_L_KG_160501_1A,Talas,IX,15.126176999999998
+2017,Annual,National,_L_KG_160501_1A,Talas,IX,17.2
+2018,Annual,National,_L_KG_160501_1A,Talas,IX,24.8
+2019,Annual,National,_L_KG_160501_1A,Talas,IX,29.450445000000002
+2015,Annual,National,_L_KG_160501_1A,Chui,IX,25.703179000000002
+2016,Annual,National,_L_KG_160501_1A,Chui,IX,26.618610999999998
+2017,Annual,National,_L_KG_160501_1A,Chui,IX,28.8
+2018,Annual,National,_L_KG_160501_1A,Chui,IX,16.2
+2019,Annual,National,_L_KG_160501_1A,Chui,IX,17.355551000000002
+2015,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-9.015999
+2016,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-11.403692999999999
+2017,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-3.4
+2018,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-12.8
+2019,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-17.985899
+2015,Annual,National,_L_KG_160501_1A,Osh (city),IX,10.609517
+2016,Annual,National,_L_KG_160501_1A,Osh (city),IX,25.440447
+2017,Annual,National,_L_KG_160501_1A,Osh (city),IX,37.2
+2018,Annual,National,_L_KG_160501_1A,Osh (city),IX,39.6
+2019,Annual,National,_L_KG_160501_1A,Osh (city),IX,22.751648

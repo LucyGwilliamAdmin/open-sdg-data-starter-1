@@ -1,34 +1,34 @@
-Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Value
-2018,Kyrgyzstan,,,,,,7.7
-2018,Kyrgyzstan,,Urban,,,,7.9
-2018,Kyrgyzstan,,Rural,,,,7.6
-2018,Batken,,,,,,0.4
-2018,Jalal-Abad,,,,,,7.3
-2018,Issyk-Kul,,,,,,1.7
-2018,Naryn,,,,,,2.8
-2018,Osh,,,,,,6.5
-2018,Talas,,,,,,5.0
-2018,Chui,,,,,,16.6
-2018,Bishkek (city),,,,,,8.7
-2018,Osh (city),,,,,,7.0
-2018,Kyrgyzstan,15 to 19 years old,,,,,6.5
-2018,Kyrgyzstan,15 to 17 years old,,,,,5.7
-2018,Kyrgyzstan,18 to 19 years old,,,,,8.3
-2018,Kyrgyzstan,20 to 24 years old,,,,,9.1
-2018,Kyrgyzstan,25 to 29 years old,,,,,7.1
-2018,Kyrgyzstan,30 to 34 years old,,,,,8.8
-2018,Kyrgyzstan,35 to 39 years old,,,,,8.7
-2018,Kyrgyzstan,40 to 44 years old,,,,,6.4
-2018,Kyrgyzstan,45 to 49 years old,,,,,7.0
-2018,Kyrgyzstan,,,,Early childhood education,,
-2018,Kyrgyzstan,,,,Lower secondary education,,14.0
-2018,Kyrgyzstan,,,,Upper secondary education,,5.9
-2018,Kyrgyzstan,,,,Post-secondary non-tertiary education,,6.9
-2018,Kyrgyzstan,,,,Tertiary education (Bachelor’s and Master's or equivalent),,8.2
-2018,Kyrgyzstan,,,,,Persons with disability,20.7
-2018,Kyrgyzstan,,,,,Persons without disability,7.6
-2018,Kyrgyzstan,,,Quintile 1 (poorest),,,6.0
-2018,Kyrgyzstan,,,Quintile 2,,,6.7
-2018,Kyrgyzstan,,,Quintile 3,,,9.7
-2018,Kyrgyzstan,,,Quintile 4,,,7.1
-2018,Kyrgyzstan,,,Quintile 5 (richest),,,8.8
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Units,Value
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,,,PT,7.7
+2018,Annual,National,_L_KG_160B01_1,,Female,,Urban,,,,PT,7.9
+2018,Annual,National,_L_KG_160B01_1,,Female,,Rural,,,,PT,7.6
+2018,Annual,National,_L_KG_160B01_1,Batken,Female,,,,,,PT,0.4
+2018,Annual,National,_L_KG_160B01_1,Jalal-Abad,Female,,,,,,PT,7.3
+2018,Annual,National,_L_KG_160B01_1,Issyk-Kul,Female,,,,,,PT,1.7
+2018,Annual,National,_L_KG_160B01_1,Naryn,Female,,,,,,PT,2.8
+2018,Annual,National,_L_KG_160B01_1,Osh,Female,,,,,,PT,6.5
+2018,Annual,National,_L_KG_160B01_1,Talas,Female,,,,,,PT,5.0
+2018,Annual,National,_L_KG_160B01_1,Chui,Female,,,,,,PT,16.6
+2018,Annual,National,_L_KG_160B01_1,Bishkek (city),Female,,,,,,PT,8.7
+2018,Annual,National,_L_KG_160B01_1,Osh (city),Female,,,,,,PT,7.0
+2018,Annual,National,_L_KG_160B01_1,,Female,15 to 19 years old,,,,,PT,6.5
+2018,Annual,National,_L_KG_160B01_1,,Female,15 to 17 years old,,,,,PT,5.7
+2018,Annual,National,_L_KG_160B01_1,,Female,18 to 19 years old,,,,,PT,8.3
+2018,Annual,National,_L_KG_160B01_1,,Female,20 to 24 years old,,,,,PT,9.1
+2018,Annual,National,_L_KG_160B01_1,,Female,25 to 29 years old,,,,,PT,7.1
+2018,Annual,National,_L_KG_160B01_1,,Female,30 to 34 years old,,,,,PT,8.8
+2018,Annual,National,_L_KG_160B01_1,,Female,35 to 39 years old,,,,,PT,8.7
+2018,Annual,National,_L_KG_160B01_1,,Female,40 to 44 years old,,,,,PT,6.4
+2018,Annual,National,_L_KG_160B01_1,,Female,45 to 49 years old,,,,,PT,7.0
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,Early childhood education,,PT,
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,Lower secondary education,,PT,14.0
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,Upper secondary education,,PT,5.9
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,Post-secondary non-tertiary education,,PT,6.9
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,Tertiary education (Bachelor’s and Master's or equivalent),,PT,8.2
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,,Persons with disability,PT,20.7
+2018,Annual,National,_L_KG_160B01_1,,Female,,,,,Persons without disability,PT,7.6
+2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 1 (poorest),,,PT,6.0
+2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 2,,,PT,6.7
+2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 3,,,PT,9.7
+2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 4,,,PT,7.1
+2018,Annual,National,_L_KG_160B01_1,,Female,,,Quintile 5 (richest),,,PT,8.8

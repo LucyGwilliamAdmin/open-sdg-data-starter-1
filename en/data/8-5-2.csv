@@ -1,256 +1,256 @@
-Year,Reference area,Sex,Age,Value
-2010,Kyrgyzstan,,,8.6
-2013,Kyrgyzstan,,,8.3
-2014,Kyrgyzstan,,,8.0
-2015,Kyrgyzstan,,,7.6
-2016,Kyrgyzstan,,,7.2
-2017,Kyrgyzstan,,,6.9
-2018,Kyrgyzstan,,,6.2
-2010,Kyrgyzstan,Male,,9.9
-2013,Kyrgyzstan,Male,,9.7
-2014,Kyrgyzstan,Male,,9.5
-2015,Kyrgyzstan,Male,,9.0
-2016,Kyrgyzstan,Male,,8.7
-2017,Kyrgyzstan,Male,,8.9
-2018,Kyrgyzstan,Male,,6.9
-2010,Kyrgyzstan,Female,,7.7
-2013,Kyrgyzstan,Female,,7.4
-2014,Kyrgyzstan,Female,,7.0
-2015,Kyrgyzstan,Female,,6.5
-2016,Kyrgyzstan,Female,,6.2
-2017,Kyrgyzstan,Female,,5.6
-2018,Kyrgyzstan,Female,,5.7
-2010,Batken,,,10.6
-2013,Batken,,,12.7
-2014,Batken,,,12.6
-2015,Batken,,,10.9
-2016,Batken,,,10.2
-2017,Batken,,,9.9
-2018,Batken,,,9.0
-2010,Batken,Male,,15.8
-2013,Batken,Male,,18.4
-2014,Batken,Male,,18.7
-2015,Batken,Male,,16.5
-2016,Batken,Male,,15.3
-2017,Batken,Male,,16.0
-2018,Batken,Male,,12.2
-2010,Batken,Female,,7.2
-2013,Batken,Female,,9.8
-2014,Batken,Female,,9.6
-2015,Batken,Female,,7.6
-2016,Batken,Female,,7.1
-2017,Batken,Female,,6.3
-2018,Batken,Female,,7.3
-2010,Jalal-Abad,,,7.8
-2013,Jalal-Abad,,,8.2
-2014,Jalal-Abad,,,7.6
-2015,Jalal-Abad,,,7.7
-2016,Jalal-Abad,,,7.5
-2017,Jalal-Abad,,,7.2
-2018,Jalal-Abad,,,6.2
-2010,Jalal-Abad,Male,,8.9
-2013,Jalal-Abad,Male,,10.3
-2014,Jalal-Abad,Male,,10.0
-2015,Jalal-Abad,Male,,9.9
-2016,Jalal-Abad,Male,,10.3
-2017,Jalal-Abad,Male,,10.5
-2018,Jalal-Abad,Male,,9.1
-2010,Jalal-Abad,Female,,7.1
-2013,Jalal-Abad,Female,,6.7
-2014,Jalal-Abad,Female,,6.0
-2015,Jalal-Abad,Female,,6.1
-2016,Jalal-Abad,Female,,5.8
-2017,Jalal-Abad,Female,,5.3
-2018,Jalal-Abad,Female,,4.7
-2010,Issyk-Kul,,,10.2
-2013,Issyk-Kul,,,9.5
-2014,Issyk-Kul,,,9.3
-2015,Issyk-Kul,,,9.1
-2016,Issyk-Kul,,,8.9
-2017,Issyk-Kul,,,8.7
-2018,Issyk-Kul,,,8.4
-2010,Issyk-Kul,Male,,10.1
-2013,Issyk-Kul,Male,,9.4
-2014,Issyk-Kul,Male,,10.1
-2015,Issyk-Kul,Male,,9.6
-2016,Issyk-Kul,Male,,8.5
-2017,Issyk-Kul,Male,,8.0
-2018,Issyk-Kul,Male,,4.9
-2010,Issyk-Kul,Female,,10.3
-2013,Issyk-Kul,Female,,9.5
-2014,Issyk-Kul,Female,,8.7
-2015,Issyk-Kul,Female,,8.7
-2016,Issyk-Kul,Female,,9.1
-2017,Issyk-Kul,Female,,9.0
-2018,Issyk-Kul,Female,,10.2
-2010,Naryn,,,10.3
-2013,Naryn,,,9.1
-2014,Naryn,,,9.7
-2015,Naryn,,,9.3
-2016,Naryn,,,9.0
-2017,Naryn,,,8.8
-2018,Naryn,,,8.8
-2010,Naryn,Male,,14.7
-2013,Naryn,Male,,14.2
-2014,Naryn,Male,,15.4
-2015,Naryn,Male,,13.7
-2016,Naryn,Male,,14.6
-2017,Naryn,Male,,12.3
-2018,Naryn,Male,,15.0
-2010,Naryn,Female,,8.2
-2013,Naryn,Female,,6.8
-2014,Naryn,Female,,7.4
-2015,Naryn,Female,,7.6
-2016,Naryn,Female,,6.6
-2017,Naryn,Female,,7.1
-2018,Naryn,Female,,6.2
-2010,Osh,,,6.61
-2013,Osh,,,6.3
-2014,Osh,,,6.6
-2015,Osh,,,6.0
-2016,Osh,,,5.5
-2017,Osh,,,5.1
-2018,Osh,,,4.2
-2010,Osh,Male,,7.8
-2013,Osh,Male,,7.4
-2014,Osh,Male,,7.3
-2015,Osh,Male,,7.7
-2016,Osh,Male,,7.1
-2017,Osh,Male,,7.7
-2018,Osh,Male,,6.6
-2010,Osh,Female,,5.9
-2013,Osh,Female,,5.6
-2014,Osh,Female,,6.0
-2015,Osh,Female,,4.8
-2016,Osh,Female,,4.4
-2017,Osh,Female,,3.5
-2018,Osh,Female,,2.7
-2010,Talas,,,5.1
-2013,Talas,,,3.7
-2014,Talas,,,3.9
-2015,Talas,,,3.3
-2016,Talas,,,2.8
-2017,Talas,,,2.5
-2018,Talas,,,2.5
-2010,Talas,Male,,5.2
-2013,Talas,Male,,4.8
-2014,Talas,Male,,6.5
-2015,Talas,Male,,5.6
-2016,Talas,Male,,5.0
-2017,Talas,Male,,4.6
-2018,Talas,Male,,3.6
-2010,Talas,Female,,4.9
-2013,Talas,Female,,2.8
-2014,Talas,Female,,1.7
-2015,Talas,Female,,1.3
-2016,Talas,Female,,1.2
-2017,Talas,Female,,0.9
-2018,Talas,Female,,1.7
-2010,Chui,,,10.2
-2013,Chui,,,9.8
-2014,Chui,,,8.9
-2015,Chui,,,8.6
-2016,Chui,,,8.4
-2017,Chui,,,8.1
-2018,Chui,,,7.3
-2010,Chui,Male,,11.4
-2013,Chui,Male,,10.8
-2014,Chui,Male,,9.6
-2015,Chui,Male,,8.2
-2016,Chui,Male,,8.9
-2017,Chui,Male,,9.1
-2018,Chui,Male,,7.4
-2010,Chui,Female,,9.3
-2013,Chui,Female,,9.1
-2014,Chui,Female,,8.4
-2015,Chui,Female,,8.9
-2016,Chui,Female,,8.0
-2017,Chui,Female,,7.4
-2018,Chui,Female,,7.3
-2010,Bishkek (city),,,10.0
-2013,Bishkek (city),,,9.4
-2014,Bishkek (city),,,8.9
-2015,Bishkek (city),,,8.1
-2016,Bishkek (city),,,7.7
-2017,Bishkek (city),,,7.3
-2018,Bishkek (city),,,6.7
-2010,Bishkek (city),Male,,10.6
-2013,Bishkek (city),Male,,9.7
-2014,Bishkek (city),Male,,9.5
-2015,Bishkek (city),Male,,8.4
-2016,Bishkek (city),Male,,7.6
-2017,Bishkek (city),Male,,7.9
-2018,Bishkek (city),Male,,5.0
-2010,Bishkek (city),Female,,9.5
-2013,Bishkek (city),Female,,9.3
-2014,Bishkek (city),Female,,8.4
-2015,Bishkek (city),Female,,7.7
-2016,Bishkek (city),Female,,7.8
-2017,Bishkek (city),Female,,6.7
-2018,Bishkek (city),Female,,8.2
-2013,Osh (city),,,4.6
-2014,Osh (city),,,4.2
-2015,Osh (city),,,3.9
-2016,Osh (city),,,3.6
-2017,Osh (city),,,3.5
-2018,Osh (city),,,3.0
-2013,Osh (city),Male,,3.8
-2014,Osh (city),Male,,5.2
-2015,Osh (city),Male,,5.6
-2016,Osh (city),Male,,6.3
-2017,Osh (city),Male,,4.5
-2018,Osh (city),Male,,3.5
-2013,Osh (city),Female,,5.0
-2014,Osh (city),Female,,3.8
-2015,Osh (city),Female,,3.1
-2016,Osh (city),Female,,2.5
-2017,Osh (city),Female,,3.0
-2018,Osh (city),Female,,2.7
-2010,Kyrgyzstan,,15 to 19 years old,19.1
-2013,Kyrgyzstan,,15 to 19 years old,16.2
-2014,Kyrgyzstan,,15 to 19 years old,17.7
-2015,Kyrgyzstan,,15 to 19 years old,17.3
-2016,Kyrgyzstan,,15 to 19 years old,19.9
-2017,Kyrgyzstan,,15 to 19 years old,18.3
-2018,Kyrgyzstan,,15 to 19 years old,13.9
-2010,Kyrgyzstan,,20 to 29 years old,12.4
-2013,Kyrgyzstan,,20 to 29 years old,10.4
-2014,Kyrgyzstan,,20 to 29 years old,10.2
-2015,Kyrgyzstan,,20 to 29 years old,10.5
-2016,Kyrgyzstan,,20 to 29 years old,10.4
-2017,Kyrgyzstan,,20 to 29 years old,10.2
-2018,Kyrgyzstan,,20 to 29 years old,9.5
-2010,Kyrgyzstan,,30 to 39 years old,6.2
-2013,Kyrgyzstan,,30 to 39 years old,7.2
-2014,Kyrgyzstan,,30 to 39 years old,6.7
-2015,Kyrgyzstan,,30 to 39 years old,6.2
-2016,Kyrgyzstan,,30 to 39 years old,5.9
-2017,Kyrgyzstan,,30 to 39 years old,5.4
-2018,Kyrgyzstan,,30 to 39 years old,4.6
-2010,Kyrgyzstan,,40 to 49 years old,5.9
-2013,Kyrgyzstan,,40 to 49 years old,6.4
-2014,Kyrgyzstan,,40 to 49 years old,6.7
-2015,Kyrgyzstan,,40 to 49 years old,5.8
-2016,Kyrgyzstan,,40 to 49 years old,5.3
-2017,Kyrgyzstan,,40 to 49 years old,5.3
-2018,Kyrgyzstan,,40 to 49 years old,4.3
-2010,Kyrgyzstan,,50 to 59 years old,4.8
-2013,Kyrgyzstan,,50 to 59 years old,6.1
-2014,Kyrgyzstan,,50 to 59 years old,5.1
-2015,Kyrgyzstan,,50 to 59 years old,4.2
-2016,Kyrgyzstan,,50 to 59 years old,3.5
-2017,Kyrgyzstan,,50 to 59 years old,3.8
-2018,Kyrgyzstan,,50 to 59 years old,4.2
-2010,Kyrgyzstan,,60 to 69 years old,2.3
-2013,Kyrgyzstan,,60 to 69 years old,3.2
-2014,Kyrgyzstan,,60 to 69 years old,2.6
-2015,Kyrgyzstan,,60 to 69 years old,2.8
-2016,Kyrgyzstan,,60 to 69 years old,1.3
-2017,Kyrgyzstan,,60 to 69 years old,1.6
-2018,Kyrgyzstan,,60 to 69 years old,2.7
-2010,Kyrgyzstan,,70 years old and over,0.6
-2013,Kyrgyzstan,,70 years old and over,1.6
-2014,Kyrgyzstan,,70 years old and over,2.8
-2015,Kyrgyzstan,,70 years old and over,1.4
-2016,Kyrgyzstan,,70 years old and over,0.9
-2017,Kyrgyzstan,,70 years old and over,0.3
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Units,Value
+2010,Annual,National,SL_TLF_UEM,,,,PT,8.6
+2013,Annual,National,SL_TLF_UEM,,,,PT,8.3
+2014,Annual,National,SL_TLF_UEM,,,,PT,8.0
+2015,Annual,National,SL_TLF_UEM,,,,PT,7.6
+2016,Annual,National,SL_TLF_UEM,,,,PT,7.2
+2017,Annual,National,SL_TLF_UEM,,,,PT,6.9
+2018,Annual,National,SL_TLF_UEM,,,,PT,6.2
+2010,Annual,National,SL_TLF_UEM,,Male,,PT,9.9
+2013,Annual,National,SL_TLF_UEM,,Male,,PT,9.7
+2014,Annual,National,SL_TLF_UEM,,Male,,PT,9.5
+2015,Annual,National,SL_TLF_UEM,,Male,,PT,9.0
+2016,Annual,National,SL_TLF_UEM,,Male,,PT,8.7
+2017,Annual,National,SL_TLF_UEM,,Male,,PT,8.9
+2018,Annual,National,SL_TLF_UEM,,Male,,PT,6.9
+2010,Annual,National,SL_TLF_UEM,,Female,,PT,7.7
+2013,Annual,National,SL_TLF_UEM,,Female,,PT,7.4
+2014,Annual,National,SL_TLF_UEM,,Female,,PT,7.0
+2015,Annual,National,SL_TLF_UEM,,Female,,PT,6.5
+2016,Annual,National,SL_TLF_UEM,,Female,,PT,6.2
+2017,Annual,National,SL_TLF_UEM,,Female,,PT,5.6
+2018,Annual,National,SL_TLF_UEM,,Female,,PT,5.7
+2010,Annual,National,SL_TLF_UEM,Batken,,,PT,10.6
+2013,Annual,National,SL_TLF_UEM,Batken,,,PT,12.7
+2014,Annual,National,SL_TLF_UEM,Batken,,,PT,12.6
+2015,Annual,National,SL_TLF_UEM,Batken,,,PT,10.9
+2016,Annual,National,SL_TLF_UEM,Batken,,,PT,10.2
+2017,Annual,National,SL_TLF_UEM,Batken,,,PT,9.9
+2018,Annual,National,SL_TLF_UEM,Batken,,,PT,9.0
+2010,Annual,National,SL_TLF_UEM,Batken,Male,,PT,15.8
+2013,Annual,National,SL_TLF_UEM,Batken,Male,,PT,18.4
+2014,Annual,National,SL_TLF_UEM,Batken,Male,,PT,18.7
+2015,Annual,National,SL_TLF_UEM,Batken,Male,,PT,16.5
+2016,Annual,National,SL_TLF_UEM,Batken,Male,,PT,15.3
+2017,Annual,National,SL_TLF_UEM,Batken,Male,,PT,16.0
+2018,Annual,National,SL_TLF_UEM,Batken,Male,,PT,12.2
+2010,Annual,National,SL_TLF_UEM,Batken,Female,,PT,7.2
+2013,Annual,National,SL_TLF_UEM,Batken,Female,,PT,9.8
+2014,Annual,National,SL_TLF_UEM,Batken,Female,,PT,9.6
+2015,Annual,National,SL_TLF_UEM,Batken,Female,,PT,7.6
+2016,Annual,National,SL_TLF_UEM,Batken,Female,,PT,7.1
+2017,Annual,National,SL_TLF_UEM,Batken,Female,,PT,6.3
+2018,Annual,National,SL_TLF_UEM,Batken,Female,,PT,7.3
+2010,Annual,National,SL_TLF_UEM,Jalal-Abad,,,PT,7.8
+2013,Annual,National,SL_TLF_UEM,Jalal-Abad,,,PT,8.2
+2014,Annual,National,SL_TLF_UEM,Jalal-Abad,,,PT,7.6
+2015,Annual,National,SL_TLF_UEM,Jalal-Abad,,,PT,7.7
+2016,Annual,National,SL_TLF_UEM,Jalal-Abad,,,PT,7.5
+2017,Annual,National,SL_TLF_UEM,Jalal-Abad,,,PT,7.2
+2018,Annual,National,SL_TLF_UEM,Jalal-Abad,,,PT,6.2
+2010,Annual,National,SL_TLF_UEM,Jalal-Abad,Male,,PT,8.9
+2013,Annual,National,SL_TLF_UEM,Jalal-Abad,Male,,PT,10.3
+2014,Annual,National,SL_TLF_UEM,Jalal-Abad,Male,,PT,10.0
+2015,Annual,National,SL_TLF_UEM,Jalal-Abad,Male,,PT,9.9
+2016,Annual,National,SL_TLF_UEM,Jalal-Abad,Male,,PT,10.3
+2017,Annual,National,SL_TLF_UEM,Jalal-Abad,Male,,PT,10.5
+2018,Annual,National,SL_TLF_UEM,Jalal-Abad,Male,,PT,9.1
+2010,Annual,National,SL_TLF_UEM,Jalal-Abad,Female,,PT,7.1
+2013,Annual,National,SL_TLF_UEM,Jalal-Abad,Female,,PT,6.7
+2014,Annual,National,SL_TLF_UEM,Jalal-Abad,Female,,PT,6.0
+2015,Annual,National,SL_TLF_UEM,Jalal-Abad,Female,,PT,6.1
+2016,Annual,National,SL_TLF_UEM,Jalal-Abad,Female,,PT,5.8
+2017,Annual,National,SL_TLF_UEM,Jalal-Abad,Female,,PT,5.3
+2018,Annual,National,SL_TLF_UEM,Jalal-Abad,Female,,PT,4.7
+2010,Annual,National,SL_TLF_UEM,Issyk-Kul,,,PT,10.2
+2013,Annual,National,SL_TLF_UEM,Issyk-Kul,,,PT,9.5
+2014,Annual,National,SL_TLF_UEM,Issyk-Kul,,,PT,9.3
+2015,Annual,National,SL_TLF_UEM,Issyk-Kul,,,PT,9.1
+2016,Annual,National,SL_TLF_UEM,Issyk-Kul,,,PT,8.9
+2017,Annual,National,SL_TLF_UEM,Issyk-Kul,,,PT,8.7
+2018,Annual,National,SL_TLF_UEM,Issyk-Kul,,,PT,8.4
+2010,Annual,National,SL_TLF_UEM,Issyk-Kul,Male,,PT,10.1
+2013,Annual,National,SL_TLF_UEM,Issyk-Kul,Male,,PT,9.4
+2014,Annual,National,SL_TLF_UEM,Issyk-Kul,Male,,PT,10.1
+2015,Annual,National,SL_TLF_UEM,Issyk-Kul,Male,,PT,9.6
+2016,Annual,National,SL_TLF_UEM,Issyk-Kul,Male,,PT,8.5
+2017,Annual,National,SL_TLF_UEM,Issyk-Kul,Male,,PT,8.0
+2018,Annual,National,SL_TLF_UEM,Issyk-Kul,Male,,PT,4.9
+2010,Annual,National,SL_TLF_UEM,Issyk-Kul,Female,,PT,10.3
+2013,Annual,National,SL_TLF_UEM,Issyk-Kul,Female,,PT,9.5
+2014,Annual,National,SL_TLF_UEM,Issyk-Kul,Female,,PT,8.7
+2015,Annual,National,SL_TLF_UEM,Issyk-Kul,Female,,PT,8.7
+2016,Annual,National,SL_TLF_UEM,Issyk-Kul,Female,,PT,9.1
+2017,Annual,National,SL_TLF_UEM,Issyk-Kul,Female,,PT,9.0
+2018,Annual,National,SL_TLF_UEM,Issyk-Kul,Female,,PT,10.2
+2010,Annual,National,SL_TLF_UEM,Naryn,,,PT,10.3
+2013,Annual,National,SL_TLF_UEM,Naryn,,,PT,9.1
+2014,Annual,National,SL_TLF_UEM,Naryn,,,PT,9.7
+2015,Annual,National,SL_TLF_UEM,Naryn,,,PT,9.3
+2016,Annual,National,SL_TLF_UEM,Naryn,,,PT,9.0
+2017,Annual,National,SL_TLF_UEM,Naryn,,,PT,8.8
+2018,Annual,National,SL_TLF_UEM,Naryn,,,PT,8.8
+2010,Annual,National,SL_TLF_UEM,Naryn,Male,,PT,14.7
+2013,Annual,National,SL_TLF_UEM,Naryn,Male,,PT,14.2
+2014,Annual,National,SL_TLF_UEM,Naryn,Male,,PT,15.4
+2015,Annual,National,SL_TLF_UEM,Naryn,Male,,PT,13.7
+2016,Annual,National,SL_TLF_UEM,Naryn,Male,,PT,14.6
+2017,Annual,National,SL_TLF_UEM,Naryn,Male,,PT,12.3
+2018,Annual,National,SL_TLF_UEM,Naryn,Male,,PT,15.0
+2010,Annual,National,SL_TLF_UEM,Naryn,Female,,PT,8.2
+2013,Annual,National,SL_TLF_UEM,Naryn,Female,,PT,6.8
+2014,Annual,National,SL_TLF_UEM,Naryn,Female,,PT,7.4
+2015,Annual,National,SL_TLF_UEM,Naryn,Female,,PT,7.6
+2016,Annual,National,SL_TLF_UEM,Naryn,Female,,PT,6.6
+2017,Annual,National,SL_TLF_UEM,Naryn,Female,,PT,7.1
+2018,Annual,National,SL_TLF_UEM,Naryn,Female,,PT,6.2
+2010,Annual,National,SL_TLF_UEM,Osh,,,PT,6.61
+2013,Annual,National,SL_TLF_UEM,Osh,,,PT,6.3
+2014,Annual,National,SL_TLF_UEM,Osh,,,PT,6.6
+2015,Annual,National,SL_TLF_UEM,Osh,,,PT,6.0
+2016,Annual,National,SL_TLF_UEM,Osh,,,PT,5.5
+2017,Annual,National,SL_TLF_UEM,Osh,,,PT,5.1
+2018,Annual,National,SL_TLF_UEM,Osh,,,PT,4.2
+2010,Annual,National,SL_TLF_UEM,Osh,Male,,PT,7.8
+2013,Annual,National,SL_TLF_UEM,Osh,Male,,PT,7.4
+2014,Annual,National,SL_TLF_UEM,Osh,Male,,PT,7.3
+2015,Annual,National,SL_TLF_UEM,Osh,Male,,PT,7.7
+2016,Annual,National,SL_TLF_UEM,Osh,Male,,PT,7.1
+2017,Annual,National,SL_TLF_UEM,Osh,Male,,PT,7.7
+2018,Annual,National,SL_TLF_UEM,Osh,Male,,PT,6.6
+2010,Annual,National,SL_TLF_UEM,Osh,Female,,PT,5.9
+2013,Annual,National,SL_TLF_UEM,Osh,Female,,PT,5.6
+2014,Annual,National,SL_TLF_UEM,Osh,Female,,PT,6.0
+2015,Annual,National,SL_TLF_UEM,Osh,Female,,PT,4.8
+2016,Annual,National,SL_TLF_UEM,Osh,Female,,PT,4.4
+2017,Annual,National,SL_TLF_UEM,Osh,Female,,PT,3.5
+2018,Annual,National,SL_TLF_UEM,Osh,Female,,PT,2.7
+2010,Annual,National,SL_TLF_UEM,Talas,,,PT,5.1
+2013,Annual,National,SL_TLF_UEM,Talas,,,PT,3.7
+2014,Annual,National,SL_TLF_UEM,Talas,,,PT,3.9
+2015,Annual,National,SL_TLF_UEM,Talas,,,PT,3.3
+2016,Annual,National,SL_TLF_UEM,Talas,,,PT,2.8
+2017,Annual,National,SL_TLF_UEM,Talas,,,PT,2.5
+2018,Annual,National,SL_TLF_UEM,Talas,,,PT,2.5
+2010,Annual,National,SL_TLF_UEM,Talas,Male,,PT,5.2
+2013,Annual,National,SL_TLF_UEM,Talas,Male,,PT,4.8
+2014,Annual,National,SL_TLF_UEM,Talas,Male,,PT,6.5
+2015,Annual,National,SL_TLF_UEM,Talas,Male,,PT,5.6
+2016,Annual,National,SL_TLF_UEM,Talas,Male,,PT,5.0
+2017,Annual,National,SL_TLF_UEM,Talas,Male,,PT,4.6
+2018,Annual,National,SL_TLF_UEM,Talas,Male,,PT,3.6
+2010,Annual,National,SL_TLF_UEM,Talas,Female,,PT,4.9
+2013,Annual,National,SL_TLF_UEM,Talas,Female,,PT,2.8
+2014,Annual,National,SL_TLF_UEM,Talas,Female,,PT,1.7
+2015,Annual,National,SL_TLF_UEM,Talas,Female,,PT,1.3
+2016,Annual,National,SL_TLF_UEM,Talas,Female,,PT,1.2
+2017,Annual,National,SL_TLF_UEM,Talas,Female,,PT,0.9
+2018,Annual,National,SL_TLF_UEM,Talas,Female,,PT,1.7
+2010,Annual,National,SL_TLF_UEM,Chui,,,PT,10.2
+2013,Annual,National,SL_TLF_UEM,Chui,,,PT,9.8
+2014,Annual,National,SL_TLF_UEM,Chui,,,PT,8.9
+2015,Annual,National,SL_TLF_UEM,Chui,,,PT,8.6
+2016,Annual,National,SL_TLF_UEM,Chui,,,PT,8.4
+2017,Annual,National,SL_TLF_UEM,Chui,,,PT,8.1
+2018,Annual,National,SL_TLF_UEM,Chui,,,PT,7.3
+2010,Annual,National,SL_TLF_UEM,Chui,Male,,PT,11.4
+2013,Annual,National,SL_TLF_UEM,Chui,Male,,PT,10.8
+2014,Annual,National,SL_TLF_UEM,Chui,Male,,PT,9.6
+2015,Annual,National,SL_TLF_UEM,Chui,Male,,PT,8.2
+2016,Annual,National,SL_TLF_UEM,Chui,Male,,PT,8.9
+2017,Annual,National,SL_TLF_UEM,Chui,Male,,PT,9.1
+2018,Annual,National,SL_TLF_UEM,Chui,Male,,PT,7.4
+2010,Annual,National,SL_TLF_UEM,Chui,Female,,PT,9.3
+2013,Annual,National,SL_TLF_UEM,Chui,Female,,PT,9.1
+2014,Annual,National,SL_TLF_UEM,Chui,Female,,PT,8.4
+2015,Annual,National,SL_TLF_UEM,Chui,Female,,PT,8.9
+2016,Annual,National,SL_TLF_UEM,Chui,Female,,PT,8.0
+2017,Annual,National,SL_TLF_UEM,Chui,Female,,PT,7.4
+2018,Annual,National,SL_TLF_UEM,Chui,Female,,PT,7.3
+2010,Annual,National,SL_TLF_UEM,Bishkek (city),,,PT,10.0
+2013,Annual,National,SL_TLF_UEM,Bishkek (city),,,PT,9.4
+2014,Annual,National,SL_TLF_UEM,Bishkek (city),,,PT,8.9
+2015,Annual,National,SL_TLF_UEM,Bishkek (city),,,PT,8.1
+2016,Annual,National,SL_TLF_UEM,Bishkek (city),,,PT,7.7
+2017,Annual,National,SL_TLF_UEM,Bishkek (city),,,PT,7.3
+2018,Annual,National,SL_TLF_UEM,Bishkek (city),,,PT,6.7
+2010,Annual,National,SL_TLF_UEM,Bishkek (city),Male,,PT,10.6
+2013,Annual,National,SL_TLF_UEM,Bishkek (city),Male,,PT,9.7
+2014,Annual,National,SL_TLF_UEM,Bishkek (city),Male,,PT,9.5
+2015,Annual,National,SL_TLF_UEM,Bishkek (city),Male,,PT,8.4
+2016,Annual,National,SL_TLF_UEM,Bishkek (city),Male,,PT,7.6
+2017,Annual,National,SL_TLF_UEM,Bishkek (city),Male,,PT,7.9
+2018,Annual,National,SL_TLF_UEM,Bishkek (city),Male,,PT,5.0
+2010,Annual,National,SL_TLF_UEM,Bishkek (city),Female,,PT,9.5
+2013,Annual,National,SL_TLF_UEM,Bishkek (city),Female,,PT,9.3
+2014,Annual,National,SL_TLF_UEM,Bishkek (city),Female,,PT,8.4
+2015,Annual,National,SL_TLF_UEM,Bishkek (city),Female,,PT,7.7
+2016,Annual,National,SL_TLF_UEM,Bishkek (city),Female,,PT,7.8
+2017,Annual,National,SL_TLF_UEM,Bishkek (city),Female,,PT,6.7
+2018,Annual,National,SL_TLF_UEM,Bishkek (city),Female,,PT,8.2
+2013,Annual,National,SL_TLF_UEM,Osh (city),,,PT,4.6
+2014,Annual,National,SL_TLF_UEM,Osh (city),,,PT,4.2
+2015,Annual,National,SL_TLF_UEM,Osh (city),,,PT,3.9
+2016,Annual,National,SL_TLF_UEM,Osh (city),,,PT,3.6
+2017,Annual,National,SL_TLF_UEM,Osh (city),,,PT,3.5
+2018,Annual,National,SL_TLF_UEM,Osh (city),,,PT,3.0
+2013,Annual,National,SL_TLF_UEM,Osh (city),Male,,PT,3.8
+2014,Annual,National,SL_TLF_UEM,Osh (city),Male,,PT,5.2
+2015,Annual,National,SL_TLF_UEM,Osh (city),Male,,PT,5.6
+2016,Annual,National,SL_TLF_UEM,Osh (city),Male,,PT,6.3
+2017,Annual,National,SL_TLF_UEM,Osh (city),Male,,PT,4.5
+2018,Annual,National,SL_TLF_UEM,Osh (city),Male,,PT,3.5
+2013,Annual,National,SL_TLF_UEM,Osh (city),Female,,PT,5.0
+2014,Annual,National,SL_TLF_UEM,Osh (city),Female,,PT,3.8
+2015,Annual,National,SL_TLF_UEM,Osh (city),Female,,PT,3.1
+2016,Annual,National,SL_TLF_UEM,Osh (city),Female,,PT,2.5
+2017,Annual,National,SL_TLF_UEM,Osh (city),Female,,PT,3.0
+2018,Annual,National,SL_TLF_UEM,Osh (city),Female,,PT,2.7
+2010,Annual,National,SL_TLF_UEM,,,15 to 19 years old,PT,19.1
+2013,Annual,National,SL_TLF_UEM,,,15 to 19 years old,PT,16.2
+2014,Annual,National,SL_TLF_UEM,,,15 to 19 years old,PT,17.7
+2015,Annual,National,SL_TLF_UEM,,,15 to 19 years old,PT,17.3
+2016,Annual,National,SL_TLF_UEM,,,15 to 19 years old,PT,19.9
+2017,Annual,National,SL_TLF_UEM,,,15 to 19 years old,PT,18.3
+2018,Annual,National,SL_TLF_UEM,,,15 to 19 years old,PT,13.9
+2010,Annual,National,SL_TLF_UEM,,,20 to 29 years old,PT,12.4
+2013,Annual,National,SL_TLF_UEM,,,20 to 29 years old,PT,10.4
+2014,Annual,National,SL_TLF_UEM,,,20 to 29 years old,PT,10.2
+2015,Annual,National,SL_TLF_UEM,,,20 to 29 years old,PT,10.5
+2016,Annual,National,SL_TLF_UEM,,,20 to 29 years old,PT,10.4
+2017,Annual,National,SL_TLF_UEM,,,20 to 29 years old,PT,10.2
+2018,Annual,National,SL_TLF_UEM,,,20 to 29 years old,PT,9.5
+2010,Annual,National,SL_TLF_UEM,,,30 to 39 years old,PT,6.2
+2013,Annual,National,SL_TLF_UEM,,,30 to 39 years old,PT,7.2
+2014,Annual,National,SL_TLF_UEM,,,30 to 39 years old,PT,6.7
+2015,Annual,National,SL_TLF_UEM,,,30 to 39 years old,PT,6.2
+2016,Annual,National,SL_TLF_UEM,,,30 to 39 years old,PT,5.9
+2017,Annual,National,SL_TLF_UEM,,,30 to 39 years old,PT,5.4
+2018,Annual,National,SL_TLF_UEM,,,30 to 39 years old,PT,4.6
+2010,Annual,National,SL_TLF_UEM,,,40 to 49 years old,PT,5.9
+2013,Annual,National,SL_TLF_UEM,,,40 to 49 years old,PT,6.4
+2014,Annual,National,SL_TLF_UEM,,,40 to 49 years old,PT,6.7
+2015,Annual,National,SL_TLF_UEM,,,40 to 49 years old,PT,5.8
+2016,Annual,National,SL_TLF_UEM,,,40 to 49 years old,PT,5.3
+2017,Annual,National,SL_TLF_UEM,,,40 to 49 years old,PT,5.3
+2018,Annual,National,SL_TLF_UEM,,,40 to 49 years old,PT,4.3
+2010,Annual,National,SL_TLF_UEM,,,50 to 59 years old,PT,4.8
+2013,Annual,National,SL_TLF_UEM,,,50 to 59 years old,PT,6.1
+2014,Annual,National,SL_TLF_UEM,,,50 to 59 years old,PT,5.1
+2015,Annual,National,SL_TLF_UEM,,,50 to 59 years old,PT,4.2
+2016,Annual,National,SL_TLF_UEM,,,50 to 59 years old,PT,3.5
+2017,Annual,National,SL_TLF_UEM,,,50 to 59 years old,PT,3.8
+2018,Annual,National,SL_TLF_UEM,,,50 to 59 years old,PT,4.2
+2010,Annual,National,SL_TLF_UEM,,,60 to 69 years old,PT,2.3
+2013,Annual,National,SL_TLF_UEM,,,60 to 69 years old,PT,3.2
+2014,Annual,National,SL_TLF_UEM,,,60 to 69 years old,PT,2.6
+2015,Annual,National,SL_TLF_UEM,,,60 to 69 years old,PT,2.8
+2016,Annual,National,SL_TLF_UEM,,,60 to 69 years old,PT,1.3
+2017,Annual,National,SL_TLF_UEM,,,60 to 69 years old,PT,1.6
+2018,Annual,National,SL_TLF_UEM,,,60 to 69 years old,PT,2.7
+2010,Annual,National,SL_TLF_UEM,,,70 years old and over,PT,0.6
+2013,Annual,National,SL_TLF_UEM,,,70 years old and over,PT,1.6
+2014,Annual,National,SL_TLF_UEM,,,70 years old and over,PT,2.8
+2015,Annual,National,SL_TLF_UEM,,,70 years old and over,PT,1.4
+2016,Annual,National,SL_TLF_UEM,,,70 years old and over,PT,0.9
+2017,Annual,National,SL_TLF_UEM,,,70 years old and over,PT,0.3

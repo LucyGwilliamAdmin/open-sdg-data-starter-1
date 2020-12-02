@@ -1,6 +1,9 @@
 From,To
-Reference area,Age
-Reference area,Degree of urbanisation
-Reference area,Income or wealth quantile
-Reference area,Education level
-Reference area,Disability status
+Frequency of observation,Reporting type
+Reporting type,Sex
+Sex,Reference area
+Sex,Age
+Sex,Degree of urbanisation
+Sex,Income or wealth quantile
+Sex,Education level
+Sex,Disability status

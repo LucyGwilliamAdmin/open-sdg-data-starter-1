@@ -1,10 +1,10 @@
-Year,Value
-2010,89.9
-2011,94.5
-2012,94.4
-2013,91.0
-2014,94.8
-2015,94.6
-2016,93.5
-2017,93.9
-2018,95.1
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2010,Annual,National,EN_WWT_WWDS,,PT,89.9
+2011,Annual,National,EN_WWT_WWDS,,PT,94.5
+2012,Annual,National,EN_WWT_WWDS,,PT,94.4
+2013,Annual,National,EN_WWT_WWDS,,PT,91.0
+2014,Annual,National,EN_WWT_WWDS,,PT,94.8
+2015,Annual,National,EN_WWT_WWDS,,PT,94.6
+2016,Annual,National,EN_WWT_WWDS,,PT,93.5
+2017,Annual,National,EN_WWT_WWDS,,PT,93.9
+2018,Annual,National,EN_WWT_WWDS,,PT,95.1

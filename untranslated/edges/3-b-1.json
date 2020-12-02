@@ -1,1 +1,1 @@
-{"From":["SERIES"],"To":["REF_AREA"]}
+{"From":["FREQ","REPORTING_TYPE"],"To":["REPORTING_TYPE","REF_AREA"]}
