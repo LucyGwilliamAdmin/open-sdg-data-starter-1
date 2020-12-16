@@ -1,2 +1,3 @@
+xlrd
 git+git://github.com/dougmet/yamlmd
 git+git://github.com/brockfanning/sdg-build-1@sdmx-output-take-35
