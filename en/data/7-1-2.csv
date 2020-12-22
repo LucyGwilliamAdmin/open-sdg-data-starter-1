@@ -1,4 +1,4 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
+Year,Frequency of observation,Reporting type,SDG Series,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Unit of measure,Value
 2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,,Percent,19.2
 2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,Urban,,,Percent,47.2
 2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,Rural,,,Percent,3.2

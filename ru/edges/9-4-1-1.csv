@@ -1,4 +1,6 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,Справочная зона (условная зона)
-Справочная зона (условная зона),Композитная разбивка
+Reporting type,SDG Series
+SDG Series,Справочная зона (условная зона)
+Справочная зона (условная зона),Unit of measure
+Unit of measure,Композитная разбивка

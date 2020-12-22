@@ -1,4 +1,4 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Income or wealth quantile,Education level,Units,Value
+Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Age,Income or wealth quantile,Education level,Unit of measure,Value
 2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,,Percent,78.3
 2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,,Percent,71.7
 2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Batken,,under 5 years old,,,Percent,81.2

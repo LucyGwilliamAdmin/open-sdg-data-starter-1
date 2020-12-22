@@ -1,4 +1,4 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
+Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Unit of measure,Value
 2014,Annual,National,Proportion of children moderately or severely stunted,Kyrgyzstan,,,,,,Percent,12.9
 2018,Annual,National,Proportion of children moderately or severely stunted,Kyrgyzstan,,,,,,Percent,11.8
 2014,Annual,National,Proportion of children moderately or severely stunted,Batken,,,,,,Percent,13.6
