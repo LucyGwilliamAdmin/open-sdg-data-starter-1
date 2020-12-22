@@ -22,19 +22,19 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
     dsd: 'SDG_DSD.KG.xml'
-    import_codes: true
+    #import_codes: true
     drop_singleton_dimensions: false
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
-  - class: InputCsvData
-    path_pattern: data/*-*.csv
+#  - class: InputCsvData
+#    path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
     path_pattern: indicator_settings/*-*.md
 
 
-sdmx_output:
-    dsd: 'SDG_DSD.KG.xml'
+#sdmx_output:
+ #   dsd: 'SDG_DSD.KG.xml'
 
 
 # Translations
