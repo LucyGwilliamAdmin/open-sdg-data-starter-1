@@ -1,19 +1,19 @@
-Year,Частота наблюдений,Тип отчетности,Series,Территория,Пол,Возраст,Составная разбивка,Units,Value
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Копирование или перемещение файла или папки,PT,23.8
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Использование инструментов копирования и вставки для дублирования или перемещения информации в документе,PT,23.4
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Отправка электронной почты с вложенными файлами,PT,21.2
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Использование базовых арифметических формул в электронной таблице,PT,13.6
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Подключение и установка новых устройств,PT,7.3
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,"Навык: Навык ИКТ: Поиск, загрузка, установка и настройка программного обеспечения",PT,7.5
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Создание электронных презентаций с помощью программного обеспечения для презентаций,PT,13.2
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Передача файлов между компьютером и другими устройствами,PT,12.1
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 24 лет ,Навык: Навык ИКТ: Написание компьютерной программы с использованием специализированного языка программирования,PT,3.2
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Копирование или перемещение файла или папки,PT,17.1
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Использование инструментов копирования и вставки для дублирования или перемещения информации в документе,PT,16.9
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Отправка электронной почты с вложенными файлами,PT,15.4
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Использование базовых арифметических формул в электронной таблице,PT,9.7
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Подключение и установка новых устройств,PT,6.2
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,"Навык: Навык ИКТ: Поиск, загрузка, установка и настройка программного обеспечения",PT,5.8
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Создание электронных презентаций с помощью программного обеспечения для презентаций,PT,8.9
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Передача файлов между компьютером и другими устройствами,PT,8.4
-2018,Годовая,Национальный,SE_ADT_ACTS,Киргизия,Женщины,от 15 до 49 лет ,Навык: Навык ИКТ: Написание компьютерной программы с использованием специализированного языка программирования,PT,2.0
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),пол,Возраст,Композитная разбивка,Units,Value
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: Copying or moving a file or folder,Процент,23.8
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Процент,23.4
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: Sending e-mails with attached files,Процент,21.2
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Процент,13.6
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: connecting and installing new devices,Процент,7.3
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Процент,7.5
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: Creating electronic presentations with presentation software,Процент,13.2
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: Transferring files between a computer and other devices,Процент,12.1
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 24 years old,Skill: ICT Skill: Writing a computer program using a specialized programming language,Процент,3.2
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: Copying or moving a file or folder,Процент,17.1
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,Процент,16.9
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: Sending e-mails with attached files,Процент,15.4
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,Процент,9.7
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: connecting and installing new devices,Процент,6.2
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,"Skill: ICT Skill: Finding, downloading, installing and configuring software",Процент,5.8
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: Creating electronic presentations with presentation software,Процент,8.9
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: Transferring files between a computer and other devices,Процент,8.4
+2018,Annual,National,Proportion of youth and adults with information and communications technology (ICT) skills,Kyrgyzstan,женский,15 to 49 years old,Skill: ICT Skill: Writing a computer program using a specialized programming language,Процент,2.0

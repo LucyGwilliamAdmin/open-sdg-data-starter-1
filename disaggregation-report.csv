@@ -1,44 +1,15 @@
 Disaggregation,en,Number of indicators,Number of values
-ACTIVITY,ACTIVITY,5,22
-AGE,AGE,22,36
-baz,baz,1,4
-COMMENT_OBS,COMMENT_OBS,1,1
-COMMENT_TS,COMMENT_TS,2,3
-COMPOSITE_BREAKDOWN,COMPOSITE_BREAKDOWN,9,60
-DISABILITY_STATUS,DISABILITY_STATUS,4,2
-EDUCATION_LEV,EDUCATION_LEV,10,8
-FREQ,FREQ,99,2
-INCOME_WEALTH_QUANTILE,INCOME_WEALTH_QUANTILE,8,5
-OBS_STATUS,OBS_STATUS,1,1
-OCCUPATION,OCCUPATION,1,4
-PRODUCT,PRODUCT,1,10
-REF_AREA,REF_AREA,100,10
-REPORTING_TYPE,REPORTING_TYPE,99,1
-SEX,SEX,32,2
-URBANISATION,URBANISATION,14,3
-Возраст (в месяцах),Возраст (в месяцах),1,5
-Возраст (лет),Возраст (лет),4,20
-Возраст,Возраст,12,23
-Деятельность,Деятельность,3,19
-Донор,Донор,1,7
-Единица измерения,Единица измерения,1,3
-Квинтиль индекса благосостояния,Квинтиль индекса благосостояния,6,10
-Местность,Местность,15,4
-Образование главы домохозяйства,Образование главы домохозяйства,1,5
-Образование матери,Образование матери,3,8
-Образование,Образование,2,7
-По видам,По видам,1,6
-По классам,По классам,2,3
-Показатели,Показатели,1,6
-Показатель,Показатель,16,50
-Пол,Sex,19,6
-Посещаемость школы,Посещаемость школы,1,2
-Род занятий,Род занятий,1,4
-Территория,Geographical area,23,14
-Уровень образования,Уровень образования,7,13
-Функциональные трудности (возраст: 18-49лет),Функциональные трудности (возраст: 18-49лет),1,2
-Функциональные трудности у матери (возраст: 18-49 лет),Функциональные трудности у матери (возраст: 18-49 лет),2,3
-Функциональные трудности у матери,Функциональные трудности у матери,1,3
-Функциональные трудности у ребенка (возраст: 2-14 лет),Функциональные трудности у ребенка (возраст: 2-14 лет),1,2
-Функциональные трудности у ребенка (возраст: 2-4 лет),Функциональные трудности у ребенка (возраст: 2-4 лет),1,2
-Функциональные трудности у ребенка,Функциональные трудности у ребенка,2,2
+Возраст,Age,28,53
+Композитная разбивка,Composite breakdown,10,65
+Степень урбанизации,Degree of urbanisation,19,2
+Disability status,Disability status,4,2
+Economic activity,Economic activity,5,22
+Уровень образования,Education level,15,10
+Frequency of observation,Frequency of observation,118,2
+Доход или квинтиль благосостояния,Income or wealth quantile,8,5
+Род занятий (Профессия),Occupation,1,4
+Справочная зона (условная зона),Reference area,118,10
+Reporting type,Reporting type,118,1
+пол,Sex,43,2
+Сноски для временных рядов,Time series-level footnotes,2,4
+Type of product,Type of product,1,10

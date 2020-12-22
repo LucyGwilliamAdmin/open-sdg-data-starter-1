@@ -1,13 +1,13 @@
-Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
-2007,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.089219
-2008,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.06383
-2009,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.079787
-2010,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.06857100000000001
-2011,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.060240999999999996
-2012,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.048193
-2013,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.068493
-2014,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.061224
-2015,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.078571
-2016,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.078125
-2017,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.07200000000000001
-2018,Годовая,Национальный,AG_PRD_ORTIND,Киргизия,IX,0.094
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),Units,Value
+2007,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.089219
+2008,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.06383
+2009,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.079787
+2010,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.06857100000000001
+2011,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.060240999999999996
+2012,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.048193
+2013,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.068493
+2014,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.061224
+2015,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.078571
+2016,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.078125
+2017,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.07200000000000001
+2018,Annual,National,Agriculture orientation index for government expenditures,Kyrgyzstan,Index,0.094

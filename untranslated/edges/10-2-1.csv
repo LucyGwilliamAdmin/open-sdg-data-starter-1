@@ -1,5 +1,5 @@
 From,To
-Показатель,Территория
-Показатель,Местность
-Показатель,Пол
-Показатель,Возраст
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Reference area,Degree of urbanisation

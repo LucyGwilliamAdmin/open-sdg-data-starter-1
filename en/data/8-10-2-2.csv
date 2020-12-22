@@ -1,19 +1,19 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2010,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,18.0
-2011,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,18.0
-2012,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,19.0
-2013,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,19.0
-2014,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,21.0
-2015,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,22.0
-2016,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,24.0
-2017,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,23.0
-2018,Annual,National,_L_KG_081002_2A,Kyrgyzstan,NUMBER,22.0
-2010,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,477.2
-2011,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,292.9
-2012,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,337.8
-2013,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,405.4
-2014,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,1003.2
-2015,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,967.0
-2016,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,921.3
-2017,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,1004.4
-2018,Annual,National,_L_KG_081002_2B,Kyrgyzstan,CUR_LCU,1092.7
+2010,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,18.0
+2011,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,18.0
+2012,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,19.0
+2013,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,19.0
+2014,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,21.0
+2015,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,22.0
+2016,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,24.0
+2017,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,23.0
+2018,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,22.0
+2010,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,477.2
+2011,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,292.9
+2012,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,337.8
+2013,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,405.4
+2014,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,1003.2
+2015,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,967.0
+2016,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,921.3
+2017,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,1004.4
+2018,Annual,National,Insurance premiums collected,Kyrgyzstan,Local currency,1092.7

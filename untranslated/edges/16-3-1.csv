@@ -1,6 +1,6 @@
 From,To
-FREQ,REPORTING_TYPE
-REPORTING_TYPE,REF_AREA
-REF_AREA,SEX
-SEX,AGE
-AGE,URBANISATION
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Sex,Age
+Age,Degree of urbanisation

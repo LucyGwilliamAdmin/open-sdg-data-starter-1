@@ -1,13 +1,13 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
-2007,A,N,GC_GOB_TAXD,KG,PT,73.7
-2008,A,N,GC_GOB_TAXD,KG,PT,77.0
-2009,A,N,GC_GOB_TAXD,KG,PT,64.8
-2010,A,N,GC_GOB_TAXD,KG,PT,67.9
-2011,A,N,GC_GOB_TAXD,KG,PT,68.1
-2012,A,N,GC_GOB_TAXD,KG,PT,73.0
-2013,A,N,GC_GOB_TAXD,KG,PT,71.5
-2014,A,N,GC_GOB_TAXD,KG,PT,69.2
-2015,A,N,GC_GOB_TAXD,KG,PT,65.9
-2016,A,N,GC_GOB_TAXD,KG,PT,71.8
-2017,A,N,GC_GOB_TAXD,KG,PT,69.1
-2018,A,N,GC_GOB_TAXD,KG,PT,76.9
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2007,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,73.7
+2008,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,77.0
+2009,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,64.8
+2010,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,67.9
+2011,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,68.1
+2012,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,73.0
+2013,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,71.5
+2014,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,69.2
+2015,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,65.9
+2016,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,71.8
+2017,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,69.1
+2018,Annual,National,Proportion of domestic budget funded by domestic taxes,Kyrgyzstan,Percent,76.9

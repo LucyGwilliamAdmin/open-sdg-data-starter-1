@@ -1,5 +1,5 @@
 From,To
-FREQ,REPORTING_TYPE
-REPORTING_TYPE,REF_AREA
-REF_AREA,AGE
-AGE,SEX
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Age
+Age,Sex

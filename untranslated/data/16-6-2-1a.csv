@@ -1,51 +1,51 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
-2015,A,N,_L_KG_160602_1A,KG,IX,235
-2016,A,N,_L_KG_160602_1A,KG,IX,285
-2017,A,N,_L_KG_160602_1A,KG,IX,311
-2018,A,N,_L_KG_160602_1A,KG,IX,273
-2019,S,N,_L_KG_160602_1A,KG,IX,273
-2015,A,N,_L_KG_160602_1A,KG05,IX,294
-2016,A,N,_L_KG_160602_1A,KG05,IX,479
-2017,A,N,_L_KG_160602_1A,KG05,IX,462
-2018,A,N,_L_KG_160602_1A,KG05,IX,426
-2019,S,N,_L_KG_160602_1A,KG05,IX,400
-2015,A,N,_L_KG_160602_1A,KG11,IX,436
-2016,A,N,_L_KG_160602_1A,KG11,IX,372
-2017,A,N,_L_KG_160602_1A,KG11,IX,354
-2018,A,N,_L_KG_160602_1A,KG11,IX,327
-2019,S,N,_L_KG_160602_1A,KG11,IX,360
-2015,A,N,_L_KG_160602_1A,KG08,IX,-15
-2016,A,N,_L_KG_160602_1A,KG08,IX,166
-2017,A,N,_L_KG_160602_1A,KG08,IX,295
-2018,A,N,_L_KG_160602_1A,KG08,IX,195
-2019,S,N,_L_KG_160602_1A,KG08,IX,252
-2015,A,N,_L_KG_160602_1A,KG02,IX,206
-2016,A,N,_L_KG_160602_1A,KG02,IX,199
-2017,A,N,_L_KG_160602_1A,KG02,IX,285
-2018,A,N,_L_KG_160602_1A,KG02,IX,307
-2019,S,N,_L_KG_160602_1A,KG02,IX,375
-2015,A,N,_L_KG_160602_1A,KG03,IX,343
-2016,A,N,_L_KG_160602_1A,KG03,IX,309
-2017,A,N,_L_KG_160602_1A,KG03,IX,327
-2018,A,N,_L_KG_160602_1A,KG03,IX,279
-2019,S,N,_L_KG_160602_1A,KG03,IX,307
-2015,A,N,_L_KG_160602_1A,KG04,IX,364
-2016,A,N,_L_KG_160602_1A,KG04,IX,341
-2017,A,N,_L_KG_160602_1A,KG04,IX,312
-2018,A,N,_L_KG_160602_1A,KG04,IX,341
-2019,S,N,_L_KG_160602_1A,KG04,IX,355
-2015,A,N,_L_KG_160602_1A,KG06,IX,314
-2016,A,N,_L_KG_160602_1A,KG06,IX,256
-2017,A,N,_L_KG_160602_1A,KG06,IX,385
-2018,A,N,_L_KG_160602_1A,KG06,IX,355
-2019,S,N,_L_KG_160602_1A,KG06,IX,325
-2015,A,N,_L_KG_160602_1A,KG21,IX,96
-2016,A,N,_L_KG_160602_1A,KG21,IX,126
-2017,A,N,_L_KG_160602_1A,KG21,IX,163
-2018,A,N,_L_KG_160602_1A,KG21,IX,129
-2019,S,N,_L_KG_160602_1A,KG21,IX,113
-2015,A,N,_L_KG_160602_1A,KG07,IX,169
-2016,A,N,_L_KG_160602_1A,KG07,IX,408
-2017,A,N,_L_KG_160602_1A,KG07,IX,429
-2018,A,N,_L_KG_160602_1A,KG07,IX,383
-2019,S,N,_L_KG_160602_1A,KG07,IX,366
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2015,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,235
+2016,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,285
+2017,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,311
+2018,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,273
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,273
+2015,Annual,National,Executive branch of the government satisfaction index,Batken,Index,294
+2016,Annual,National,Executive branch of the government satisfaction index,Batken,Index,479
+2017,Annual,National,Executive branch of the government satisfaction index,Batken,Index,462
+2018,Annual,National,Executive branch of the government satisfaction index,Batken,Index,426
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Batken,Index,400
+2015,Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,436
+2016,Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,372
+2017,Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,354
+2018,Annual,National,Executive branch of the government satisfaction index,Bishkek (city),Index,327
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Bishkek (city),Index,360
+2015,Annual,National,Executive branch of the government satisfaction index,Chui,Index,-15
+2016,Annual,National,Executive branch of the government satisfaction index,Chui,Index,166
+2017,Annual,National,Executive branch of the government satisfaction index,Chui,Index,295
+2018,Annual,National,Executive branch of the government satisfaction index,Chui,Index,195
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Chui,Index,252
+2015,Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,206
+2016,Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,199
+2017,Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,285
+2018,Annual,National,Executive branch of the government satisfaction index,Issyk-Kul,Index,307
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Issyk-Kul,Index,375
+2015,Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,343
+2016,Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,309
+2017,Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,327
+2018,Annual,National,Executive branch of the government satisfaction index,Jalal-Abad,Index,279
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Jalal-Abad,Index,307
+2015,Annual,National,Executive branch of the government satisfaction index,Naryn,Index,364
+2016,Annual,National,Executive branch of the government satisfaction index,Naryn,Index,341
+2017,Annual,National,Executive branch of the government satisfaction index,Naryn,Index,312
+2018,Annual,National,Executive branch of the government satisfaction index,Naryn,Index,341
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Naryn,Index,355
+2015,Annual,National,Executive branch of the government satisfaction index,Osh,Index,314
+2016,Annual,National,Executive branch of the government satisfaction index,Osh,Index,256
+2017,Annual,National,Executive branch of the government satisfaction index,Osh,Index,385
+2018,Annual,National,Executive branch of the government satisfaction index,Osh,Index,355
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Osh,Index,325
+2015,Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,96
+2016,Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,126
+2017,Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,163
+2018,Annual,National,Executive branch of the government satisfaction index,Osh (city),Index,129
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Osh (city),Index,113
+2015,Annual,National,Executive branch of the government satisfaction index,Talas,Index,169
+2016,Annual,National,Executive branch of the government satisfaction index,Talas,Index,408
+2017,Annual,National,Executive branch of the government satisfaction index,Talas,Index,429
+2018,Annual,National,Executive branch of the government satisfaction index,Talas,Index,383
+2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Talas,Index,366

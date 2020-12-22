@@ -1,8 +1,8 @@
 From,To
-FREQ,REPORTING_TYPE
-REPORTING_TYPE,REF_AREA
-REF_AREA,SEX
-REF_AREA,AGE
-REF_AREA,URBANISATION
-REF_AREA,INCOME_WEALTH_QUANTILE
-REF_AREA,EDUCATION_LEV
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Reference area,Age
+Reference area,Degree of urbanisation
+Reference area,Income or wealth quantile
+Reference area,Education level

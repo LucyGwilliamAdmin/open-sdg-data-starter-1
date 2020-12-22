@@ -1,10 +1,10 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
-2010,A,N,SL_EMP_GTOTL,KG,PT,29.6
-2011,A,N,SL_EMP_GTOTL,KG,PT,29.0
-2012,A,N,SL_EMP_GTOTL,KG,PT,30.0
-2013,A,N,SL_EMP_GTOTL,KG,PT,28.3
-2014,A,N,SL_EMP_GTOTL,KG,PT,26.8
-2015,A,N,SL_EMP_GTOTL,KG,PT,27.0
-2016,A,N,SL_EMP_GTOTL,KG,PT,28.4
-2017,A,N,SL_EMP_GTOTL,KG,PT,26.8
-2018,A,N,SL_EMP_GTOTL,KG,PT,29.4
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2010,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,29.6
+2011,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,29.0
+2012,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,30.0
+2013,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,28.3
+2014,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,26.8
+2015,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,27.0
+2016,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,28.4
+2017,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,26.8
+2018,Annual,National,"Labour share of GDP, comprising wages and social protection transfers",Kyrgyzstan,Percent,29.4

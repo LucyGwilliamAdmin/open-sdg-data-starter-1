@@ -1,51 +1,51 @@
-Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
-2014,Годовая,Национальный,_L_KG_110701_1A,Киргизия,HA,1.8
-2015,Годовая,Национальный,_L_KG_110701_1A,Киргизия,HA,1.7
-2016,Годовая,Национальный,_L_KG_110701_1A,Киргизия,HA,1.8
-2017,Годовая,Национальный,_L_KG_110701_1A,Киргизия,HA,1.7
-2018,Годовая,Национальный,_L_KG_110701_1A,Киргизия,HA,1.7
-2014,Годовая,Национальный,_L_KG_110701_1A,Баткенская область,HA,0.3
-2015,Годовая,Национальный,_L_KG_110701_1A,Баткенская область,HA,0.1
-2016,Годовая,Национальный,_L_KG_110701_1A,Баткенская область,HA,0.1
-2017,Годовая,Национальный,_L_KG_110701_1A,Баткенская область,HA,0.1
-2018,Годовая,Национальный,_L_KG_110701_1A,Баткенская область,HA,0.2
-2014,Годовая,Национальный,_L_KG_110701_1A,Джалал-Абадская область,HA,0.8
-2015,Годовая,Национальный,_L_KG_110701_1A,Джалал-Абадская область,HA,0.8
-2016,Годовая,Национальный,_L_KG_110701_1A,Джалал-Абадская область,HA,0.9
-2017,Годовая,Национальный,_L_KG_110701_1A,Джалал-Абадская область,HA,0.9
-2018,Годовая,Национальный,_L_KG_110701_1A,Джалал-Абадская область,HA,0.9
-2014,Годовая,Национальный,_L_KG_110701_1A,Иссык-Кульская область,HA,1.4
-2015,Годовая,Национальный,_L_KG_110701_1A,Иссык-Кульская область,HA,1.3
-2016,Годовая,Национальный,_L_KG_110701_1A,Иссык-Кульская область,HA,1.4
-2017,Годовая,Национальный,_L_KG_110701_1A,Иссык-Кульская область,HA,0.4
-2018,Годовая,Национальный,_L_KG_110701_1A,Иссык-Кульская область,HA,0.4
-2014,Годовая,Национальный,_L_KG_110701_1A,Нарынская область,HA,1.4
-2015,Годовая,Национальный,_L_KG_110701_1A,Нарынская область,HA,1.5
-2016,Годовая,Национальный,_L_KG_110701_1A,Нарынская область,HA,1.6
-2017,Годовая,Национальный,_L_KG_110701_1A,Нарынская область,HA,1.7
-2018,Годовая,Национальный,_L_KG_110701_1A,Нарынская область,HA,1.9
-2014,Годовая,Национальный,_L_KG_110701_1A,Ошская область,HA,0.3
-2015,Годовая,Национальный,_L_KG_110701_1A,Ошская область,HA,0.3
-2016,Годовая,Национальный,_L_KG_110701_1A,Ошская область,HA,0.4
-2017,Годовая,Национальный,_L_KG_110701_1A,Ошская область,HA,0.4
-2018,Годовая,Национальный,_L_KG_110701_1A,Ошская область,HA,0.5
-2014,Годовая,Национальный,_L_KG_110701_1A,Таласская область,HA,0.8
-2015,Годовая,Национальный,_L_KG_110701_1A,Таласская область,HA,0.8
-2016,Годовая,Национальный,_L_KG_110701_1A,Таласская область,HA,0.8
-2017,Годовая,Национальный,_L_KG_110701_1A,Таласская область,HA,0.8
-2018,Годовая,Национальный,_L_KG_110701_1A,Таласская область,HA,0.8
-2014,Годовая,Национальный,_L_KG_110701_1A,Чуйская область,HA,2.2
-2015,Годовая,Национальный,_L_KG_110701_1A,Чуйская область,HA,2.1
-2016,Годовая,Национальный,_L_KG_110701_1A,Чуйская область,HA,2.1
-2017,Годовая,Национальный,_L_KG_110701_1A,Чуйская область,HA,2.1
-2018,Годовая,Национальный,_L_KG_110701_1A,Чуйская область,HA,2.1
-2014,Годовая,Национальный,_L_KG_110701_1A,г. Бишкек,HA,5.3
-2015,Годовая,Национальный,_L_KG_110701_1A,г. Бишкек,HA,5.1
-2016,Годовая,Национальный,_L_KG_110701_1A,г. Бишкек,HA,5.1
-2017,Годовая,Национальный,_L_KG_110701_1A,г. Бишкек,HA,5.0
-2018,Годовая,Национальный,_L_KG_110701_1A,г. Бишкек,HA,4.7
-2014,Годовая,Национальный,_L_KG_110701_1A,г. Ош,HA,3.8
-2015,Годовая,Национальный,_L_KG_110701_1A,г. Ош,HA,3.6
-2016,Годовая,Национальный,_L_KG_110701_1A,г. Ош,HA,3.6
-2017,Годовая,Национальный,_L_KG_110701_1A,г. Ош,HA,3.5
-2018,Годовая,Национальный,_L_KG_110701_1A,г. Ош,HA,3.6
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),Units,Value
+2014,Annual,National,Area of green spaces in localities per 1000 people,Kyrgyzstan,Hectares,1.8
+2015,Annual,National,Area of green spaces in localities per 1000 people,Kyrgyzstan,Hectares,1.7
+2016,Annual,National,Area of green spaces in localities per 1000 people,Kyrgyzstan,Hectares,1.8
+2017,Annual,National,Area of green spaces in localities per 1000 people,Kyrgyzstan,Hectares,1.7
+2018,Annual,National,Area of green spaces in localities per 1000 people,Kyrgyzstan,Hectares,1.7
+2014,Annual,National,Area of green spaces in localities per 1000 people,Баткенская область,Hectares,0.3
+2015,Annual,National,Area of green spaces in localities per 1000 people,Баткенская область,Hectares,0.1
+2016,Annual,National,Area of green spaces in localities per 1000 people,Баткенская область,Hectares,0.1
+2017,Annual,National,Area of green spaces in localities per 1000 people,Баткенская область,Hectares,0.1
+2018,Annual,National,Area of green spaces in localities per 1000 people,Баткенская область,Hectares,0.2
+2014,Annual,National,Area of green spaces in localities per 1000 people,Жалал-Абад область,Hectares,0.8
+2015,Annual,National,Area of green spaces in localities per 1000 people,Жалал-Абад область,Hectares,0.8
+2016,Annual,National,Area of green spaces in localities per 1000 people,Жалал-Абад область,Hectares,0.9
+2017,Annual,National,Area of green spaces in localities per 1000 people,Жалал-Абад область,Hectares,0.9
+2018,Annual,National,Area of green spaces in localities per 1000 people,Жалал-Абад область,Hectares,0.9
+2014,Annual,National,Area of green spaces in localities per 1000 people,Иссык-Кульская область,Hectares,1.4
+2015,Annual,National,Area of green spaces in localities per 1000 people,Иссык-Кульская область,Hectares,1.3
+2016,Annual,National,Area of green spaces in localities per 1000 people,Иссык-Кульская область,Hectares,1.4
+2017,Annual,National,Area of green spaces in localities per 1000 people,Иссык-Кульская область,Hectares,0.4
+2018,Annual,National,Area of green spaces in localities per 1000 people,Иссык-Кульская область,Hectares,0.4
+2014,Annual,National,Area of green spaces in localities per 1000 people,Нарынская область,Hectares,1.4
+2015,Annual,National,Area of green spaces in localities per 1000 people,Нарынская область,Hectares,1.5
+2016,Annual,National,Area of green spaces in localities per 1000 people,Нарынская область,Hectares,1.6
+2017,Annual,National,Area of green spaces in localities per 1000 people,Нарынская область,Hectares,1.7
+2018,Annual,National,Area of green spaces in localities per 1000 people,Нарынская область,Hectares,1.9
+2014,Annual,National,Area of green spaces in localities per 1000 people,Ошская область,Hectares,0.3
+2015,Annual,National,Area of green spaces in localities per 1000 people,Ошская область,Hectares,0.3
+2016,Annual,National,Area of green spaces in localities per 1000 people,Ошская область,Hectares,0.4
+2017,Annual,National,Area of green spaces in localities per 1000 people,Ошская область,Hectares,0.4
+2018,Annual,National,Area of green spaces in localities per 1000 people,Ошская область,Hectares,0.5
+2014,Annual,National,Area of green spaces in localities per 1000 people,Таласская область,Hectares,0.8
+2015,Annual,National,Area of green spaces in localities per 1000 people,Таласская область,Hectares,0.8
+2016,Annual,National,Area of green spaces in localities per 1000 people,Таласская область,Hectares,0.8
+2017,Annual,National,Area of green spaces in localities per 1000 people,Таласская область,Hectares,0.8
+2018,Annual,National,Area of green spaces in localities per 1000 people,Таласская область,Hectares,0.8
+2014,Annual,National,Area of green spaces in localities per 1000 people,Чуйская область,Hectares,2.2
+2015,Annual,National,Area of green spaces in localities per 1000 people,Чуйская область,Hectares,2.1
+2016,Annual,National,Area of green spaces in localities per 1000 people,Чуйская область,Hectares,2.1
+2017,Annual,National,Area of green spaces in localities per 1000 people,Чуйская область,Hectares,2.1
+2018,Annual,National,Area of green spaces in localities per 1000 people,Чуйская область,Hectares,2.1
+2014,Annual,National,Area of green spaces in localities per 1000 people,г. Бишкек,Hectares,5.3
+2015,Annual,National,Area of green spaces in localities per 1000 people,г. Бишкек,Hectares,5.1
+2016,Annual,National,Area of green spaces in localities per 1000 people,г. Бишкек,Hectares,5.1
+2017,Annual,National,Area of green spaces in localities per 1000 people,г. Бишкек,Hectares,5.0
+2018,Annual,National,Area of green spaces in localities per 1000 people,г. Бишкек,Hectares,4.7
+2014,Annual,National,Area of green spaces in localities per 1000 people,г. Ош,Hectares,3.8
+2015,Annual,National,Area of green spaces in localities per 1000 people,г. Ош,Hectares,3.6
+2016,Annual,National,Area of green spaces in localities per 1000 people,г. Ош,Hectares,3.6
+2017,Annual,National,Area of green spaces in localities per 1000 people,г. Ош,Hectares,3.5
+2018,Annual,National,Area of green spaces in localities per 1000 people,г. Ош,Hectares,3.6

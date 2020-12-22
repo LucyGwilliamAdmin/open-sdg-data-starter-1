@@ -1,37 +1,37 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2007,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,22.4
-2008,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,21.4
-2009,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,19.6
-2010,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,17.4
-2011,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,19.9
-2012,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,20.2
-2013,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,20.8
-2014,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,18.5
-2015,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,18.9
-2016,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,20.0
-2017,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,19.4
-2018,Annual,National,SD_XPD_ESED,Kyrgyzstan,PT,21.1
-2007,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,10.2
-2008,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,9.8
-2009,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,9.9
-2010,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,9.3
-2011,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,9.9
-2012,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,10.6
-2013,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,11.3
-2014,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,9.9
-2015,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,9.5
-2016,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,8.8
-2017,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,9.7
-2018,Annual,National,SG_XPD_HLTH,Kyrgyzstan,PT,8.6
-2007,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,10.5
-2008,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,10.3
-2009,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,9.5
-2010,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,16.1
-2011,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,15.5
-2012,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,16.3
-2013,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,19.5
-2014,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,19.2
-2015,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,18.4
-2016,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,16.5
-2017,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,16.2
-2018,Annual,National,SG_XPD_PROT,Kyrgyzstan,PT,19.1
+2007,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,22.4
+2008,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,21.4
+2009,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,19.6
+2010,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,17.4
+2011,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,19.9
+2012,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,20.2
+2013,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,20.8
+2014,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,18.5
+2015,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,18.9
+2016,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,20.0
+2017,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,19.4
+2018,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,21.1
+2007,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,10.2
+2008,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.8
+2009,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.9
+2010,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.3
+2011,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.9
+2012,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,10.6
+2013,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,11.3
+2014,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.9
+2015,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.5
+2016,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,8.8
+2017,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.7
+2018,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,8.6
+2007,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,10.5
+2008,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,10.3
+2009,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,9.5
+2010,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.1
+2011,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,15.5
+2012,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.3
+2013,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,19.5
+2014,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,19.2
+2015,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,18.4
+2016,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.5
+2017,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.2
+2018,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,19.1

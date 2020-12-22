@@ -1,2 +1,4 @@
 From,To
-Пол,Деятельность
+Frequency of observation,Reporting type
+Reporting type,Справочная зона (условная зона)
+Справочная зона (условная зона),пол

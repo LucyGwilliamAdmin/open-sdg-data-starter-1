@@ -1,13 +1,13 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,SEX,Units,Value
-2007,A,N,IC_GEN_MGTL,KG,F,PT,31.5
-2008,A,N,IC_GEN_MGTL,KG,F,PT,31.9
-2009,A,N,IC_GEN_MGTL,KG,F,PT,30.6
-2010,A,N,IC_GEN_MGTL,KG,F,PT,32.3
-2011,A,N,IC_GEN_MGTL,KG,F,PT,28.9
-2012,A,N,IC_GEN_MGTL,KG,F,PT,32.3
-2013,A,N,IC_GEN_MGTL,KG,F,PT,27.5
-2014,A,N,IC_GEN_MGTL,KG,F,PT,33.4
-2015,A,N,IC_GEN_MGTL,KG,F,PT,36.1
-2016,A,N,IC_GEN_MGTL,KG,F,PT,34.9
-2017,A,N,IC_GEN_MGTL,KG,F,PT,36.2
-2018,A,N,IC_GEN_MGTL,KG,F,PT,37.9
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
+2007,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,31.5
+2008,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,31.9
+2009,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,30.6
+2010,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,32.3
+2011,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,28.9
+2012,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,32.3
+2013,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,27.5
+2014,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,33.4
+2015,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,36.1
+2016,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,34.9
+2017,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,36.2
+2018,Annual,National,Proportion of women in managerial positions,Kyrgyzstan,Female,Percent,37.9

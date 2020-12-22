@@ -1,43 +1,43 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,SEX,AGE,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,Units,Value
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,,,PT,78.3
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,,,PT,71.7
-2014,A,N,SE_DEV_ONTRK,KG05,,Y0T4,,,PT,81.2
-2018,A,N,SE_DEV_ONTRK,KG05,,Y0T4,,,PT,83.3
-2014,A,N,SE_DEV_ONTRK,KG03,,Y0T4,,,PT,87.1
-2018,A,N,SE_DEV_ONTRK,KG03,,Y0T4,,,PT,63.9
-2014,A,N,SE_DEV_ONTRK,KG02,,Y0T4,,,PT,81.6
-2018,A,N,SE_DEV_ONTRK,KG02,,Y0T4,,,PT,79.8
-2014,A,N,SE_DEV_ONTRK,KG04,,Y0T4,,,PT,80.6
-2018,A,N,SE_DEV_ONTRK,KG04,,Y0T4,,,PT,72.4
-2014,A,N,SE_DEV_ONTRK,KG06,,Y0T4,,,PT,69.6
-2018,A,N,SE_DEV_ONTRK,KG06,,Y0T4,,,PT,65.8
-2014,A,N,SE_DEV_ONTRK,KG07,,Y0T4,,,PT,84.9
-2018,A,N,SE_DEV_ONTRK,KG07,,Y0T4,,,PT,65.1
-2014,A,N,SE_DEV_ONTRK,KG08,,Y0T4,,,PT,73.5
-2018,A,N,SE_DEV_ONTRK,KG08,,Y0T4,,,PT,72.0
-2014,A,N,SE_DEV_ONTRK,KG11,,Y0T4,,,PT,87.4
-2018,A,N,SE_DEV_ONTRK,KG11,,Y0T4,,,PT,81.3
-2014,A,N,SE_DEV_ONTRK,KG21,,Y0T4,,,PT,52.0
-2018,A,N,SE_DEV_ONTRK,KG21,,Y0T4,,,PT,71.5
-2014,A,N,SE_DEV_ONTRK,KG,M,Y0T4,,,PT,76.1
-2018,A,N,SE_DEV_ONTRK,KG,M,Y0T4,,,PT,68.2
-2014,A,N,SE_DEV_ONTRK,KG,F,Y0T4,,,PT,80.6
-2018,A,N,SE_DEV_ONTRK,KG,F,Y0T4,,,PT,75.0
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_2,PT,70.1
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_2,PT,71.0
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_3,PT,77.2
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_3,PT,73.8
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_4,PT,80.8
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_4,PT,70.6
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_5,PT,81.8
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,,ISCED11_5,PT,69.6
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q1,,PT,76.5
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q1,,PT,72.5
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q2,,PT,80.3
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q2,,PT,70.6
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q3,,PT,73.0
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q3,,PT,67.2
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q4,,PT,79.3
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q4,,PT,71.0
-2014,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q5,,PT,84.3
-2018,A,N,SE_DEV_ONTRK,KG,,Y0T4,Q5,,PT,78.0
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Income or wealth quantile,Education level,Units,Value
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,,Percent,78.3
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,,Percent,71.7
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Batken,,under 5 years old,,,Percent,81.2
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Batken,,under 5 years old,,,Percent,83.3
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Jalal-Abad,,under 5 years old,,,Percent,87.1
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Jalal-Abad,,under 5 years old,,,Percent,63.9
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Issyk-Kul,,under 5 years old,,,Percent,81.6
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Issyk-Kul,,under 5 years old,,,Percent,79.8
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Naryn,,under 5 years old,,,Percent,80.6
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Naryn,,under 5 years old,,,Percent,72.4
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Osh,,under 5 years old,,,Percent,69.6
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Osh,,under 5 years old,,,Percent,65.8
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Talas,,under 5 years old,,,Percent,84.9
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Talas,,under 5 years old,,,Percent,65.1
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Chui,,under 5 years old,,,Percent,73.5
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Chui,,under 5 years old,,,Percent,72.0
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Bishkek (city),,under 5 years old,,,Percent,87.4
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Bishkek (city),,under 5 years old,,,Percent,81.3
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Osh (city),,under 5 years old,,,Percent,52.0
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Osh (city),,under 5 years old,,,Percent,71.5
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,Male,under 5 years old,,,Percent,76.1
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,Male,under 5 years old,,,Percent,68.2
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,Female,under 5 years old,,,Percent,80.6
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,Female,under 5 years old,,,Percent,75.0
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Lower secondary education,Percent,70.1
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Lower secondary education,Percent,71.0
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Upper secondary education,Percent,77.2
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Upper secondary education,Percent,73.8
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Post-secondary non-tertiary education,Percent,80.8
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Post-secondary non-tertiary education,Percent,70.6
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Short-cycle tertiary education,Percent,81.8
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,,Short-cycle tertiary education,Percent,69.6
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 1 (poorest),,Percent,76.5
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 1 (poorest),,Percent,72.5
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 2,,Percent,80.3
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 2,,Percent,70.6
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 3,,Percent,73.0
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 3,,Percent,67.2
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 4,,Percent,79.3
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 4,,Percent,71.0
+2014,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 5 (richest),,Percent,84.3
+2018,Annual,National,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",Kyrgyzstan,,under 5 years old,Quintile 5 (richest),,Percent,78.0

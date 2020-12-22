@@ -1,19 +1,19 @@
-Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
-2010,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,18.0
-2011,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,18.0
-2012,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,19.0
-2013,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,19.0
-2014,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,21.0
-2015,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,22.0
-2016,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,24.0
-2017,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,23.0
-2018,Годовая,Национальный,_L_KG_081002_2A,Киргизия,NUMBER,22.0
-2010,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,477.2
-2011,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,292.9
-2012,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,337.8
-2013,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,405.4
-2014,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,1003.2
-2015,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,967.0
-2016,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,921.3
-2017,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,1004.4
-2018,Годовая,Национальный,_L_KG_081002_2B,Киргизия,CUR_LCU,1092.7
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),Units,Value
+2010,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,18.0
+2011,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,18.0
+2012,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,19.0
+2013,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,19.0
+2014,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,21.0
+2015,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,22.0
+2016,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,24.0
+2017,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,23.0
+2018,Annual,National,Number of insurance companies reporting,Kyrgyzstan,Number,22.0
+2010,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,477.2
+2011,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,292.9
+2012,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,337.8
+2013,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,405.4
+2014,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,1003.2
+2015,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,967.0
+2016,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,921.3
+2017,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,1004.4
+2018,Annual,National,Insurance premiums collected,Kyrgyzstan,Местная валюта,1092.7

@@ -1,23 +1,21 @@
-Year,Территория,Местность,Пол,Возраст,Образование,Value
-2018,,,,,,91.8
-2018,,Городская,,,,94.9
-2018,,Сельская,,,,89.9
-2018,,,Мужчины,,,92.8
-2018,,,Женщины,,,91.0
-2018,Баткенская область,,,,,91.1
-2018,Джалал-Абадская область,,,,,90.6
-2018,Иссык-Кульская область,,,,,92.1
-2018,Нарынская область,,,,,89.4
-2018,Ошская область,,,,,87.6
-2018,Таласская область,,,,,91.5
-2018,Чуйская область,,,,,94.6
-2018,г.Бишкек,,,,,97.0
-2018,г.Ош,,,,,88.3
-2018,,,,"Молодёжь, 15-28 лет",,90.9
-2018,,,,Взрослое население трудоспособного возраста (от 29 лет),,95.9
-2018,,,,"Старше трудоспособного возраста (женщины 58 лет и старше, мужчины 63 лет и старше)",,78.8
-2018,,,,,Дошкольное или нет/Начальное,58.1
-2018,,,,,Основное общее,84.0
-2018,,,,,Среднее общее,92.8
-2018,,,,,Профессиональное начальное/среднее,96.4
-2018,,,,,Высшее,98.1
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),пол,Возраст,Степень урбанизации,Уровень образования,Units,Value
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,,Процент,91.8
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,городская местность,,Процент,94.9
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,сельская местность,,Процент,89.9
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,мужской,15 years old and over,,,Процент,92.8
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,женский,15 years old and over,,,Процент,91.0
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Баткенская область,,15 years old and over,,,Процент,91.1
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Жалал-Абад область,,15 years old and over,,,Процент,90.6
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Иссык-Кульская область,,15 years old and over,,,Процент,92.1
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Нарынская область,,15 years old and over,,,Процент,89.4
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Ошская область,,15 years old and over,,,Процент,87.6
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Таласская область,,15 years old and over,,,Процент,91.5
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Чуйская область,,15 years old and over,,,Процент,94.6
+2018,Annual,National,Proportion of individuals who own a mobile telephone,г. Бишкек,,15 years old and over,,,Процент,97.0
+2018,Annual,National,Proportion of individuals who own a mobile telephone,г. Ош,,15 years old and over,,,Процент,88.3
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 to 28 years old,,,Процент,90.9
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Начальное образование (1-4 классы),Процент,58.1
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,1- этап среднего образования,Процент,84.0
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Secondary and post-secondary non-tertiary education (intermediate),Процент,92.8
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Short-cycle tertiary education,Процент,96.4
+2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Bachelor’s or equivalent level,Процент,98.1

@@ -1,8 +1,8 @@
 From,To
-FREQ,REPORTING_TYPE
-REPORTING_TYPE,REF_AREA
-REF_AREA,SEX
-SEX,AGE
-AGE,INCOME_WEALTH_QUANTILE
-AGE,EDUCATION_LEV
-AGE,DISABILITY_STATUS
+Frequency of observation,Reporting type
+Reporting type,Reference area
+Reference area,Sex
+Sex,Age
+Age,Income or wealth quantile
+Age,Education level
+Age,Disability status

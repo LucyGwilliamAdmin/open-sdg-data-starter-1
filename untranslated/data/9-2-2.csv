@@ -1,106 +1,106 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,SEX,Units,Value
-2010,A,N,SL_TLF_MANF,KG,,PT,7.8
-2011,A,N,SL_TLF_MANF,KG,,PT,7.6
-2012,A,N,SL_TLF_MANF,KG,,PT,7.6
-2013,A,N,SL_TLF_MANF,KG,,PT,6.9
-2014,A,N,SL_TLF_MANF,KG,,PT,6.9
-2015,A,N,SL_TLF_MANF,KG,,PT,7.4
-2016,A,N,SL_TLF_MANF,KG,,PT,7.6
-2017,A,N,SL_TLF_MANF,KG,,PT,10.1
-2018,A,N,SL_TLF_MANF,KG,,PT,12.0
-2010,A,N,SL_TLF_MANF,KG05,,PT,6.4
-2011,A,N,SL_TLF_MANF,KG05,,PT,6.4
-2012,A,N,SL_TLF_MANF,KG05,,PT,5.7
-2013,A,N,SL_TLF_MANF,KG05,,PT,3.1
-2014,A,N,SL_TLF_MANF,KG05,,PT,3.0
-2015,A,N,SL_TLF_MANF,KG05,,PT,2.3
-2016,A,N,SL_TLF_MANF,KG05,,PT,2.4
-2017,A,N,SL_TLF_MANF,KG05,,PT,4.5
-2018,A,N,SL_TLF_MANF,KG05,,PT,6.9
-2010,A,N,SL_TLF_MANF,KG03,,PT,3.1
-2011,A,N,SL_TLF_MANF,KG03,,PT,3.3
-2012,A,N,SL_TLF_MANF,KG03,,PT,4.3
-2013,A,N,SL_TLF_MANF,KG03,,PT,5.1
-2014,A,N,SL_TLF_MANF,KG03,,PT,5.3
-2015,A,N,SL_TLF_MANF,KG03,,PT,5.5
-2016,A,N,SL_TLF_MANF,KG03,,PT,5.4
-2017,A,N,SL_TLF_MANF,KG03,,PT,8.9
-2018,A,N,SL_TLF_MANF,KG03,,PT,15.3
-2010,A,N,SL_TLF_MANF,KG02,,PT,3.2
-2011,A,N,SL_TLF_MANF,KG02,,PT,3.7
-2012,A,N,SL_TLF_MANF,KG02,,PT,4.1
-2013,A,N,SL_TLF_MANF,KG02,,PT,4.1
-2014,A,N,SL_TLF_MANF,KG02,,PT,4.2
-2015,A,N,SL_TLF_MANF,KG02,,PT,4.7
-2016,A,N,SL_TLF_MANF,KG02,,PT,5.3
-2017,A,N,SL_TLF_MANF,KG02,,PT,6.4
-2018,A,N,SL_TLF_MANF,KG02,,PT,8.2
-2010,A,N,SL_TLF_MANF,KG04,,PT,2.4
-2011,A,N,SL_TLF_MANF,KG04,,PT,1.6
-2012,A,N,SL_TLF_MANF,KG04,,PT,1.6
-2013,A,N,SL_TLF_MANF,KG04,,PT,1.4
-2014,A,N,SL_TLF_MANF,KG04,,PT,0.9
-2015,A,N,SL_TLF_MANF,KG04,,PT,1.1
-2016,A,N,SL_TLF_MANF,KG04,,PT,1.4
-2017,A,N,SL_TLF_MANF,KG04,,PT,2.3
-2018,A,N,SL_TLF_MANF,KG04,,PT,3.9
-2010,A,N,SL_TLF_MANF,KG06,,PT,6.3
-2011,A,N,SL_TLF_MANF,KG06,,PT,5.9
-2012,A,N,SL_TLF_MANF,KG06,,PT,5.4
-2013,A,N,SL_TLF_MANF,KG06,,PT,2.7
-2014,A,N,SL_TLF_MANF,KG06,,PT,2.8
-2015,A,N,SL_TLF_MANF,KG06,,PT,3.4
-2016,A,N,SL_TLF_MANF,KG06,,PT,3.3
-2017,A,N,SL_TLF_MANF,KG06,,PT,4.7
-2018,A,N,SL_TLF_MANF,KG06,,PT,6.7
-2010,A,N,SL_TLF_MANF,KG07,,PT,2.6
-2011,A,N,SL_TLF_MANF,KG07,,PT,3.0
-2012,A,N,SL_TLF_MANF,KG07,,PT,3.1
-2013,A,N,SL_TLF_MANF,KG07,,PT,3.0
-2014,A,N,SL_TLF_MANF,KG07,,PT,2.2
-2015,A,N,SL_TLF_MANF,KG07,,PT,1.9
-2016,A,N,SL_TLF_MANF,KG07,,PT,2.1
-2017,A,N,SL_TLF_MANF,KG07,,PT,3.6
-2018,A,N,SL_TLF_MANF,KG07,,PT,3.8
-2010,A,N,SL_TLF_MANF,KG08,,PT,14.3
-2011,A,N,SL_TLF_MANF,KG08,,PT,14.3
-2012,A,N,SL_TLF_MANF,KG08,,PT,14.8
-2013,A,N,SL_TLF_MANF,KG08,,PT,13.7
-2014,A,N,SL_TLF_MANF,KG08,,PT,13.7
-2015,A,N,SL_TLF_MANF,KG08,,PT,15.1
-2016,A,N,SL_TLF_MANF,KG08,,PT,16.0
-2017,A,N,SL_TLF_MANF,KG08,,PT,21.6
-2018,A,N,SL_TLF_MANF,KG08,,PT,21.4
-2010,A,N,SL_TLF_MANF,KG11,,PT,14.5
-2011,A,N,SL_TLF_MANF,KG11,,PT,13.6
-2012,A,N,SL_TLF_MANF,KG11,,PT,12.8
-2013,A,N,SL_TLF_MANF,KG11,,PT,13.5
-2014,A,N,SL_TLF_MANF,KG11,,PT,13.5
-2015,A,N,SL_TLF_MANF,KG11,,PT,14.8
-2016,A,N,SL_TLF_MANF,KG11,,PT,15.4
-2017,A,N,SL_TLF_MANF,KG11,,PT,16.1
-2018,A,N,SL_TLF_MANF,KG11,,PT,16.4
-2013,A,N,SL_TLF_MANF,KG21,,PT,7.5
-2014,A,N,SL_TLF_MANF,KG21,,PT,7.8
-2015,A,N,SL_TLF_MANF,KG21,,PT,5.1
-2016,A,N,SL_TLF_MANF,KG21,,PT,5.1
-2017,A,N,SL_TLF_MANF,KG21,,PT,7.6
-2018,A,N,SL_TLF_MANF,KG21,,PT,8.5
-2010,A,N,SL_TLF_MANF,KG,F,PT,9.3
-2011,A,N,SL_TLF_MANF,KG,F,PT,8.8
-2012,A,N,SL_TLF_MANF,KG,F,PT,9.0
-2013,A,N,SL_TLF_MANF,KG,F,PT,8.8
-2014,A,N,SL_TLF_MANF,KG,F,PT,8.9
-2015,A,N,SL_TLF_MANF,KG,F,PT,8.4
-2016,A,N,SL_TLF_MANF,KG,F,PT,9.1
-2017,A,N,SL_TLF_MANF,KG,F,PT,11.3
-2018,A,N,SL_TLF_MANF,KG,F,PT,12.5
-2010,A,N,SL_TLF_MANF,KG,M,PT,6.7
-2011,A,N,SL_TLF_MANF,KG,M,PT,6.8
-2012,A,N,SL_TLF_MANF,KG,M,PT,6.6
-2013,A,N,SL_TLF_MANF,KG,M,PT,5.7
-2014,A,N,SL_TLF_MANF,KG,M,PT,5.6
-2015,A,N,SL_TLF_MANF,KG,M,PT,6.7
-2016,A,N,SL_TLF_MANF,KG,M,PT,6.7
-2017,A,N,SL_TLF_MANF,KG,M,PT,9.3
-2018,A,N,SL_TLF_MANF,KG,M,PT,11.7
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,7.8
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,7.6
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,7.6
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,6.9
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,6.9
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,7.4
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,7.6
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,10.1
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,,Percent,12.0
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,6.4
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,6.4
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,5.7
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,3.1
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,3.0
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,2.3
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,2.4
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,4.5
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Batken,,Percent,6.9
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,3.1
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,3.3
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,4.3
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,5.1
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,5.3
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,5.5
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,5.4
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,8.9
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Jalal-Abad,,Percent,15.3
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,3.2
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,3.7
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,4.1
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,4.1
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,4.2
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,4.7
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,5.3
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,6.4
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Issyk-Kul,,Percent,8.2
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,2.4
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,1.6
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,1.6
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,1.4
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,0.9
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,1.1
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,1.4
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,2.3
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Naryn,,Percent,3.9
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,6.3
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,5.9
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,5.4
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,2.7
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,2.8
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,3.4
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,3.3
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,4.7
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Osh,,Percent,6.7
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,2.6
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,3.0
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,3.1
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,3.0
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,2.2
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,1.9
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,2.1
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,3.6
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Talas,,Percent,3.8
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,14.3
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,14.3
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,14.8
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,13.7
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,13.7
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,15.1
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,16.0
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,21.6
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Chui,,Percent,21.4
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,14.5
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,13.6
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,12.8
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,13.5
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,13.5
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,14.8
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,15.4
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,16.1
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Bishkek (city),,Percent,16.4
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Osh (city),,Percent,7.5
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Osh (city),,Percent,7.8
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Osh (city),,Percent,5.1
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Osh (city),,Percent,5.1
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Osh (city),,Percent,7.6
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Osh (city),,Percent,8.5
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,9.3
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,8.8
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,9.0
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,8.8
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,8.9
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,8.4
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,9.1
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,11.3
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Female,Percent,12.5
+2010,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,6.7
+2011,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,6.8
+2012,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,6.6
+2013,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,5.7
+2014,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,5.6
+2015,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,6.7
+2016,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,6.7
+2017,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,9.3
+2018,Annual,National,Manufacturing employment as a proportion of total employment,Kyrgyzstan,Male,Percent,11.7

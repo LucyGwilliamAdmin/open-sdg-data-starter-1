@@ -1,7 +1,7 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
-2013,A,N,ER_PTD_MTN,KG,PT,6.01
-2014,A,N,ER_PTD_MTN,KG,PT,6.01
-2015,A,N,ER_PTD_MTN,KG,PT,6.01
-2016,A,N,ER_PTD_MTN,KG,PT,7.3
-2017,A,N,ER_PTD_MTN,KG,PT,7.38
-2018,A,N,ER_PTD_MTN,KG,PT,7.38
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2013,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,6.01
+2014,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,6.01
+2015,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,6.01
+2016,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,7.3
+2017,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,7.38
+2018,Annual,National,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas,Kyrgyzstan,Percent,7.38

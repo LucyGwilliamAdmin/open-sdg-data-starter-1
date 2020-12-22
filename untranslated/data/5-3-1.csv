@@ -1,41 +1,41 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,SEX,AGE,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,DISABILITY_STATUS,Units,Value
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,,,,PT,0.3
-2018,A,N,SP_DYN_MRBF15,KG05,F,Y20T24,,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG03,F,Y20T24,,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG02,F,Y20T24,,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG04,F,Y20T24,,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG06,F,Y20T24,,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG07,F,Y20T24,,,,PT,2.8
-2018,A,N,SP_DYN_MRBF15,KG08,F,Y20T24,,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG11,F,Y20T24,,,,PT,1.0
-2018,A,N,SP_DYN_MRBF15,KG21,F,Y20T24,,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,,ISCED11_2,,PT,0.6
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,,ISCED11_3,,PT,0.8
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,,ISCED11_4,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,,ISCED11_5,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,,,PWD,PT,0.3
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,Q1,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,Q2,,,PT,0.4
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,Q3,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,Q4,,,PT,0.0
-2018,A,N,SP_DYN_MRBF15,KG,F,Y20T24,Q5,,,PT,1.1
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,,,,PT,12.9
-2018,A,N,SP_DYN_MRBF18,KG05,F,Y20T24,,,,PT,14.4
-2018,A,N,SP_DYN_MRBF18,KG03,F,Y20T24,,,,PT,13.6
-2018,A,N,SP_DYN_MRBF18,KG02,F,Y20T24,,,,PT,11.5
-2018,A,N,SP_DYN_MRBF18,KG04,F,Y20T24,,,,PT,18.4
-2018,A,N,SP_DYN_MRBF18,KG06,F,Y20T24,,,,PT,18.3
-2018,A,N,SP_DYN_MRBF18,KG07,F,Y20T24,,,,PT,16.5
-2018,A,N,SP_DYN_MRBF18,KG08,F,Y20T24,,,,PT,11.6
-2018,A,N,SP_DYN_MRBF18,KG11,F,Y20T24,,,,PT,5.3
-2018,A,N,SP_DYN_MRBF18,KG21,F,Y20T24,,,,PT,13.2
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,,ISCED11_2,,PT,30.3
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,,ISCED11_3,,PT,21.3
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,,ISCED11_4,,PT,6.0
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,,ISCED11_5,,PT,2.6
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,,,PWD,PT,12.7
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,Q1,,,PT,11.8
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,Q2,,,PT,19.7
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,Q3,,,PT,14.4
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,Q4,,,PT,12.5
-2018,A,N,SP_DYN_MRBF18,KG,F,Y20T24,Q5,,,PT,6.4
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Income or wealth quantile,Education level,Disability status,Units,Value
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,,,,Percent,0.3
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Batken,Female,20 to 24 years old,,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Jalal-Abad,Female,20 to 24 years old,,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Issyk-Kul,Female,20 to 24 years old,,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Naryn,Female,20 to 24 years old,,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Osh,Female,20 to 24 years old,,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Talas,Female,20 to 24 years old,,,,Percent,2.8
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Chui,Female,20 to 24 years old,,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Bishkek (city),Female,20 to 24 years old,,,,Percent,1.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Osh (city),Female,20 to 24 years old,,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,,Lower secondary education,,Percent,0.6
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,,Upper secondary education,,Percent,0.8
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,,Post-secondary non-tertiary education,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,,Short-cycle tertiary education,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,,,Persons without disability,Percent,0.3
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,Quintile 1 (poorest),,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,Quintile 2,,,Percent,0.4
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,Quintile 3,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,Quintile 4,,,Percent,0.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 15,Kyrgyzstan,Female,20 to 24 years old,Quintile 5 (richest),,,Percent,1.1
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,,,,Percent,12.9
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Batken,Female,20 to 24 years old,,,,Percent,14.4
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Jalal-Abad,Female,20 to 24 years old,,,,Percent,13.6
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Issyk-Kul,Female,20 to 24 years old,,,,Percent,11.5
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Naryn,Female,20 to 24 years old,,,,Percent,18.4
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Osh,Female,20 to 24 years old,,,,Percent,18.3
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Talas,Female,20 to 24 years old,,,,Percent,16.5
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Chui,Female,20 to 24 years old,,,,Percent,11.6
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Bishkek (city),Female,20 to 24 years old,,,,Percent,5.3
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Osh (city),Female,20 to 24 years old,,,,Percent,13.2
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,,Lower secondary education,,Percent,30.3
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,,Upper secondary education,,Percent,21.3
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,,Post-secondary non-tertiary education,,Percent,6.0
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,,Short-cycle tertiary education,,Percent,2.6
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,,,Persons without disability,Percent,12.7
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,Quintile 1 (poorest),,,Percent,11.8
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,Quintile 2,,,Percent,19.7
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,Quintile 3,,,Percent,14.4
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,Quintile 4,,,Percent,12.5
+2018,Annual,National,Proportion of women aged 20-24 years who were married or in a union before age 18,Kyrgyzstan,Female,20 to 24 years old,Quintile 5 (richest),,,Percent,6.4

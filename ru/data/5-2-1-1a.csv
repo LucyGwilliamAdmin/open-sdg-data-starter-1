@@ -1,45 +1,54 @@
-Year,Частота наблюдений,Тип отчетности,Series,Территория,Пол,Units,Value
-2010,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1308
-2011,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1453
-2012,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1900
-2013,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1589
-2014,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1988
-2015,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,936
-2016,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1172
-2017,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1382
-2018,Годовая,Национальный,_L_KG_050201_1A1,Киргизия,Женщины,NUMBER,1305
-2010,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,68
-2011,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,155
-2012,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,16
-2013,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,48
-2014,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,35
-2015,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,12
-2016,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,2
-2017,Годовая,Национальный,_L_KG_050201_1A2,Киргизия,Женщины,NUMBER,1
-2010,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,401
-2011,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,581
-2012,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,509
-2013,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,508
-2014,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,495
-2015,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,666
-2016,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,657
-2017,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,629
-2018,Годовая,Национальный,_L_KG_050201_1A3,Киргизия,Женщины,NUMBER,555
-2010,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,414
-2011,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,320
-2012,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,498
-2013,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,822
-2014,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,570
-2015,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,485
-2016,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,372
-2017,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,176
-2018,Годовая,Национальный,_L_KG_050201_1A4,Киргизия,Женщины,NUMBER,47
-2010,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,445
-2011,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,491
-2012,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,504
-2013,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,600
-2014,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,731
-2015,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,1896
-2016,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,1404
-2017,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,1084
-2018,Годовая,Национальный,_L_KG_050201_1A5,Киргизия,Женщины,NUMBER,970
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),пол,Units,Value
+2010,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1308
+2011,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1453
+2012,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1900
+2013,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1589
+2014,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1988
+2015,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,936
+2016,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1172
+2017,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1382
+2018,Annual,National,Number of women who contacted forensic medical units due to domestic violence,Kyrgyzstan,женский,Number,1305
+2010,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,68
+2011,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,155
+2012,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,16
+2013,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,48
+2014,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,35
+2015,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,12
+2016,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,2
+2017,Annual,National,Number of women who contacted paramedic-midwifery units due to domestic violence,Kyrgyzstan,женский,Number,1
+2010,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,401
+2011,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,581
+2012,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,509
+2013,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,508
+2014,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,495
+2015,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,666
+2016,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,657
+2017,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,629
+2018,Annual,National,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence",Kyrgyzstan,женский,Number,555
+2010,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,414
+2011,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,320
+2012,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,498
+2013,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,822
+2014,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,570
+2015,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,485
+2016,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,372
+2017,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,176
+2018,Annual,National,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",Kyrgyzstan,женский,Number,47
+2010,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,445
+2011,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,491
+2012,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,504
+2013,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,600
+2014,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,731
+2015,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,1896
+2016,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,1404
+2017,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,1084
+2018,Annual,National,Number of women treated for injuries resulting from domestic violence,Kyrgyzstan,женский,Number,970

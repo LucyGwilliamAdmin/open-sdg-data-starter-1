@@ -1,41 +1,41 @@
-Year,Частота наблюдений,Тип отчетности,Series,Территория,Возраст,Units,Value
-2014,Годовая,Национальный,SH_STA_WAST,Киргизия,до 5 лет,PT,2.8
-2018,Годовая,Национальный,SH_STA_WAST,Киргизия,до 5 лет,PT,2.0
-2014,Годовая,Национальный,SH_STA_WAST,Баткенская область,до 5 лет,PT,2.2
-2018,Годовая,Национальный,SH_STA_WAST,Баткенская область,до 5 лет,PT,2.3
-2014,Годовая,Национальный,SH_STA_WAST,Джалал-Абадская область,до 5 лет,PT,7.9
-2018,Годовая,Национальный,SH_STA_WAST,Джалал-Абадская область,до 5 лет,PT,3.8
-2014,Годовая,Национальный,SH_STA_WAST,Иссык-Кульская область,до 5 лет,PT,1.7
-2018,Годовая,Национальный,SH_STA_WAST,Иссык-Кульская область,до 5 лет,PT,2.1
-2014,Годовая,Национальный,SH_STA_WAST,Нарынская область,до 5 лет,PT,0.5
-2018,Годовая,Национальный,SH_STA_WAST,Нарынская область,до 5 лет,PT,1.1
-2014,Годовая,Национальный,SH_STA_WAST,Ошская область,до 5 лет,PT,1.1
-2018,Годовая,Национальный,SH_STA_WAST,Ошская область,до 5 лет,PT,1.6
-2014,Годовая,Национальный,SH_STA_WAST,Таласская область,до 5 лет,PT,1.0
-2018,Годовая,Национальный,SH_STA_WAST,Таласская область,до 5 лет,PT,2.9
-2014,Годовая,Национальный,SH_STA_WAST,Чуйская область,до 5 лет,PT,1.5
-2018,Годовая,Национальный,SH_STA_WAST,Чуйская область,до 5 лет,PT,1.5
-2014,Годовая,Национальный,SH_STA_WAST,г. Бишкек,до 5 лет,PT,2.1
-2018,Годовая,Национальный,SH_STA_WAST,г. Бишкек,до 5 лет,PT,0.6
-2014,Годовая,Национальный,SH_STA_WAST,г. Ош,до 5 лет,PT,2.4
-2018,Годовая,Национальный,SH_STA_WAST,г. Ош,до 5 лет,PT,1.8
-2014,Годовая,Национальный,SN_STA_OVWGT,Киргизия,до 5 лет,PT,7.0
-2018,Годовая,Национальный,SN_STA_OVWGT,Киргизия,до 5 лет,PT,6.9
-2014,Годовая,Национальный,SN_STA_OVWGT,Баткенская область,до 5 лет,PT,3.4
-2018,Годовая,Национальный,SN_STA_OVWGT,Баткенская область,до 5 лет,PT,6.9
-2014,Годовая,Национальный,SN_STA_OVWGT,Джалал-Абадская область,до 5 лет,PT,8.7
-2018,Годовая,Национальный,SN_STA_OVWGT,Джалал-Абадская область,до 5 лет,PT,8.9
-2014,Годовая,Национальный,SN_STA_OVWGT,Иссык-Кульская область,до 5 лет,PT,7.8
-2018,Годовая,Национальный,SN_STA_OVWGT,Иссык-Кульская область,до 5 лет,PT,4.6
-2014,Годовая,Национальный,SN_STA_OVWGT,Нарынская область,до 5 лет,PT,6.2
-2018,Годовая,Национальный,SN_STA_OVWGT,Нарынская область,до 5 лет,PT,4.4
-2014,Годовая,Национальный,SN_STA_OVWGT,Ошская область,до 5 лет,PT,4.7
-2018,Годовая,Национальный,SN_STA_OVWGT,Ошская область,до 5 лет,PT,5.3
-2014,Годовая,Национальный,SN_STA_OVWGT,Таласская область,до 5 лет,PT,7.3
-2018,Годовая,Национальный,SN_STA_OVWGT,Таласская область,до 5 лет,PT,2.9
-2014,Годовая,Национальный,SN_STA_OVWGT,Чуйская область,до 5 лет,PT,9.0
-2018,Годовая,Национальный,SN_STA_OVWGT,Чуйская область,до 5 лет,PT,11.7
-2014,Годовая,Национальный,SN_STA_OVWGT,г. Бишкек,до 5 лет,PT,9.5
-2018,Годовая,Национальный,SN_STA_OVWGT,г. Бишкек,до 5 лет,PT,7.4
-2014,Годовая,Национальный,SN_STA_OVWGT,г. Ош,до 5 лет,PT,4.3
-2018,Годовая,Национальный,SN_STA_OVWGT,г. Ош,до 5 лет,PT,3.3
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),Возраст,Units,Value
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Kyrgyzstan,до 5 лет,Процент,2.8
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Kyrgyzstan,до 5 лет,Процент,2.0
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Баткенская область,до 5 лет,Процент,2.2
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Баткенская область,до 5 лет,Процент,2.3
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Жалал-Абад область,до 5 лет,Процент,7.9
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Жалал-Абад область,до 5 лет,Процент,3.8
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Иссык-Кульская область,до 5 лет,Процент,1.7
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Иссык-Кульская область,до 5 лет,Процент,2.1
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Нарынская область,до 5 лет,Процент,0.5
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Нарынская область,до 5 лет,Процент,1.1
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Ошская область,до 5 лет,Процент,1.1
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Ошская область,до 5 лет,Процент,1.6
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Таласская область,до 5 лет,Процент,1.0
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Таласская область,до 5 лет,Процент,2.9
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Чуйская область,до 5 лет,Процент,1.5
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Чуйская область,до 5 лет,Процент,1.5
+2014,Annual,National,Proportion of children moderately or severely wasted (number),г. Бишкек,до 5 лет,Процент,2.1
+2018,Annual,National,Proportion of children moderately or severely wasted (number),г. Бишкек,до 5 лет,Процент,0.6
+2014,Annual,National,Proportion of children moderately or severely wasted (number),г. Ош,до 5 лет,Процент,2.4
+2018,Annual,National,Proportion of children moderately or severely wasted (number),г. Ош,до 5 лет,Процент,1.8
+2014,Annual,National,Proportion of children moderately or severely overweight,Kyrgyzstan,до 5 лет,Процент,7.0
+2018,Annual,National,Proportion of children moderately or severely overweight,Kyrgyzstan,до 5 лет,Процент,6.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Баткенская область,до 5 лет,Процент,3.4
+2018,Annual,National,Proportion of children moderately or severely overweight,Баткенская область,до 5 лет,Процент,6.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Жалал-Абад область,до 5 лет,Процент,8.7
+2018,Annual,National,Proportion of children moderately or severely overweight,Жалал-Абад область,до 5 лет,Процент,8.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Иссык-Кульская область,до 5 лет,Процент,7.8
+2018,Annual,National,Proportion of children moderately or severely overweight,Иссык-Кульская область,до 5 лет,Процент,4.6
+2014,Annual,National,Proportion of children moderately or severely overweight,Нарынская область,до 5 лет,Процент,6.2
+2018,Annual,National,Proportion of children moderately or severely overweight,Нарынская область,до 5 лет,Процент,4.4
+2014,Annual,National,Proportion of children moderately or severely overweight,Ошская область,до 5 лет,Процент,4.7
+2018,Annual,National,Proportion of children moderately or severely overweight,Ошская область,до 5 лет,Процент,5.3
+2014,Annual,National,Proportion of children moderately or severely overweight,Таласская область,до 5 лет,Процент,7.3
+2018,Annual,National,Proportion of children moderately or severely overweight,Таласская область,до 5 лет,Процент,2.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Чуйская область,до 5 лет,Процент,9.0
+2018,Annual,National,Proportion of children moderately or severely overweight,Чуйская область,до 5 лет,Процент,11.7
+2014,Annual,National,Proportion of children moderately or severely overweight,г. Бишкек,до 5 лет,Процент,9.5
+2018,Annual,National,Proportion of children moderately or severely overweight,г. Бишкек,до 5 лет,Процент,7.4
+2014,Annual,National,Proportion of children moderately or severely overweight,г. Ош,до 5 лет,Процент,4.3
+2018,Annual,National,Proportion of children moderately or severely overweight,г. Ош,до 5 лет,Процент,3.3

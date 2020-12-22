@@ -1,121 +1,121 @@
-Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
-2007,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,18.4
-2008,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,19.2
-2009,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,17.6
-2010,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,16.1
-2011,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,16.9
-2012,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,16.5
-2013,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,17.9
-2014,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,15.3
-2015,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,15.6
-2016,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,13.4
-2017,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,13.7
-2018,Годовая,Национальный,SH_STA_TRAF,Киргизия,PER_100000_POP,11.0
-2007,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,8.3
-2008,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,13.7
-2009,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,15.8
-2010,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,13.0
-2011,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,12.6
-2012,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,12.8
-2013,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,14.6
-2014,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,12.0
-2015,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,15.8
-2016,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,11.0
-2017,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,13.6
-2018,Годовая,Национальный,SH_STA_TRAF,Баткенская область,PER_100000_POP,9.0
-2007,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,13.2
-2008,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,16.7
-2009,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,16.5
-2010,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,12.9
-2011,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,15.2
-2012,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,17.5
-2013,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,14.6
-2014,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,11.8
-2015,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,12.7
-2016,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,11.1
-2017,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,8.6
-2018,Годовая,Национальный,SH_STA_TRAF,Джалал-Абадская область,PER_100000_POP,7.9
-2007,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,32.5
-2008,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,29.3
-2009,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,23.2
-2010,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,27.3
-2011,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,32.5
-2012,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,26.6
-2013,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,35.3
-2014,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,23.9
-2015,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,27.8
-2016,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,22.8
-2017,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,25.8
-2018,Годовая,Национальный,SH_STA_TRAF,Иссык-Кульская область,PER_100000_POP,18.5
-2007,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,29.2
-2008,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,26.4
-2009,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,28.3
-2010,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,27.6
-2011,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,26.9
-2012,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,27.0
-2013,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,24.8
-2014,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,28.9
-2015,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,30.8
-2016,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,19.7
-2017,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,26.5
-2018,Годовая,Национальный,SH_STA_TRAF,Нарынская область,PER_100000_POP,24.9
-2007,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,13.5
-2008,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,15.3
-2009,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,14.5
-2010,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,14.7
-2011,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,14.7
-2012,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,15.0
-2013,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,14.3
-2014,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,15.5
-2015,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,12.4
-2016,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,11.7
-2017,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,11.8
-2018,Годовая,Национальный,SH_STA_TRAF,Ошская область,PER_100000_POP,9.6
-2007,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,15.3
-2008,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,17.3
-2009,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,16.7
-2010,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,19.1
-2011,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,24.4
-2012,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,25.3
-2013,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,23.2
-2014,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,21.6
-2015,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,16.0
-2016,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,17.4
-2017,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,15.6
-2018,Годовая,Национальный,SH_STA_TRAF,Таласская область,PER_100000_POP,20.3
-2007,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,31.0
-2008,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,28.1
-2009,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,23.2
-2010,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,19.7
-2011,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,20.0
-2012,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,18.9
-2013,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,24.5
-2014,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,20.0
-2015,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,20.5
-2016,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,18.2
-2017,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,19.9
-2018,Годовая,Национальный,SH_STA_TRAF,Чуйская область,PER_100000_POP,14.8
-2007,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,14.4
-2008,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,15.6
-2009,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,13.0
-2010,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,10.1
-2011,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,9.2
-2012,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,8.4
-2013,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,11.5
-2014,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,7.8
-2015,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,9.1
-2016,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,8.5
-2017,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,8.6
-2018,Годовая,Национальный,SH_STA_TRAF,г. Бишкек,PER_100000_POP,5.4
-2007,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,17.2
-2008,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,16.7
-2009,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,15.5
-2010,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,14.4
-2011,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,12.9
-2012,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,9.7
-2013,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,12.2
-2014,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,10.5
-2015,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,12.5
-2016,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,10.0
-2017,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,7.7
-2018,Годовая,Национальный,SH_STA_TRAF,г. Ош,PER_100000_POP,6.1
+Year,Frequency of observation,Reporting type,Series,Справочная зона (условная зона),Units,Value
+2007,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",18.4
+2008,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",19.2
+2009,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",17.6
+2010,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",16.1
+2011,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",16.9
+2012,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",16.5
+2013,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",17.9
+2014,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",15.3
+2015,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",15.6
+2016,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",13.4
+2017,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",13.7
+2018,Annual,National,Death rate due to road traffic injuries,Kyrgyzstan,"Per 100,000 population",11.0
+2007,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",8.3
+2008,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",13.7
+2009,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",15.8
+2010,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",13.0
+2011,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",12.6
+2012,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",12.8
+2013,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",14.6
+2014,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",12.0
+2015,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",15.8
+2016,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",11.0
+2017,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",13.6
+2018,Annual,National,Death rate due to road traffic injuries,Баткенская область,"Per 100,000 population",9.0
+2007,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",13.2
+2008,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",16.7
+2009,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",16.5
+2010,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",12.9
+2011,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",15.2
+2012,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",17.5
+2013,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",14.6
+2014,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",11.8
+2015,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",12.7
+2016,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",11.1
+2017,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",8.6
+2018,Annual,National,Death rate due to road traffic injuries,Жалал-Абад область,"Per 100,000 population",7.9
+2007,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",32.5
+2008,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",29.3
+2009,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",23.2
+2010,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",27.3
+2011,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",32.5
+2012,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",26.6
+2013,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",35.3
+2014,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",23.9
+2015,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",27.8
+2016,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",22.8
+2017,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",25.8
+2018,Annual,National,Death rate due to road traffic injuries,Иссык-Кульская область,"Per 100,000 population",18.5
+2007,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",29.2
+2008,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",26.4
+2009,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",28.3
+2010,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",27.6
+2011,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",26.9
+2012,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",27.0
+2013,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",24.8
+2014,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",28.9
+2015,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",30.8
+2016,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",19.7
+2017,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",26.5
+2018,Annual,National,Death rate due to road traffic injuries,Нарынская область,"Per 100,000 population",24.9
+2007,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",13.5
+2008,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",15.3
+2009,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",14.5
+2010,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",14.7
+2011,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",14.7
+2012,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",15.0
+2013,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",14.3
+2014,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",15.5
+2015,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",12.4
+2016,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",11.7
+2017,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",11.8
+2018,Annual,National,Death rate due to road traffic injuries,Ошская область,"Per 100,000 population",9.6
+2007,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",15.3
+2008,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",17.3
+2009,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",16.7
+2010,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",19.1
+2011,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",24.4
+2012,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",25.3
+2013,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",23.2
+2014,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",21.6
+2015,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",16.0
+2016,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",17.4
+2017,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",15.6
+2018,Annual,National,Death rate due to road traffic injuries,Таласская область,"Per 100,000 population",20.3
+2007,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",31.0
+2008,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",28.1
+2009,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",23.2
+2010,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",19.7
+2011,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",20.0
+2012,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",18.9
+2013,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",24.5
+2014,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",20.0
+2015,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",20.5
+2016,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",18.2
+2017,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",19.9
+2018,Annual,National,Death rate due to road traffic injuries,Чуйская область,"Per 100,000 population",14.8
+2007,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",14.4
+2008,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",15.6
+2009,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",13.0
+2010,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",10.1
+2011,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",9.2
+2012,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",8.4
+2013,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",11.5
+2014,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",7.8
+2015,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",9.1
+2016,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",8.5
+2017,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",8.6
+2018,Annual,National,Death rate due to road traffic injuries,г. Бишкек,"Per 100,000 population",5.4
+2007,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",17.2
+2008,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",16.7
+2009,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",15.5
+2010,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",14.4
+2011,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",12.9
+2012,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",9.7
+2013,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",12.2
+2014,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",10.5
+2015,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",12.5
+2016,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",10.0
+2017,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",7.7
+2018,Annual,National,Death rate due to road traffic injuries,г. Ош,"Per 100,000 population",6.1

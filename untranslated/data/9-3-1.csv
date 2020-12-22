@@ -1,10 +1,10 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
-2010,A,N,NV_IND_SSIS,KG,PT,1.6
-2011,A,N,NV_IND_SSIS,KG,PT,1.4
-2012,A,N,NV_IND_SSIS,KG,PT,1.4
-2013,A,N,NV_IND_SSIS,KG,PT,1.4
-2014,A,N,NV_IND_SSIS,KG,PT,1.5
-2015,A,N,NV_IND_SSIS,KG,PT,1.5
-2016,A,N,NV_IND_SSIS,KG,PT,1.5
-2017,A,N,NV_IND_SSIS,KG,PT,1.7
-2018,A,N,NV_IND_SSIS,KG,PT,1.7
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2010,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.6
+2011,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.4
+2012,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.4
+2013,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.4
+2014,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.5
+2015,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.5
+2016,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.5
+2017,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.7
+2018,Annual,National,Proportion of small-scale industries in total industry value added,Kyrgyzstan,Percent,1.7
