@@ -83,14 +83,11 @@ reporting_status_extra_fields: []
 
 
 indicator_downloads:
-  - button_label: indicator.download_source
-    source_pattern: data/*.csv
+  - button_label: Download Source SDMX
+    source_pattern: data/*.xml
     indicator_id_pattern: (.*)
-    output_folder: data-csv
-  - button_label: indicator.download_source_excel
-    source_pattern: excel_files/*.xlsx
-    indicator_id_pattern: (.*)
-    output_folder: excel_files
+    output_folder: data-sdmx
+
 
 docs_branding: Test data service
 docs_intro: This is a list of outputs that are
