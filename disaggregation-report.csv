@@ -1,17 +1,44 @@
-Disaggregation,en,Number of indicators,Number of values
-Возраст,Age,28,53
-Композитная разбивка,Composite breakdown,10,65
-Степень урбанизации,Degree of urbanisation,19,2
-Disability status,Disability status,4,2
-Economic activity,Economic activity,5,22
-Уровень образования,Education level,15,10
-Frequency of observation,Frequency of observation,118,2
-Доход или квинтиль благосостояния,Income or wealth quantile,8,5
-Род занятий (Профессия),Occupation,1,4
-Справочная зона (условная зона),Reference area,118,10
-Reporting type,Reporting type,118,1
-SDG Series,SDG Series,118,151
-пол,Sex,43,2
-Сноски для временных рядов,Time series-level footnotes,2,4
-Type of product,Type of product,1,10
-Unit of measure,Unit of measure,118,18
+Disaggregation,Number of indicators,Number of values
+ACTIVITY,5,22
+AGE,22,36
+baz,1,4
+COMMENT_OBS,1,1
+COMMENT_TS,2,3
+COMPOSITE_BREAKDOWN,9,60
+DISABILITY_STATUS,4,2
+EDUCATION_LEV,10,8
+FREQ,99,2
+INCOME_WEALTH_QUANTILE,8,5
+OBS_STATUS,1,1
+OCCUPATION,1,4
+PRODUCT,1,10
+REF_AREA,100,10
+REPORTING_TYPE,99,1
+SEX,32,2
+URBANISATION,14,3
+Возраст (в месяцах),1,5
+Возраст (лет),4,20
+Возраст,12,23
+Деятельность,3,19
+Донор,1,7
+Единица измерения,1,3
+Квинтиль индекса благосостояния,6,10
+Местность,15,4
+Образование главы домохозяйства,1,5
+Образование матери,3,8
+Образование,2,7
+По видам,1,6
+По классам,2,3
+Показатели,1,6
+Показатель,16,50
+Пол,19,6
+Посещаемость школы,1,2
+Род занятий,1,4
+Территория,23,14
+Уровень образования,7,13
+Функциональные трудности (возраст: 18-49лет),1,2
+Функциональные трудности у матери (возраст: 18-49 лет),2,3
+Функциональные трудности у матери,1,3
+Функциональные трудности у ребенка (возраст: 2-14 лет),1,2
+Функциональные трудности у ребенка (возраст: 2-4 лет),1,2
+Функциональные трудности у ребенка,2,2

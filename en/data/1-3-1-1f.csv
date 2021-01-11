@@ -1,25 +1,25 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2007,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,114961.0
-2008,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,120274.0
-2009,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,124751.0
-2010,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,133398.0
-2011,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,142897.0
-2012,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,150206.0
-2013,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,162967.0
-2014,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,168679.0
-2015,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,174693.0
-2016,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,178944.0
-2017,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,183330.0
-2018,Annual,National,Number of people with disabilities receiving pensions Monthly Social Allowance,Kyrgyzstan,Percent,187313.0
-2007,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.190749
-2008,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.273953
-2009,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.326232
-2010,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.46199
-2011,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.608742
-2012,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.705494
-2013,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.821172
-2014,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.861361
-2015,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.902128
-2016,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.914302
-2017,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.930125
-2018,Annual,National,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Kyrgyzstan,Percent,2.931575
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2007,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,114961.0
+2008,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,120274.0
+2009,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,124751.0
+2010,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,133398.0
+2011,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,142897.0
+2012,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,150206.0
+2013,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,162967.0
+2014,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,168679.0
+2015,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,174693.0
+2016,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,178944.0
+2017,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,183330.0
+2018,Annual,National,_L_KG_010301_1F2,Kyrgyzstan,PT,187313.0
+2007,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.190749
+2008,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.273953
+2009,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.326232
+2010,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.46199
+2011,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.608742
+2012,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.705494
+2013,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.821172
+2014,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.861361
+2015,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.902128
+2016,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.914302
+2017,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.930125
+2018,Annual,National,_L_KG_010301_1F1,Kyrgyzstan,PT,2.931575

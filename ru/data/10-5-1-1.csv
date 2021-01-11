@@ -1,36 +1,36 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Unit of measure,Value
-2008,Annual,National,Assets to GDP,Kyrgyzstan,Процент,29.2
-2009,Annual,National,Assets to GDP,Kyrgyzstan,Процент,36.6
-2010,Annual,National,Assets to GDP,Kyrgyzstan,Процент,27.6
-2011,Annual,National,Assets to GDP,Kyrgyzstan,Процент,23.6
-2012,Annual,National,Assets to GDP,Kyrgyzstan,Процент,28.2
-2013,Annual,National,Assets to GDP,Kyrgyzstan,Процент,31.3
-2014,Annual,National,Assets to GDP,Kyrgyzstan,Процент,34.3
-2015,Annual,National,Assets to GDP,Kyrgyzstan,Процент,41.4
-2016,Annual,National,Assets to GDP,Kyrgyzstan,Процент,37.4
-2017,Annual,National,Assets to GDP,Kyrgyzstan,Процент,37.3
-2018,Annual,National,Assets to GDP,Kyrgyzstan,Процент,39.8
-2007,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,16.5
-2008,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,15.7
-2009,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,19.7
-2010,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,15.5
-2011,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,13.5
-2012,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,16.3
-2013,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,19.0
-2014,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,20.6
-2015,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,23.9
-2016,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,22.5
-2017,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,22.9
-2018,Annual,National,Deposits to GDP,Kyrgyzstan,Процент,23.9
-2007,Annual,National,Loans to GDP,Kyrgyzstan,Процент,14.7
-2008,Annual,National,Loans to GDP,Kyrgyzstan,Процент,13.6
-2009,Annual,National,Loans to GDP,Kyrgyzstan,Процент,12.5
-2010,Annual,National,Loans to GDP,Kyrgyzstan,Процент,12.0
-2011,Annual,National,Loans to GDP,Kyrgyzstan,Процент,10.9
-2012,Annual,National,Loans to GDP,Kyrgyzstan,Процент,12.9
-2013,Annual,National,Loans to GDP,Kyrgyzstan,Процент,15.2
-2014,Annual,National,Loans to GDP,Kyrgyzstan,Процент,19.7
-2015,Annual,National,Loans to GDP,Kyrgyzstan,Процент,21.8
-2016,Annual,National,Loans to GDP,Kyrgyzstan,Процент,19.6
-2017,Annual,National,Loans to GDP,Kyrgyzstan,Процент,20.4
-2018,Annual,National,Loans to GDP,Kyrgyzstan,Процент,23.0
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
+2008,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,29.2
+2009,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,36.6
+2010,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,27.6
+2011,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,23.6
+2012,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,28.2
+2013,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,31.3
+2014,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,34.3
+2015,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,41.4
+2016,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,37.4
+2017,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,37.3
+2018,Годовая,Национальный,_L_KG_100501_11,Киргизия,PT,39.8
+2007,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,16.5
+2008,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,15.7
+2009,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,19.7
+2010,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,15.5
+2011,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,13.5
+2012,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,16.3
+2013,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,19.0
+2014,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,20.6
+2015,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,23.9
+2016,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,22.5
+2017,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,22.9
+2018,Годовая,Национальный,_L_KG_100501_12,Киргизия,PT,23.9
+2007,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,14.7
+2008,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,13.6
+2009,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,12.5
+2010,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,12.0
+2011,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,10.9
+2012,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,12.9
+2013,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,15.2
+2014,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,19.7
+2015,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,21.8
+2016,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,19.6
+2017,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,20.4
+2018,Годовая,Национальный,_L_KG_100501_13,Киргизия,PT,23.0

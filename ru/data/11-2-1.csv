@@ -1,20 +1,23 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),пол,Степень урбанизации,Уровень образования,Unit of measure,Value
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,,,Процент,48.5
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,городская местность,,Процент,66.0
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,сельская местность,,Процент,38.1
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,мужской,,,Процент,47.9
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,женский,,,Процент,49.0
-2018,Annual,National,Proportion of population that has convenient access to public transport,Баткенская область,,,,Процент,32.9
-2018,Annual,National,Proportion of population that has convenient access to public transport,Жалал-Абад область,,,,Процент,18.3
-2018,Annual,National,Proportion of population that has convenient access to public transport,Иссык-Кульская область,,,,Процент,72.5
-2018,Annual,National,Proportion of population that has convenient access to public transport,Нарынская область,,,,Процент,39.3
-2018,Annual,National,Proportion of population that has convenient access to public transport,Ошская область,,,,Процент,39.6
-2018,Annual,National,Proportion of population that has convenient access to public transport,Таласская область,,,,Процент,42.2
-2018,Annual,National,Proportion of population that has convenient access to public transport,Чуйская область,,,,Процент,63.1
-2018,Annual,National,Proportion of population that has convenient access to public transport,г. Бишкек,,,,Процент,67.7
-2018,Annual,National,Proportion of population that has convenient access to public transport,г. Ош,,,,Процент,94.6
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,,Начальное образование (1-4 классы),Процент,48.2
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,,1- этап среднего образования,Процент,51.2
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,,2- этап среднего образования,Процент,42.7
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,,Послесреднее нетретичное образование,Процент,55.4
-2018,Annual,National,Proportion of population that has convenient access to public transport,Kyrgyzstan,,,Short-cycle tertiary education,Процент,56.0
+Year,Территория,Местность,Пол,Возраст,Уровень образования,Value
+2018,,,,,,48.5
+2018,,Городская,,,,66.0
+2018,,Сельская,,,,38.1
+2018,,,Мужчины,,,47.9
+2018,,,Женщины,,,49.0
+2018,Баткенская область,,,,,32.9
+2018,Джалал-Абадская область,,,,,18.3
+2018,Иссык-Кульская область,,,,,72.5
+2018,Нарынская область,,,,,39.3
+2018,Ошская область,,,,,39.6
+2018,Таласская область,,,,,42.2
+2018,Чуйская область,,,,,63.1
+2018,г. Бишкек,,,,,67.7
+2018,г. Ош,,,,,94.6
+2018,,,,"Молодёжь, 15-28 лет",,48.4
+2018,,,,Взрослое население трудоспособного возраста (от 29 лет),,48.9
+2018,,,,"Старше трудоспособного возраста (женщины 58 лет и старше, мужчины 63 лет и старше)",,48.1
+2018,,,,,Начальное и ниже,48.2
+2018,,,,,Основное общее,51.2
+2018,,,,,Среднее общее,42.7
+2018,,,,,"Профессиональное среднее, общее",55.4
+2018,,,,,Профессиональное высшее,56.0

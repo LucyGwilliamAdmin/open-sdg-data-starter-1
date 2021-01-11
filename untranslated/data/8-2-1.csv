@@ -1,13 +1,13 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2007,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,106.9
-2008,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,108.3
-2009,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,102.4
-2010,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,98.4
-2011,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,104.3
-2012,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,98.8
-2013,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,111.3
-2014,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,101.4
-2015,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,101.8
-2016,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,105.7
-2017,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,105.4
-2018,Annual,National,Annual growth rate of real GDP per employed person,Kyrgyzstan,Percent,103.6
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2007,A,N,SL_EMP_PCAP,KG,PT,106.9
+2008,A,N,SL_EMP_PCAP,KG,PT,108.3
+2009,A,N,SL_EMP_PCAP,KG,PT,102.4
+2010,A,N,SL_EMP_PCAP,KG,PT,98.4
+2011,A,N,SL_EMP_PCAP,KG,PT,104.3
+2012,A,N,SL_EMP_PCAP,KG,PT,98.8
+2013,A,N,SL_EMP_PCAP,KG,PT,111.3
+2014,A,N,SL_EMP_PCAP,KG,PT,101.4
+2015,A,N,SL_EMP_PCAP,KG,PT,101.8
+2016,A,N,SL_EMP_PCAP,KG,PT,105.7
+2017,A,N,SL_EMP_PCAP,KG,PT,105.4
+2018,A,N,SL_EMP_PCAP,KG,PT,103.6

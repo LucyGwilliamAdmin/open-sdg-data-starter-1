@@ -1,22 +1,22 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Unit of measure,Value
-2007,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,3014
-2008,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,2136
-2009,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,1742
-2010,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,1862
-2011,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,2098
-2012,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,2843
-2013,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,2466
-2014,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,2411
-2015,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,2483
-2016,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,3800
-2017,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,3242
-2018,Annual,National,Number of appeals to the Ombudsman,Kyrgyzstan,Number,3237
-2007,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,619
-2010,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,309
-2011,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,196
-2012,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,501
-2013,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,384
-2015,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,374
-2016,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,615
-2017,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,531
-2018,Annual,National,Number of successful appeals to the Ombudsman,Kyrgyzstan,Number,376
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
+2007,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,3014
+2008,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,2136
+2009,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,1742
+2010,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,1862
+2011,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,2098
+2012,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,2843
+2013,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,2466
+2014,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,2411
+2015,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,2483
+2016,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,3800
+2017,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,3242
+2018,Годовая,Национальный,_L_KG_100301_1A1,Киргизия,NUMBER,3237
+2007,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,619
+2010,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,309
+2011,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,196
+2012,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,501
+2013,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,384
+2015,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,374
+2016,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,615
+2017,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,531
+2018,Годовая,Национальный,_L_KG_100301_1A2,Киргизия,NUMBER,376

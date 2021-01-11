@@ -1,4 +1,12 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit of measure,Value
-2015,Annual,National,Proportion of time spent on unpaid domestic chores and care work,Kyrgyzstan,,Percent,15.8
-2015,Annual,National,Proportion of time spent on unpaid domestic chores and care work,Kyrgyzstan,Male,Percent,9.5
-2015,Annual,National,Proportion of time spent on unpaid domestic chores and care work,Kyrgyzstan,Female,Percent,21.0
+Year,Sex,Деятельность,Value
+2015,,,15.8
+2015,мужчины,,9.5
+2015,женщины,,21.0
+2015,мужчины,Ведение домашнего хозяйства,6.5
+2015,мужчины,"Работа на приусадебном, дачном, садовом участке",2.4
+2015,мужчины,Воспитание детей,0.6
+2015,мужчины,Помощь родственникам и знаокомым,9.5
+2015,женщины,Ведение домашнего хозяйства,18.8
+2015,женщины,"Работа на приусадебном, дачном, садовом участке",1.0
+2015,женщины,Воспитание детей,1.2
+2015,женщины,Помощь родственникам и знаокомым,21.0

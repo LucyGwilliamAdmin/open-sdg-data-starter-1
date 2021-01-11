@@ -1,7 +1,5 @@
 From,To
-Frequency of observation,Reporting type
-Reporting type,SDG Series
-SDG Series,Reference area
-Reference area,Age
-Unit of measure,Sex
-Age,Unit of measure
+FREQ,REPORTING_TYPE
+REPORTING_TYPE,REF_AREA
+REF_AREA,AGE
+AGE,SEX

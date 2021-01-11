@@ -1,46 +1,46 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Unit of measure,Value
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.018437
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.003428
-2009,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000743
-2010,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000367
-2011,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.007979
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000535
-2013,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000699
-2015,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000168
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000987
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000323
-2018,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000158
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Баткенская область,"Per 1,000 population",0.051816
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Баткенская область,"Per 1,000 population",0.004667
-2009,Annual,National,"Malaria incidence per 1,000 population at risk",Баткенская область,"Per 1,000 population",0.006969
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Жалал-Абад область,"Per 1,000 population",0.006141
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Жалал-Абад область,"Per 1,000 population",0.001013
-2009,Annual,National,"Malaria incidence per 1,000 population at risk",Жалал-Абад область,"Per 1,000 population",0.000985
-2010,Annual,National,"Malaria incidence per 1,000 population at risk",Жалал-Абад область,"Per 1,000 population",0.001942
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Иссык-Кульская область,"Per 1,000 population",0.0
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Иссык-Кульская область,"Per 1,000 population",0.0
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",Иссык-Кульская область,"Per 1,000 population",0.002219
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Нарынская область,"Per 1,000 population",0.003714
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Нарынская область,"Per 1,000 population",0.003695
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Ошская область,"Per 1,000 population",0.0
-2011,Annual,National,"Malaria incidence per 1,000 population at risk",Ошская область,"Per 1,000 population",0.000878
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Таласская область,"Per 1,000 population",0.0
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Таласская область,"Per 1,000 population",0.0
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Чуйская область,"Per 1,000 population",0.031648
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Чуйская область,"Per 1,000 population",0.005255
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",Чуйская область,"Per 1,000 population",0.001204
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",Чуйская область,"Per 1,000 population",0.001116
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",Чуйская область,"Per 1,000 population",0.0
-2018,Annual,National,"Malaria incidence per 1,000 population at risk",Чуйская область,"Per 1,000 population",0.001074
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.051835
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.01221
-2011,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.047285
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.001131
-2013,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.004419
-2015,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.001055
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.003095
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",г. Бишкек,"Per 1,000 population",0.002018
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",г. Ош,"Per 1,000 population",0.004004
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",г. Ош,"Per 1,000 population",0.0
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",г. Ош,"Per 1,000 population",0.007173
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",г. Ош,"Per 1,000 population",0.0
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
+2007,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.018437
+2008,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.003428
+2009,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000743
+2010,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000367
+2011,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.007979
+2012,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000535
+2013,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000699
+2015,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000168
+2016,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000987
+2017,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000323
+2018,Годовая,Национальный,SH_STA_MALR,Киргизия,PER_1000_POP,0.000158
+2007,Годовая,Национальный,SH_STA_MALR,Баткенская область,PER_1000_POP,0.051816
+2008,Годовая,Национальный,SH_STA_MALR,Баткенская область,PER_1000_POP,0.004667
+2009,Годовая,Национальный,SH_STA_MALR,Баткенская область,PER_1000_POP,0.006969
+2007,Годовая,Национальный,SH_STA_MALR,Джалал-Абадская область,PER_1000_POP,0.006141
+2008,Годовая,Национальный,SH_STA_MALR,Джалал-Абадская область,PER_1000_POP,0.001013
+2009,Годовая,Национальный,SH_STA_MALR,Джалал-Абадская область,PER_1000_POP,0.000985
+2010,Годовая,Национальный,SH_STA_MALR,Джалал-Абадская область,PER_1000_POP,0.001942
+2007,Годовая,Национальный,SH_STA_MALR,Иссык-Кульская область,PER_1000_POP,0.0
+2008,Годовая,Национальный,SH_STA_MALR,Иссык-Кульская область,PER_1000_POP,0.0
+2012,Годовая,Национальный,SH_STA_MALR,Иссык-Кульская область,PER_1000_POP,0.002219
+2007,Годовая,Национальный,SH_STA_MALR,Нарынская область,PER_1000_POP,0.003714
+2008,Годовая,Национальный,SH_STA_MALR,Нарынская область,PER_1000_POP,0.003695
+2008,Годовая,Национальный,SH_STA_MALR,Ошская область,PER_1000_POP,0.0
+2011,Годовая,Национальный,SH_STA_MALR,Ошская область,PER_1000_POP,0.000878
+2007,Годовая,Национальный,SH_STA_MALR,Таласская область,PER_1000_POP,0.0
+2008,Годовая,Национальный,SH_STA_MALR,Таласская область,PER_1000_POP,0.0
+2007,Годовая,Национальный,SH_STA_MALR,Чуйская область,PER_1000_POP,0.031648
+2008,Годовая,Национальный,SH_STA_MALR,Чуйская область,PER_1000_POP,0.005255
+2012,Годовая,Национальный,SH_STA_MALR,Чуйская область,PER_1000_POP,0.001204
+2016,Годовая,Национальный,SH_STA_MALR,Чуйская область,PER_1000_POP,0.001116
+2017,Годовая,Национальный,SH_STA_MALR,Чуйская область,PER_1000_POP,0.0
+2018,Годовая,Национальный,SH_STA_MALR,Чуйская область,PER_1000_POP,0.001074
+2007,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.051835
+2008,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.01221
+2011,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.047285
+2012,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.001131
+2013,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.004419
+2015,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.001055
+2016,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.003095
+2017,Годовая,Национальный,SH_STA_MALR,г. Бишкек,PER_1000_POP,0.002018
+2007,Годовая,Национальный,SH_STA_MALR,г. Ош,PER_1000_POP,0.004004
+2008,Годовая,Национальный,SH_STA_MALR,г. Ош,PER_1000_POP,0.0
+2016,Годовая,Национальный,SH_STA_MALR,г. Ош,PER_1000_POP,0.007173
+2017,Годовая,Национальный,SH_STA_MALR,г. Ош,PER_1000_POP,0.0

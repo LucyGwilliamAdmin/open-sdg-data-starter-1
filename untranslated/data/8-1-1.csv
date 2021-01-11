@@ -1,10 +1,10 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2010,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,-1.8
-2011,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,4.7
-2012,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,-1.8
-2013,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,8.6
-2014,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,1.8
-2015,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,1.7
-2016,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,2.1
-2017,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,2.6
-2018,Annual,National,Annual growth rate of real GDP per capita,Kyrgyzstan,Percent,1.7
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2010,A,N,NY_GDP_PCAP,KG,PT,-1.8
+2011,A,N,NY_GDP_PCAP,KG,PT,4.7
+2012,A,N,NY_GDP_PCAP,KG,PT,-1.8
+2013,A,N,NY_GDP_PCAP,KG,PT,8.6
+2014,A,N,NY_GDP_PCAP,KG,PT,1.8
+2015,A,N,NY_GDP_PCAP,KG,PT,1.7
+2016,A,N,NY_GDP_PCAP,KG,PT,2.1
+2017,A,N,NY_GDP_PCAP,KG,PT,2.6
+2018,A,N,NY_GDP_PCAP,KG,PT,1.7

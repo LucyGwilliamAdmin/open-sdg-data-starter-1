@@ -1,9 +1,7 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,SDG Series
-SDG Series,Reference area
+Reporting type,Reference area
 Reference area,Age
-Unit of measure,Sex
-Age,Unit of measure
-Unit of measure,Income or wealth quantile
-Unit of measure,Education level
+Age,Sex
+Age,Income or wealth quantile
+Age,Education level

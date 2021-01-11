@@ -1,1 +1,1 @@
-{"From":["Frequency of observation","Reporting type","SDG Series","Reference area","Age"],"To":["Reporting type","SDG Series","Reference area","Age","Unit of measure"]}
+{"From":["FREQ","REPORTING_TYPE","REF_AREA"],"To":["REPORTING_TYPE","REF_AREA","AGE"]}

@@ -1,37 +1,37 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2007,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,313220.0
-2008,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,349682.0
-2009,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,274008.0
-2010,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,282009.0
-2011,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,136292.0
-2012,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,77413.0
-2013,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,180254.0
-2014,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,152940.0
-2015,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,132336.0
-2016,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,142943.0
-2017,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,135927.0
-2018,Annual,National,Number of pensioners who receive pensions below the subsistence level of the pensioner,Kyrgyzstan,Percent,138265.0
-2007,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,5.968864
-2008,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,6.611241
-2009,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,5.109427
-2010,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,5.204752
-2011,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,2.488161
-2012,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,1.394354
-2013,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,3.120433
-2014,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,2.594375
-2015,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,2.198462
-2016,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,2.327986
-2017,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,2.172493
-2018,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population,Kyrgyzstan,Percent,2.163941
-2007,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,59.241298
-2008,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,61.233202
-2009,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,48.534186
-2010,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,49.060743
-2011,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,22.957535
-2012,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,12.62552
-2013,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,28.824314
-2014,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,24.113102
-2015,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,20.458403
-2016,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,21.618658
-2017,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,20.190277
-2018,Annual,National,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners,Kyrgyzstan,Percent,19.898854
+Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2007,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,313220.0
+2008,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,349682.0
+2009,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,274008.0
+2010,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,282009.0
+2011,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,136292.0
+2012,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,77413.0
+2013,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,180254.0
+2014,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,152940.0
+2015,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,132336.0
+2016,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,142943.0
+2017,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,135927.0
+2018,Annual,National,_L_KG_010301_1G1,Kyrgyzstan,PT,138265.0
+2007,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,5.968864
+2008,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,6.611241
+2009,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,5.109427
+2010,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,5.204752
+2011,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,2.488161
+2012,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,1.394354
+2013,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,3.120433
+2014,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,2.594375
+2015,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,2.198462
+2016,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,2.327986
+2017,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,2.172493
+2018,Annual,National,_L_KG_010301_1G2,Kyrgyzstan,PT,2.163941
+2007,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,59.241298
+2008,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,61.233202
+2009,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,48.534186
+2010,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,49.060743
+2011,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,22.957535
+2012,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,12.62552
+2013,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,28.824314
+2014,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,24.113102
+2015,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,20.458403
+2016,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,21.618658
+2017,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,20.190277
+2018,Annual,National,_L_KG_010301_1G3,Kyrgyzstan,PT,19.898854

@@ -1,58 +1,73 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),пол,Степень урбанизации,Уровень образования,Unit of measure,Value
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,,Процент,76.65949
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,,Процент,79.591408
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,,Процент,75.693466
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,городская местность,,Процент,86.923359
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,городская местность,,Процент,88.370239
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,городская местность,,Процент,88.614312
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,сельская местность,,Процент,71.082283
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,сельская местность,,Процент,74.829362
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,сельская местность,,Процент,68.679954
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,мужской,,,Процент,76.070682
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,мужской,,,Процент,79.163385
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,мужской,,,Процент,74.691389
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,женский,,,Процент,77.193586
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,женский,,,Процент,79.979372
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,женский,,,Процент,76.58919
-2016,Annual,National,Proportion of population with access to electricity,Баткенская область,,,,Процент,75.839901
-2017,Annual,National,Proportion of population with access to electricity,Баткенская область,,,,Процент,70.826955
-2018,Annual,National,Proportion of population with access to electricity,Баткенская область,,,,Процент,71.771366
-2016,Annual,National,Proportion of population with access to electricity,Жалал-Абад область,,,,Процент,76.702406
-2017,Annual,National,Proportion of population with access to electricity,Жалал-Абад область,,,,Процент,74.372043
-2018,Annual,National,Proportion of population with access to electricity,Жалал-Абад область,,,,Процент,64.443145
-2016,Annual,National,Proportion of population with access to electricity,Иссык-Кульская область,,,,Процент,47.347626
-2017,Annual,National,Proportion of population with access to electricity,Иссык-Кульская область,,,,Процент,57.4837
-2018,Annual,National,Proportion of population with access to electricity,Иссык-Кульская область,,,,Процент,67.008718
-2016,Annual,National,Proportion of population with access to electricity,Нарынская область,,,,Процент,77.440012
-2017,Annual,National,Proportion of population with access to electricity,Нарынская область,,,,Процент,79.315292
-2018,Annual,National,Proportion of population with access to electricity,Нарынская область,,,,Процент,79.01207
-2016,Annual,National,Proportion of population with access to electricity,Ошская область,,,,Процент,74.642534
-2017,Annual,National,Proportion of population with access to electricity,Ошская область,,,,Процент,79.01967
-2018,Annual,National,Proportion of population with access to electricity,Ошская область,,,,Процент,66.576206
-2016,Annual,National,Proportion of population with access to electricity,Таласская область,,,,Процент,73.7187
-2017,Annual,National,Proportion of population with access to electricity,Таласская область,,,,Процент,74.070232
-2018,Annual,National,Proportion of population with access to electricity,Таласская область,,,,Процент,53.969782
-2016,Annual,National,Proportion of population with access to electricity,Чуйская область,,,,Процент,72.259617
-2017,Annual,National,Proportion of population with access to electricity,Чуйская область,,,,Процент,82.936082
-2018,Annual,National,Proportion of population with access to electricity,Чуйская область,,,,Процент,88.432638
-2016,Annual,National,Proportion of population with access to electricity,г. Бишкек,,,,Процент,91.985988
-2017,Annual,National,Proportion of population with access to electricity,г. Бишкек,,,,Процент,95.050715
-2018,Annual,National,Proportion of population with access to electricity,г. Бишкек,,,,Процент,93.868046
-2016,Annual,National,Proportion of population with access to electricity,г. Ош,,,,Процент,100.0
-2017,Annual,National,Proportion of population with access to electricity,г. Ош,,,,Процент,99.418328
-2018,Annual,National,Proportion of population with access to electricity,г. Ош,,,,Процент,100.0
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Начальное образование (1-4 классы),Процент,75.216542
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Начальное образование (1-4 классы),Процент,78.30484
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Начальное образование (1-4 классы),Процент,75.141999
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,1- этап среднего образования,Процент,80.225607
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,1- этап среднего образования,Процент,79.020964
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,1- этап среднего образования,Процент,76.53136
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,2- этап среднего образования,Процент,75.037157
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,2- этап среднего образования,Процент,78.352825
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,2- этап среднего образования,Процент,72.09416
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Послесреднее нетретичное образование,Процент,78.366259
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Послесреднее нетретичное образование,Процент,83.853085
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Послесреднее нетретичное образование,Процент,80.180024
-2016,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Short-cycle tertiary education,Процент,79.940306
-2017,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Short-cycle tertiary education,Процент,83.947666
-2018,Annual,National,Proportion of population with access to electricity,Kyrgyzstan,,,Short-cycle tertiary education,Процент,82.067382
+Year,Территория,Местность,Пол,Возраст,Уровень образования,Value
+2016,,,,,,76.66
+2017,,,,,,79.59
+2018,,,,,,75.69
+2016,,Городская,,,,86.92
+2017,,Городская,,,,88.37
+2018,,Городская,,,,88.61
+2016,,Сельская,,,,71.08
+2017,,Сельская,,,,74.83
+2018,,Сельская,,,,68.68
+2016,,,Мужчины,,,76.07
+2017,,,Мужчины,,,79.16
+2018,,,Мужчины,,,74.69
+2016,,,Женщины,,,77.19
+2017,,,Женщины,,,79.98
+2018,,,Женщины,,,76.59
+2016,Баткенская область,,,,,75.84
+2017,Баткенская область,,,,,70.83
+2018,Баткенская область,,,,,71.77
+2016,Джалал-Абадская область,,,,,76.7
+2017,Джалал-Абадская область,,,,,74.37
+2018,Джалал-Абадская область,,,,,64.44
+2016,Иссык-Кульская область,,,,,47.35
+2017,Иссык-Кульская область,,,,,57.48
+2018,Иссык-Кульская область,,,,,67.01
+2016,Нарынская область,,,,,77.44
+2017,Нарынская область,,,,,79.32
+2018,Нарынская область,,,,,79.01
+2016,Ошская область,,,,,74.64
+2017,Ошская область,,,,,79.02
+2018,Ошская область,,,,,66.58
+2016,Таласская область,,,,,73.72
+2017,Таласская область,,,,,74.07
+2018,Таласская область,,,,,53.97
+2016,Чуйская область,,,,,72.26
+2017,Чуйская область,,,,,82.94
+2018,Чуйская область,,,,,88.43
+2016,г. Бишкек,,,,,91.99
+2017,г. Бишкек,,,,,95.05
+2018,г. Бишкек,,,,,93.87
+2016,г. Ош,,,,,100.0
+2017,г. Ош,,,,,99.42
+2018,г. Ош,,,,,100.0
+2016,,,,Дети в возрасте 0-6 лет,,75.93
+2017,,,,Дети в возрасте 0-6 лет,,77.9
+2018,,,,Дети в возрасте 0-6 лет,,75.28
+2016,,,,Дети в возрасте 7-14 лет,,76.34
+2017,,,,Дети в возрасте 7-14 лет,,78.4
+2018,,,,Дети в возрасте 7-14 лет,,75.8
+2016,,,,"Молодёжь, 15-28 лет",,77.13
+2017,,,,"Молодёжь, 15-28 лет",,81.3
+2018,,,,"Молодёжь, 15-28 лет",,74.3
+2016,,,,Взрослое население трудоспособного возраста (от 29 лет),,76.83
+2017,,,,Взрослое население трудоспособного возраста (от 29 лет),,79.63
+2018,,,,Взрослое население трудоспособного возраста (от 29 лет),,76.52
+2016,,,,"Старше трудоспособного возраста (женщины 58 лет и старше, мужчины 63 лет и старше)",,76.79
+2017,,,,"Старше трудоспособного возраста (женщины 58 лет и старше, мужчины 63 лет и старше)",,80.93
+2018,,,,"Старше трудоспособного возраста (женщины 58 лет и старше, мужчины 63 лет и старше)",,75.76
+2016,,,,,Начальное и ниже,75.22
+2017,,,,,Начальное и ниже,78.3
+2018,,,,,Начальное и ниже,75.14
+2016,,,,,Основное общее,80.23
+2017,,,,,Основное общее,79.02
+2018,,,,,Основное общее,76.53
+2016,,,,,Среднее общее,75.04
+2017,,,,,Среднее общее,78.35
+2018,,,,,Среднее общее,72.09
+2016,,,,,Профессиональное среднее/общее,78.37
+2017,,,,,Профессиональное среднее/общее,83.85
+2018,,,,,Профессиональное среднее/общее,80.18
+2016,,,,,Профессиональное высшее,79.94
+2017,,,,,Профессиональное высшее,83.95
+2018,,,,,Профессиональное высшее,82.07

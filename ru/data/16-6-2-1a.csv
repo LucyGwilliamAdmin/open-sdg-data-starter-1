@@ -1,51 +1,51 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Unit of measure,Value
-2015,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,235
-2016,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,285
-2017,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,311
-2018,Annual,National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,273
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Kyrgyzstan,Index,273
-2015,Annual,National,Executive branch of the government satisfaction index,Баткенская область,Index,294
-2016,Annual,National,Executive branch of the government satisfaction index,Баткенская область,Index,479
-2017,Annual,National,Executive branch of the government satisfaction index,Баткенская область,Index,462
-2018,Annual,National,Executive branch of the government satisfaction index,Баткенская область,Index,426
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Баткенская область,Index,400
-2015,Annual,National,Executive branch of the government satisfaction index,г. Бишкек,Index,436
-2016,Annual,National,Executive branch of the government satisfaction index,г. Бишкек,Index,372
-2017,Annual,National,Executive branch of the government satisfaction index,г. Бишкек,Index,354
-2018,Annual,National,Executive branch of the government satisfaction index,г. Бишкек,Index,327
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,г. Бишкек,Index,360
-2015,Annual,National,Executive branch of the government satisfaction index,Чуйская область,Index,-15
-2016,Annual,National,Executive branch of the government satisfaction index,Чуйская область,Index,166
-2017,Annual,National,Executive branch of the government satisfaction index,Чуйская область,Index,295
-2018,Annual,National,Executive branch of the government satisfaction index,Чуйская область,Index,195
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Чуйская область,Index,252
-2015,Annual,National,Executive branch of the government satisfaction index,Иссык-Кульская область,Index,206
-2016,Annual,National,Executive branch of the government satisfaction index,Иссык-Кульская область,Index,199
-2017,Annual,National,Executive branch of the government satisfaction index,Иссык-Кульская область,Index,285
-2018,Annual,National,Executive branch of the government satisfaction index,Иссык-Кульская область,Index,307
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Иссык-Кульская область,Index,375
-2015,Annual,National,Executive branch of the government satisfaction index,Жалал-Абад область,Index,343
-2016,Annual,National,Executive branch of the government satisfaction index,Жалал-Абад область,Index,309
-2017,Annual,National,Executive branch of the government satisfaction index,Жалал-Абад область,Index,327
-2018,Annual,National,Executive branch of the government satisfaction index,Жалал-Абад область,Index,279
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Жалал-Абад область,Index,307
-2015,Annual,National,Executive branch of the government satisfaction index,Нарынская область,Index,364
-2016,Annual,National,Executive branch of the government satisfaction index,Нарынская область,Index,341
-2017,Annual,National,Executive branch of the government satisfaction index,Нарынская область,Index,312
-2018,Annual,National,Executive branch of the government satisfaction index,Нарынская область,Index,341
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Нарынская область,Index,355
-2015,Annual,National,Executive branch of the government satisfaction index,Ошская область,Index,314
-2016,Annual,National,Executive branch of the government satisfaction index,Ошская область,Index,256
-2017,Annual,National,Executive branch of the government satisfaction index,Ошская область,Index,385
-2018,Annual,National,Executive branch of the government satisfaction index,Ошская область,Index,355
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Ошская область,Index,325
-2015,Annual,National,Executive branch of the government satisfaction index,г. Ош,Index,96
-2016,Annual,National,Executive branch of the government satisfaction index,г. Ош,Index,126
-2017,Annual,National,Executive branch of the government satisfaction index,г. Ош,Index,163
-2018,Annual,National,Executive branch of the government satisfaction index,г. Ош,Index,129
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,г. Ош,Index,113
-2015,Annual,National,Executive branch of the government satisfaction index,Таласская область,Index,169
-2016,Annual,National,Executive branch of the government satisfaction index,Таласская область,Index,408
-2017,Annual,National,Executive branch of the government satisfaction index,Таласская область,Index,429
-2018,Annual,National,Executive branch of the government satisfaction index,Таласская область,Index,383
-2019,"Half-yearly, semester",National,Executive branch of the government satisfaction index,Таласская область,Index,366
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
+2015,Годовая,Национальный,_L_KG_160602_1A,Киргизия,IX,235
+2016,Годовая,Национальный,_L_KG_160602_1A,Киргизия,IX,285
+2017,Годовая,Национальный,_L_KG_160602_1A,Киргизия,IX,311
+2018,Годовая,Национальный,_L_KG_160602_1A,Киргизия,IX,273
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Киргизия,IX,273
+2015,Годовая,Национальный,_L_KG_160602_1A,Баткенская область,IX,294
+2016,Годовая,Национальный,_L_KG_160602_1A,Баткенская область,IX,479
+2017,Годовая,Национальный,_L_KG_160602_1A,Баткенская область,IX,462
+2018,Годовая,Национальный,_L_KG_160602_1A,Баткенская область,IX,426
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Баткенская область,IX,400
+2015,Годовая,Национальный,_L_KG_160602_1A,г. Бишкек,IX,436
+2016,Годовая,Национальный,_L_KG_160602_1A,г. Бишкек,IX,372
+2017,Годовая,Национальный,_L_KG_160602_1A,г. Бишкек,IX,354
+2018,Годовая,Национальный,_L_KG_160602_1A,г. Бишкек,IX,327
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,г. Бишкек,IX,360
+2015,Годовая,Национальный,_L_KG_160602_1A,Чуйская область,IX,-15
+2016,Годовая,Национальный,_L_KG_160602_1A,Чуйская область,IX,166
+2017,Годовая,Национальный,_L_KG_160602_1A,Чуйская область,IX,295
+2018,Годовая,Национальный,_L_KG_160602_1A,Чуйская область,IX,195
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Чуйская область,IX,252
+2015,Годовая,Национальный,_L_KG_160602_1A,Иссык-Кульская область,IX,206
+2016,Годовая,Национальный,_L_KG_160602_1A,Иссык-Кульская область,IX,199
+2017,Годовая,Национальный,_L_KG_160602_1A,Иссык-Кульская область,IX,285
+2018,Годовая,Национальный,_L_KG_160602_1A,Иссык-Кульская область,IX,307
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Иссык-Кульская область,IX,375
+2015,Годовая,Национальный,_L_KG_160602_1A,Джалал-Абадская область,IX,343
+2016,Годовая,Национальный,_L_KG_160602_1A,Джалал-Абадская область,IX,309
+2017,Годовая,Национальный,_L_KG_160602_1A,Джалал-Абадская область,IX,327
+2018,Годовая,Национальный,_L_KG_160602_1A,Джалал-Абадская область,IX,279
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Джалал-Абадская область,IX,307
+2015,Годовая,Национальный,_L_KG_160602_1A,Нарынская область,IX,364
+2016,Годовая,Национальный,_L_KG_160602_1A,Нарынская область,IX,341
+2017,Годовая,Национальный,_L_KG_160602_1A,Нарынская область,IX,312
+2018,Годовая,Национальный,_L_KG_160602_1A,Нарынская область,IX,341
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Нарынская область,IX,355
+2015,Годовая,Национальный,_L_KG_160602_1A,Ошская область,IX,314
+2016,Годовая,Национальный,_L_KG_160602_1A,Ошская область,IX,256
+2017,Годовая,Национальный,_L_KG_160602_1A,Ошская область,IX,385
+2018,Годовая,Национальный,_L_KG_160602_1A,Ошская область,IX,355
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Ошская область,IX,325
+2015,Годовая,Национальный,_L_KG_160602_1A,г. Ош,IX,96
+2016,Годовая,Национальный,_L_KG_160602_1A,г. Ош,IX,126
+2017,Годовая,Национальный,_L_KG_160602_1A,г. Ош,IX,163
+2018,Годовая,Национальный,_L_KG_160602_1A,г. Ош,IX,129
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,г. Ош,IX,113
+2015,Годовая,Национальный,_L_KG_160602_1A,Таласская область,IX,169
+2016,Годовая,Национальный,_L_KG_160602_1A,Таласская область,IX,408
+2017,Годовая,Национальный,_L_KG_160602_1A,Таласская область,IX,429
+2018,Годовая,Национальный,_L_KG_160602_1A,Таласская область,IX,383
+2019,"Полугодовая, семестр",Национальный,_L_KG_160602_1A,Таласская область,IX,366

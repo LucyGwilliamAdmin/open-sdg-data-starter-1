@@ -1,37 +1,37 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2007,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,22.4
-2008,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,21.4
-2009,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,19.6
-2010,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,17.4
-2011,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,19.9
-2012,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,20.2
-2013,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,20.8
-2014,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,18.5
-2015,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,18.9
-2016,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,20.0
-2017,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,19.4
-2018,Annual,National,"Proportion of total government spending on essential services, education",Kyrgyzstan,Percent,21.1
-2007,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,10.2
-2008,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.8
-2009,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.9
-2010,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.3
-2011,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.9
-2012,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,10.6
-2013,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,11.3
-2014,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.9
-2015,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.5
-2016,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,8.8
-2017,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,9.7
-2018,Annual,National,Proportion of total government spending on health,Kyrgyzstan,Percent,8.6
-2007,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,10.5
-2008,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,10.3
-2009,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,9.5
-2010,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.1
-2011,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,15.5
-2012,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.3
-2013,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,19.5
-2014,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,19.2
-2015,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,18.4
-2016,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.5
-2017,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,16.2
-2018,Annual,National,Proportion of total government spending on social protection,Kyrgyzstan,Percent,19.1
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2007,A,N,SD_XPD_ESED,KG,PT,22.4
+2008,A,N,SD_XPD_ESED,KG,PT,21.4
+2009,A,N,SD_XPD_ESED,KG,PT,19.6
+2010,A,N,SD_XPD_ESED,KG,PT,17.4
+2011,A,N,SD_XPD_ESED,KG,PT,19.9
+2012,A,N,SD_XPD_ESED,KG,PT,20.2
+2013,A,N,SD_XPD_ESED,KG,PT,20.8
+2014,A,N,SD_XPD_ESED,KG,PT,18.5
+2015,A,N,SD_XPD_ESED,KG,PT,18.9
+2016,A,N,SD_XPD_ESED,KG,PT,20.0
+2017,A,N,SD_XPD_ESED,KG,PT,19.4
+2018,A,N,SD_XPD_ESED,KG,PT,21.1
+2007,A,N,SG_XPD_HLTH,KG,PT,10.2
+2008,A,N,SG_XPD_HLTH,KG,PT,9.8
+2009,A,N,SG_XPD_HLTH,KG,PT,9.9
+2010,A,N,SG_XPD_HLTH,KG,PT,9.3
+2011,A,N,SG_XPD_HLTH,KG,PT,9.9
+2012,A,N,SG_XPD_HLTH,KG,PT,10.6
+2013,A,N,SG_XPD_HLTH,KG,PT,11.3
+2014,A,N,SG_XPD_HLTH,KG,PT,9.9
+2015,A,N,SG_XPD_HLTH,KG,PT,9.5
+2016,A,N,SG_XPD_HLTH,KG,PT,8.8
+2017,A,N,SG_XPD_HLTH,KG,PT,9.7
+2018,A,N,SG_XPD_HLTH,KG,PT,8.6
+2007,A,N,SG_XPD_PROT,KG,PT,10.5
+2008,A,N,SG_XPD_PROT,KG,PT,10.3
+2009,A,N,SG_XPD_PROT,KG,PT,9.5
+2010,A,N,SG_XPD_PROT,KG,PT,16.1
+2011,A,N,SG_XPD_PROT,KG,PT,15.5
+2012,A,N,SG_XPD_PROT,KG,PT,16.3
+2013,A,N,SG_XPD_PROT,KG,PT,19.5
+2014,A,N,SG_XPD_PROT,KG,PT,19.2
+2015,A,N,SG_XPD_PROT,KG,PT,18.4
+2016,A,N,SG_XPD_PROT,KG,PT,16.5
+2017,A,N,SG_XPD_PROT,KG,PT,16.2
+2018,A,N,SG_XPD_PROT,KG,PT,19.1

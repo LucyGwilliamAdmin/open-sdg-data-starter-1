@@ -1,46 +1,46 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.018437
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.003428
-2009,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000743
-2010,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000367
-2011,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.007979
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000535
-2013,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000699
-2015,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000168
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000987
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000323
-2018,Annual,National,"Malaria incidence per 1,000 population at risk",Kyrgyzstan,"Per 1,000 population",0.000158
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Batken,"Per 1,000 population",0.051816
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Batken,"Per 1,000 population",0.004667
-2009,Annual,National,"Malaria incidence per 1,000 population at risk",Batken,"Per 1,000 population",0.006969
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Jalal-Abad,"Per 1,000 population",0.006141
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Jalal-Abad,"Per 1,000 population",0.001013
-2009,Annual,National,"Malaria incidence per 1,000 population at risk",Jalal-Abad,"Per 1,000 population",0.000985
-2010,Annual,National,"Malaria incidence per 1,000 population at risk",Jalal-Abad,"Per 1,000 population",0.001942
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Issyk-Kul,"Per 1,000 population",0.0
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Issyk-Kul,"Per 1,000 population",0.0
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",Issyk-Kul,"Per 1,000 population",0.002219
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Naryn,"Per 1,000 population",0.003714
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Naryn,"Per 1,000 population",0.003695
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Osh,"Per 1,000 population",0.0
-2011,Annual,National,"Malaria incidence per 1,000 population at risk",Osh,"Per 1,000 population",0.000878
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Talas,"Per 1,000 population",0.0
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Talas,"Per 1,000 population",0.0
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Chui,"Per 1,000 population",0.031648
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Chui,"Per 1,000 population",0.005255
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",Chui,"Per 1,000 population",0.001204
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",Chui,"Per 1,000 population",0.001116
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",Chui,"Per 1,000 population",0.0
-2018,Annual,National,"Malaria incidence per 1,000 population at risk",Chui,"Per 1,000 population",0.001074
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.051835
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.01221
-2011,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.047285
-2012,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.001131
-2013,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.004419
-2015,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.001055
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.003095
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",Bishkek (city),"Per 1,000 population",0.002018
-2007,Annual,National,"Malaria incidence per 1,000 population at risk",Osh (city),"Per 1,000 population",0.004004
-2008,Annual,National,"Malaria incidence per 1,000 population at risk",Osh (city),"Per 1,000 population",0.0
-2016,Annual,National,"Malaria incidence per 1,000 population at risk",Osh (city),"Per 1,000 population",0.007173
-2017,Annual,National,"Malaria incidence per 1,000 population at risk",Osh (city),"Per 1,000 population",0.0
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2007,A,N,SH_STA_MALR,KG,PER_1000_POP,0.018437
+2008,A,N,SH_STA_MALR,KG,PER_1000_POP,0.003428
+2009,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000743
+2010,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000367
+2011,A,N,SH_STA_MALR,KG,PER_1000_POP,0.007979
+2012,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000535
+2013,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000699
+2015,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000168
+2016,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000987
+2017,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000323
+2018,A,N,SH_STA_MALR,KG,PER_1000_POP,0.000158
+2007,A,N,SH_STA_MALR,KG05,PER_1000_POP,0.051816
+2008,A,N,SH_STA_MALR,KG05,PER_1000_POP,0.004667
+2009,A,N,SH_STA_MALR,KG05,PER_1000_POP,0.006969
+2007,A,N,SH_STA_MALR,KG03,PER_1000_POP,0.006141
+2008,A,N,SH_STA_MALR,KG03,PER_1000_POP,0.001013
+2009,A,N,SH_STA_MALR,KG03,PER_1000_POP,0.000985
+2010,A,N,SH_STA_MALR,KG03,PER_1000_POP,0.001942
+2007,A,N,SH_STA_MALR,KG02,PER_1000_POP,0.0
+2008,A,N,SH_STA_MALR,KG02,PER_1000_POP,0.0
+2012,A,N,SH_STA_MALR,KG02,PER_1000_POP,0.002219
+2007,A,N,SH_STA_MALR,KG04,PER_1000_POP,0.003714
+2008,A,N,SH_STA_MALR,KG04,PER_1000_POP,0.003695
+2008,A,N,SH_STA_MALR,KG06,PER_1000_POP,0.0
+2011,A,N,SH_STA_MALR,KG06,PER_1000_POP,0.000878
+2007,A,N,SH_STA_MALR,KG07,PER_1000_POP,0.0
+2008,A,N,SH_STA_MALR,KG07,PER_1000_POP,0.0
+2007,A,N,SH_STA_MALR,KG08,PER_1000_POP,0.031648
+2008,A,N,SH_STA_MALR,KG08,PER_1000_POP,0.005255
+2012,A,N,SH_STA_MALR,KG08,PER_1000_POP,0.001204
+2016,A,N,SH_STA_MALR,KG08,PER_1000_POP,0.001116
+2017,A,N,SH_STA_MALR,KG08,PER_1000_POP,0.0
+2018,A,N,SH_STA_MALR,KG08,PER_1000_POP,0.001074
+2007,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.051835
+2008,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.01221
+2011,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.047285
+2012,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.001131
+2013,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.004419
+2015,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.001055
+2016,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.003095
+2017,A,N,SH_STA_MALR,KG11,PER_1000_POP,0.002018
+2007,A,N,SH_STA_MALR,KG21,PER_1000_POP,0.004004
+2008,A,N,SH_STA_MALR,KG21,PER_1000_POP,0.0
+2016,A,N,SH_STA_MALR,KG21,PER_1000_POP,0.007173
+2017,A,N,SH_STA_MALR,KG21,PER_1000_POP,0.0

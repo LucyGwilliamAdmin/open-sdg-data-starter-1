@@ -1,37 +1,37 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit of measure,Value
-2007,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,3.040621
-2008,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.8227
-2009,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.53626
-2010,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.581546
-2011,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.452673
-2012,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.4
-2013,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.365496
-2014,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.325931
-2015,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.201387
-2016,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.181767
-2017,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.280168
-2018,Annual,National,Share of officially registered unemployed,Kyrgyzstan,,Percent,2.791516
-2007,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.617864
-2008,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.288586
-2009,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.057784
-2010,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.25141
-2011,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.050403
-2012,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.0
-2013,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.022166
-2014,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,2.924691
-2015,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,2.851356
-2016,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,2.875583
-2017,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,2.965272
-2018,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Female,Percent,3.612611
-2007,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,2.618787
-2008,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,2.471303
-2009,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,2.153339
-2010,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,2.099174
-2011,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,2.022851
-2012,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,2.0
-2013,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,1.920636
-2014,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,1.902712
-2015,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,1.749646
-2016,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,1.708779
-2017,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,1.84019
-2018,Annual,National,Share of officially registered unemployed,Kyrgyzstan,Male,Percent,2.276337
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
+2007,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,3.040621
+2008,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.8227
+2009,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.53626
+2010,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.581546
+2011,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.452673
+2012,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.4
+2013,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.365496
+2014,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.325931
+2015,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.201387
+2016,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.181767
+2017,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.280168
+2018,Annual,National,_L_KG_010301_1E,Kyrgyzstan,,PT,2.791516
+2007,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.617864
+2008,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.288586
+2009,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.057784
+2010,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.25141
+2011,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.050403
+2012,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.0
+2013,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.022166
+2014,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,2.924691
+2015,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,2.851356
+2016,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,2.875583
+2017,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,2.965272
+2018,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Female,PT,3.612611
+2007,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,2.618787
+2008,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,2.471303
+2009,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,2.153339
+2010,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,2.099174
+2011,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,2.022851
+2012,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,2.0
+2013,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,1.920636
+2014,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,1.902712
+2015,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,1.749646
+2016,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,1.708779
+2017,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,1.84019
+2018,Annual,National,_L_KG_010301_1E,Kyrgyzstan,Male,PT,2.276337

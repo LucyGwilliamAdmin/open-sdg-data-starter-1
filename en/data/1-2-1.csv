@@ -1,361 +1,385 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit of measure,Value
-2007,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,35.0
-2008,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,31.7
-2009,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,31.7
-2010,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,33.7
-2011,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,36.8
-2012,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,38.0
-2013,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,37.0
-2014,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,30.6
-2015,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,32.1
-2016,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,25.4
-2017,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,25.6
-2018,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,,Percent,22.4
-2007,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,34.7
-2008,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,31.4
-2009,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,30.7
-2010,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,32.7
-2011,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,36.1
-2012,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,37.2
-2013,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,36.5
-2014,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,29.7
-2015,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,31.5
-2016,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,25.0
-2017,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,25.0
-2018,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Male,Percent,22.5
-2007,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,35.4
-2008,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,32.1
-2009,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,32.9
-2010,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,34.8
-2011,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,37.6
-2012,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,39.0
-2013,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,37.5
-2014,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,31.5
-2015,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,32.7
-2016,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,25.7
-2017,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,26.3
-2018,Annual,National,Proportion of population living below the national poverty line,Kyrgyzstan,Female,Percent,22.2
-2007,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,40.40248
-2008,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,20.74156
-2009,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,31.472533
-2010,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,33.595652
-2011,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,35.637925
-2012,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,34.23528
-2013,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,53.85581
-2014,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,40.719692
-2015,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,41.156483
-2016,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,37.049867
-2017,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,40.51893
-2018,Annual,National,Proportion of population living below the national poverty line,Batken,,Percent,33.773947
-2007,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,41.298197
-2008,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,22.400607
-2009,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,31.273921
-2010,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,31.928278
-2011,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,34.181401
-2012,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,34.639723
-2013,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,53.627067
-2014,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,39.011011
-2015,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,40.926454
-2016,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,36.116547
-2017,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,39.60454
-2018,Annual,National,Proportion of population living below the national poverty line,Batken,Male,Percent,33.671054
-2007,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,39.381264
-2008,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,18.757343
-2009,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,31.703885
-2010,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,35.557934
-2011,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,37.347648
-2012,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,33.764476
-2013,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,54.087839
-2014,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,42.448702
-2015,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,41.395882
-2016,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,38.033369
-2017,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,41.521176
-2018,Annual,National,Proportion of population living below the national poverty line,Batken,Female,Percent,33.888979
-2007,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,53.037853
-2008,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,40.086271
-2009,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,36.873144
-2010,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,44.705496
-2011,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,45.290428
-2012,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,55.657831
-2013,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,46.412538
-2014,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,46.435379
-2015,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,45.092335
-2016,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,32.247345
-2017,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,32.58065
-2018,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,,Percent,32.21518
-2007,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,51.581913
-2008,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,37.898731
-2009,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,33.475027
-2010,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,43.666948
-2011,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,43.691714
-2012,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,55.271782
-2013,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,47.356836
-2014,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,47.010505
-2015,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,45.246248
-2016,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,33.070935
-2017,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,33.991288
-2018,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Male,Percent,33.427506
-2007,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,54.569086
-2008,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,42.427936
-2009,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,40.528056
-2010,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,45.762936
-2011,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,46.925946
-2012,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,56.050613
-2013,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,45.459524
-2014,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,45.842338
-2015,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,44.933484
-2016,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,31.382458
-2017,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,31.110381
-2018,Annual,National,Proportion of population living below the national poverty line,Jalal-Abad,Female,Percent,30.924895
-2007,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,38.587156
-2008,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,52.243736
-2009,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,46.090374
-2010,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,38.013539
-2011,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,29.522755
-2012,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,28.137635
-2013,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,39.47799
-2014,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,26.014325
-2015,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,28.892638
-2016,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,24.744553
-2017,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,24.170329
-2018,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,,Percent,21.52951
-2007,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,38.684594
-2008,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,52.152947
-2009,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,47.889059
-2010,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,36.910699
-2011,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,31.115103
-2012,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,28.242618
-2013,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,40.42619
-2014,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,26.354813
-2015,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,29.07856
-2016,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,24.749642
-2017,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,24.266813
-2018,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Male,Percent,21.495641
-2007,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,38.498843
-2008,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,52.32036
-2009,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,44.51291
-2010,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,39.006289
-2011,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,28.112247
-2012,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,28.021324
-2013,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,38.474804
-2014,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,25.663079
-2015,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,28.701454
-2016,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,24.739204
-2017,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,24.067407
-2018,Annual,National,Proportion of population living below the national poverty line,Issyk-Kul,Female,Percent,21.566132
-2007,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,45.182679
-2008,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,42.730284
-2009,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,44.11792
-2010,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,53.531335
-2011,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,49.925098
-2012,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,39.932299
-2013,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,43.754395
-2014,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,30.560927
-2015,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,38.007029
-2016,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,37.798212
-2017,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,29.21834
-2018,Annual,National,Proportion of population living below the national poverty line,Naryn,,Percent,30.596328
-2007,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,46.868159
-2008,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,42.698866
-2009,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,44.838863
-2010,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,53.397509
-2011,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,48.269824
-2012,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,37.664069
-2013,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,44.781415
-2014,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,32.369301
-2015,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,39.504744
-2016,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,39.601891
-2017,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,31.189138
-2018,Annual,National,Proportion of population living below the national poverty line,Naryn,Male,Percent,31.5949
-2007,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,43.678265
-2008,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,42.757725
-2009,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,43.496308
-2010,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,53.676668
-2011,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,51.728537
-2012,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,42.395906
-2013,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,42.671843
-2014,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,28.643083
-2015,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,36.407725
-2016,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,35.859946
-2017,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,27.069804
-2018,Annual,National,Proportion of population living below the national poverty line,Naryn,Female,Percent,29.460632
-2007,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,46.59161
-2008,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,37.452826
-2009,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,38.292036
-2010,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,41.897118
-2011,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,44.680774
-2012,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,51.433698
-2013,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,43.409369
-2014,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,31.74014
-2015,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,28.944511
-2016,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,22.024663
-2017,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,14.267617
-2018,Annual,National,Proportion of population living below the national poverty line,Osh,,Percent,14.77862
-2007,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,48.708186
-2008,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,37.931554
-2009,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,38.334636
-2010,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,40.639754
-2011,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,44.169695
-2012,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,50.553916
-2013,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,42.660819
-2014,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,30.494417
-2015,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,28.438703
-2016,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,21.810872
-2017,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,12.948415
-2018,Annual,National,Proportion of population living below the national poverty line,Osh,Male,Percent,15.25625
-2007,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,44.295394
-2008,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,36.91306
-2009,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,38.245332
-2010,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,43.246261
-2011,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,45.24075
-2012,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,52.41883
-2013,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,44.228326
-2014,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,33.102942
-2015,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,29.48951
-2016,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,22.264453
-2017,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,15.723495
-2018,Annual,National,Proportion of population living below the national poverty line,Osh,Female,Percent,14.253422
-2007,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,35.259053
-2008,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,42.972123
-2009,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,33.003964
-2010,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,42.338833
-2011,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,50.172706
-2012,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,39.57478
-2013,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,23.057182
-2014,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,19.048344
-2015,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,21.481514
-2016,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,18.115851
-2017,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,20.679703
-2018,Annual,National,Proportion of population living below the national poverty line,Talas,,Percent,22.085934
-2007,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,35.524401
-2008,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,45.40342
-2009,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,35.673722
-2010,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,44.324841
-2011,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,51.365667
-2012,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,42.155403
-2013,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,23.320678
-2014,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,19.717988
-2015,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,22.565255
-2016,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,19.131642
-2017,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,21.40538
-2018,Annual,National,Proportion of population living below the national poverty line,Talas,Male,Percent,23.802663
-2007,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,34.937966
-2008,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,40.025342
-2009,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,29.757565
-2010,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,40.090318
-2011,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,48.834977
-2012,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,36.737399
-2013,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,22.797196
-2014,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,18.38895
-2015,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,20.402521
-2016,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,17.094741
-2017,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,19.940922
-2018,Annual,National,Proportion of population living below the national poverty line,Talas,Female,Percent,20.340712
-2007,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,14.980994
-2008,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,15.782631
-2009,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,21.239381
-2010,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,21.868453
-2011,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,28.620908
-2012,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,16.571766
-2013,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,23.615399
-2014,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,21.576154
-2015,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,24.813851
-2016,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,30.306457
-2017,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,33.300588
-2018,Annual,National,Proportion of population living below the national poverty line,Chui,,Percent,15.569903
-2007,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,13.323177
-2008,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,14.947409
-2009,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,20.612283
-2010,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,21.810234
-2011,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,31.580794
-2012,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,16.336951
-2013,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,23.536875
-2014,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,20.781079
-2015,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,24.23137
-2016,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,29.796796
-2017,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,32.33125
-2018,Annual,National,Proportion of population living below the national poverty line,Chui,Male,Percent,15.460809
-2007,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,16.816017
-2008,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,16.656433
-2009,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,21.936014
-2010,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,21.932251
-2011,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,25.292386
-2012,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,16.835987
-2013,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,23.697958
-2014,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,22.438097
-2015,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,25.448532
-2016,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,30.862157
-2017,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,34.357578
-2018,Annual,National,Proportion of population living below the national poverty line,Chui,Female,Percent,15.688805
-2007,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,5.005041
-2008,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,15.199877
-2009,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,13.244359
-2010,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,7.89363
-2011,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,18.412319
-2012,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,21.394253
-2013,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,20.374195
-2014,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,17.559795
-2015,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,23.541813
-2016,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,9.78144
-2017,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,15.895977
-2018,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),,Percent,15.431849
-2007,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,4.99107
-2008,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,14.580408
-2009,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,12.694536
-2010,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,7.30227
-2011,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,17.126273
-2012,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,19.902241
-2013,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,18.389802
-2014,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,15.756847
-2015,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,22.249204
-2016,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,8.899379
-2017,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,14.320885
-2018,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Male,Percent,14.746661
-2007,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,5.022346
-2008,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,15.989713
-2009,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,13.950363
-2010,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,8.654215
-2011,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,20.038087
-2012,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,23.294374
-2013,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,22.845597
-2014,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,19.854368
-2015,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,25.206391
-2016,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,10.893361
-2017,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,17.858219
-2018,Annual,National,Proportion of population living below the national poverty line,Bishkek (city),Female,Percent,16.325681
-2007,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,0.0
-2008,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,0.0
-2009,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,0.0
-2010,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,0.0
-2011,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,0.0
-2012,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,0.0
-2013,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,40.875893
-2014,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,33.421786
-2015,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,38.278868
-2016,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,24.59944
-2017,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,33.489021
-2018,Annual,National,Proportion of population living below the national poverty line,Osh (city),,Percent,35.470048
-2007,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,0.0
-2008,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,0.0
-2009,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,0.0
-2010,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,0.0
-2011,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,0.0
-2012,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,0.0
-2013,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,40.214977
-2014,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,31.961883
-2015,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,35.847234
-2016,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,23.187149
-2017,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,30.888271
-2018,Annual,National,Proportion of population living below the national poverty line,Osh (city),Male,Percent,33.89696
-2007,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,0.0
-2008,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,0.0
-2009,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,0.0
-2010,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,0.0
-2011,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,0.0
-2012,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,0.0
-2013,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,41.620642
-2014,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,35.041318
-2015,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,41.029123
-2016,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,26.170219
-2017,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,36.383303
-2018,Annual,National,Proportion of population living below the national poverty line,Osh (city),Female,Percent,37.27373
+Year,Geographical area,Sex,Возраст,Value
+2007,,,,35.0
+2008,,,,31.7
+2009,,,,31.7
+2010,,,,33.7
+2011,,,,36.8
+2012,,,,38.0
+2013,,,,37.0
+2014,,,,30.6
+2015,,,,32.1
+2016,,,,25.4
+2017,,,,25.6
+2018,,,,22.4
+2007,,Female,,34.7
+2008,,Female,,31.4
+2009,,Female,,30.7
+2010,,Female,,32.7
+2011,,Female,,36.1
+2012,,Female,,37.2
+2013,,Female,,36.5
+2014,,Female,,29.7
+2015,,Female,,31.5
+2016,,Female,,25.0
+2017,,Female,,25.0
+2018,,Female,,22.5
+2007,,Male,,35.4
+2008,,Male,,32.1
+2009,,Male,,32.9
+2010,,Male,,34.8
+2011,,Male,,37.6
+2012,,Male,,39.0
+2013,,Male,,37.5
+2014,,Male,,31.5
+2015,,Male,,32.7
+2016,,Male,,25.7
+2017,,Male,,26.3
+2018,,Male,,22.2
+2013,,,Дети в возрасте 0 - 17 лет,45.2
+2014,,,Дети в возрасте 0 - 17 лет,37.9
+2015,,,Дети в возрасте 0 - 17 лет,40.5
+2016,,,Дети в возрасте 0 - 17 лет,31.5
+2017,,,Дети в возрасте 0 - 17 лет,32.0
+2018,,,Дети в возрасте 0 - 17 лет,28.3
+2013,,,Молодежь в возрасте 14 - 28 лет,35.6
+2014,,,Молодежь в возрасте 14 - 28 лет,28.5
+2015,,,Молодежь в возрасте 14 - 28 лет,29.0
+2016,,,Молодежь в возрасте 14 - 28 лет,23.0
+2017,,,Молодежь в возрасте 14 - 28 лет,22.9
+2018,,,Молодежь в возрасте 14 - 28 лет,20.9
+2013,,,"Население трудоспособного возраста (женщины 16-57 лет, мужчины 16-62 лет )",33.3
+2014,,,"Население трудоспособного возраста (женщины 16-57 лет, мужчины 16-62 лет )",27.0
+2015,,,"Население трудоспособного возраста (женщины 16-57 лет, мужчины 16-62 лет )",27.9
+2016,,,"Население трудоспособного возраста (женщины 16-57 лет, мужчины 16-62 лет )",21.8
+2017,,,"Население трудоспособного возраста (женщины 16-57 лет, мужчины 16-62 лет )",22.0
+2018,,,"Население трудоспособного возраста (женщины 16-57 лет, мужчины 16-62 лет )",19.3
+2013,,,Население старше трудоспособного возраста,25.2
+2014,,,Население старше трудоспособного возраста,21.3
+2015,,,Население старше трудоспособного возраста,21.8
+2016,,,Население старше трудоспособного возраста,19.9
+2017,,,Население старше трудоспособного возраста,18.9
+2018,,,Население старше трудоспособного возраста,14.8
+2007,Batken Oblast,,,40.4
+2008,Batken Oblast,,,20.7
+2009,Batken Oblast,,,31.5
+2010,Batken Oblast,,,33.6
+2011,Batken Oblast,,,35.6
+2012,Batken Oblast,,,34.2
+2013,Batken Oblast,,,53.9
+2014,Batken Oblast,,,40.7
+2015,Batken Oblast,,,41.2
+2016,Batken Oblast,,,37.0
+2017,Batken Oblast,,,40.5
+2018,Batken Oblast,,,33.8
+2007,Batken Oblast,Female,,41.3
+2008,Batken Oblast,Female,,22.4
+2009,Batken Oblast,Female,,31.3
+2010,Batken Oblast,Female,,31.9
+2011,Batken Oblast,Female,,34.2
+2012,Batken Oblast,Female,,34.6
+2013,Batken Oblast,Female,,53.6
+2014,Batken Oblast,Female,,39.0
+2015,Batken Oblast,Female,,40.9
+2016,Batken Oblast,Female,,36.1
+2017,Batken Oblast,Female,,39.6
+2018,Batken Oblast,Female,,33.7
+2007,Batken Oblast,Male,,39.4
+2008,Batken Oblast,Male,,18.8
+2009,Batken Oblast,Male,,31.7
+2010,Batken Oblast,Male,,35.6
+2011,Batken Oblast,Male,,37.3
+2012,Batken Oblast,Male,,33.8
+2013,Batken Oblast,Male,,54.1
+2014,Batken Oblast,Male,,42.4
+2015,Batken Oblast,Male,,41.4
+2016,Batken Oblast,Male,,38.0
+2017,Batken Oblast,Male,,41.5
+2018,Batken Oblast,Male,,33.9
+2007,Джалал Абадская область,,,53.0
+2008,Джалал Абадская область,,,40.1
+2009,Джалал Абадская область,,,36.9
+2010,Джалал Абадская область,,,44.7
+2011,Джалал Абадская область,,,45.3
+2012,Джалал Абадская область,,,55.7
+2013,Джалал Абадская область,,,46.4
+2014,Джалал Абадская область,,,46.4
+2015,Джалал Абадская область,,,45.1
+2016,Джалал Абадская область,,,32.2
+2017,Джалал Абадская область,,,32.6
+2018,Джалал Абадская область,,,32.2
+2007,Джалал Абадская область,Female,,51.6
+2008,Джалал Абадская область,Female,,37.9
+2009,Джалал Абадская область,Female,,33.5
+2010,Джалал Абадская область,Female,,43.7
+2011,Джалал Абадская область,Female,,43.7
+2012,Джалал Абадская область,Female,,55.3
+2013,Джалал Абадская область,Female,,47.4
+2014,Джалал Абадская область,Female,,47.0
+2015,Джалал Абадская область,Female,,45.2
+2016,Джалал Абадская область,Female,,33.1
+2017,Джалал Абадская область,Female,,34.0
+2018,Джалал Абадская область,Female,,33.4
+2007,Джалал Абадская область,Male,,54.6
+2008,Джалал Абадская область,Male,,42.4
+2009,Джалал Абадская область,Male,,40.5
+2010,Джалал Абадская область,Male,,45.8
+2011,Джалал Абадская область,Male,,46.9
+2012,Джалал Абадская область,Male,,56.1
+2013,Джалал Абадская область,Male,,45.5
+2014,Джалал Абадская область,Male,,45.8
+2015,Джалал Абадская область,Male,,44.9
+2016,Джалал Абадская область,Male,,31.4
+2017,Джалал Абадская область,Male,,31.1
+2018,Джалал Абадская область,Male,,30.9
+2007,Иссык Кульская область,,,38.6
+2008,Иссык Кульская область,,,52.2
+2009,Иссык Кульская область,,,46.1
+2010,Иссык Кульская область,,,38.0
+2011,Иссык Кульская область,,,29.5
+2012,Иссык Кульская область,,,28.1
+2013,Иссык Кульская область,,,39.5
+2014,Иссык Кульская область,,,26.0
+2015,Иссык Кульская область,,,28.9
+2016,Иссык Кульская область,,,24.7
+2017,Иссык Кульская область,,,24.2
+2018,Иссык Кульская область,,,21.5
+2007,Иссык Кульская область,Female,,38.7
+2008,Иссык Кульская область,Female,,52.2
+2009,Иссык Кульская область,Female,,47.9
+2010,Иссык Кульская область,Female,,36.9
+2011,Иссык Кульская область,Female,,31.1
+2012,Иссык Кульская область,Female,,28.2
+2013,Иссык Кульская область,Female,,40.4
+2014,Иссык Кульская область,Female,,26.4
+2015,Иссык Кульская область,Female,,29.1
+2016,Иссык Кульская область,Female,,24.7
+2017,Иссык Кульская область,Female,,24.3
+2018,Иссык Кульская область,Female,,21.5
+2007,Иссык Кульская область,Male,,38.5
+2008,Иссык Кульская область,Male,,52.3
+2009,Иссык Кульская область,Male,,44.5
+2010,Иссык Кульская область,Male,,39.0
+2011,Иссык Кульская область,Male,,28.1
+2012,Иссык Кульская область,Male,,28.0
+2013,Иссык Кульская область,Male,,38.5
+2014,Иссык Кульская область,Male,,25.7
+2015,Иссык Кульская область,Male,,28.7
+2016,Иссык Кульская область,Male,,24.7
+2017,Иссык Кульская область,Male,,24.1
+2018,Иссык Кульская область,Male,,21.6
+2007,Нарынская область,,,45.2
+2008,Нарынская область,,,42.7
+2009,Нарынская область,,,44.1
+2010,Нарынская область,,,53.5
+2011,Нарынская область,,,49.9
+2012,Нарынская область,,,39.9
+2013,Нарынская область,,,43.8
+2014,Нарынская область,,,30.6
+2015,Нарынская область,,,38.0
+2016,Нарынская область,,,37.8
+2017,Нарынская область,,,29.2
+2018,Нарынская область,,,30.6
+2007,Нарынская область,Female,,46.9
+2008,Нарынская область,Female,,42.7
+2009,Нарынская область,Female,,44.8
+2010,Нарынская область,Female,,53.4
+2011,Нарынская область,Female,,48.3
+2012,Нарынская область,Female,,37.7
+2013,Нарынская область,Female,,44.8
+2014,Нарынская область,Female,,32.4
+2015,Нарынская область,Female,,39.5
+2016,Нарынская область,Female,,39.6
+2017,Нарынская область,Female,,31.2
+2018,Нарынская область,Female,,31.6
+2007,Нарынская область,Male,,43.7
+2008,Нарынская область,Male,,42.8
+2009,Нарынская область,Male,,43.5
+2010,Нарынская область,Male,,53.7
+2011,Нарынская область,Male,,51.7
+2012,Нарынская область,Male,,42.4
+2013,Нарынская область,Male,,42.7
+2014,Нарынская область,Male,,28.6
+2015,Нарынская область,Male,,36.4
+2016,Нарынская область,Male,,35.9
+2017,Нарынская область,Male,,27.1
+2018,Нарынская область,Male,,29.5
+2007,Ошская область,,,46.6
+2008,Ошская область,,,37.5
+2009,Ошская область,,,38.3
+2010,Ошская область,,,41.9
+2011,Ошская область,,,44.7
+2012,Ошская область,,,51.4
+2013,Ошская область,,,43.4
+2014,Ошская область,,,31.7
+2015,Ошская область,,,28.9
+2016,Ошская область,,,22.0
+2017,Ошская область,,,14.3
+2018,Ошская область,,,14.8
+2007,Ошская область,Female,,48.7
+2008,Ошская область,Female,,37.9
+2009,Ошская область,Female,,38.3
+2010,Ошская область,Female,,40.6
+2011,Ошская область,Female,,44.2
+2012,Ошская область,Female,,50.6
+2013,Ошская область,Female,,42.7
+2014,Ошская область,Female,,30.5
+2015,Ошская область,Female,,28.4
+2016,Ошская область,Female,,21.8
+2017,Ошская область,Female,,12.9
+2018,Ошская область,Female,,15.3
+2007,Ошская область,Male,,44.3
+2008,Ошская область,Male,,36.9
+2009,Ошская область,Male,,38.2
+2010,Ошская область,Male,,43.2
+2011,Ошская область,Male,,45.2
+2012,Ошская область,Male,,52.4
+2013,Ошская область,Male,,44.2
+2014,Ошская область,Male,,33.1
+2015,Ошская область,Male,,29.5
+2016,Ошская область,Male,,22.3
+2017,Ошская область,Male,,15.7
+2018,Ошская область,Male,,14.3
+2007,Таласская область,,,35.3
+2008,Таласская область,,,43.0
+2009,Таласская область,,,33.0
+2010,Таласская область,,,42.3
+2011,Таласская область,,,50.2
+2012,Таласская область,,,39.6
+2013,Таласская область,,,23.1
+2014,Таласская область,,,19.0
+2015,Таласская область,,,21.5
+2016,Таласская область,,,18.1
+2017,Таласская область,,,20.7
+2018,Таласская область,,,22.1
+2007,Таласская область,Female,,35.5
+2008,Таласская область,Female,,45.4
+2009,Таласская область,Female,,35.7
+2010,Таласская область,Female,,44.3
+2011,Таласская область,Female,,51.4
+2012,Таласская область,Female,,42.2
+2013,Таласская область,Female,,23.3
+2014,Таласская область,Female,,19.7
+2015,Таласская область,Female,,22.6
+2016,Таласская область,Female,,19.1
+2017,Таласская область,Female,,21.4
+2018,Таласская область,Female,,23.8
+2007,Таласская область,Male,,34.9
+2008,Таласская область,Male,,40.0
+2009,Таласская область,Male,,29.8
+2010,Таласская область,Male,,40.1
+2011,Таласская область,Male,,48.8
+2012,Таласская область,Male,,36.7
+2013,Таласская область,Male,,22.8
+2014,Таласская область,Male,,18.4
+2015,Таласская область,Male,,20.4
+2016,Таласская область,Male,,17.1
+2017,Таласская область,Male,,19.9
+2018,Таласская область,Male,,20.3
+2007,Чуйская область,,,15.0
+2008,Чуйская область,,,15.8
+2009,Чуйская область,,,21.2
+2010,Чуйская область,,,21.9
+2011,Чуйская область,,,28.6
+2012,Чуйская область,,,16.6
+2013,Чуйская область,,,23.6
+2014,Чуйская область,,,21.6
+2015,Чуйская область,,,24.8
+2016,Чуйская область,,,30.3
+2017,Чуйская область,,,33.3
+2018,Чуйская область,,,15.6
+2007,Чуйская область,Female,,13.3
+2008,Чуйская область,Female,,14.9
+2009,Чуйская область,Female,,20.6
+2010,Чуйская область,Female,,21.8
+2011,Чуйская область,Female,,31.6
+2012,Чуйская область,Female,,16.3
+2013,Чуйская область,Female,,23.5
+2014,Чуйская область,Female,,20.8
+2015,Чуйская область,Female,,24.2
+2016,Чуйская область,Female,,29.8
+2017,Чуйская область,Female,,32.3
+2018,Чуйская область,Female,,15.5
+2007,Чуйская область,Male,,16.8
+2008,Чуйская область,Male,,16.7
+2009,Чуйская область,Male,,21.9
+2010,Чуйская область,Male,,21.9
+2011,Чуйская область,Male,,25.3
+2012,Чуйская область,Male,,16.8
+2013,Чуйская область,Male,,23.7
+2014,Чуйская область,Male,,22.4
+2015,Чуйская область,Male,,25.4
+2016,Чуйская область,Male,,30.9
+2017,Чуйская область,Male,,34.4
+2018,Чуйская область,Male,,15.7
+2007,г. Бишкек,,,5.0
+2008,г. Бишкек,,,15.2
+2009,г. Бишкек,,,13.2
+2010,г. Бишкек,,,7.9
+2011,г. Бишкек,,,18.4
+2012,г. Бишкек,,,21.4
+2013,г. Бишкек,,,20.4
+2014,г. Бишкек,,,17.6
+2015,г. Бишкек,,,23.5
+2016,г. Бишкек,,,9.8
+2017,г. Бишкек,,,15.9
+2018,г. Бишкек,,,15.4
+2007,г. Бишкек,Female,,5.0
+2008,г. Бишкек,Female,,14.6
+2009,г. Бишкек,Female,,12.7
+2010,г. Бишкек,Female,,7.3
+2011,г. Бишкек,Female,,17.1
+2012,г. Бишкек,Female,,19.9
+2013,г. Бишкек,Female,,18.4
+2014,г. Бишкек,Female,,15.8
+2015,г. Бишкек,Female,,22.2
+2016,г. Бишкек,Female,,8.9
+2017,г. Бишкек,Female,,14.3
+2018,г. Бишкек,Female,,14.7
+2007,г. Бишкек,Male,,5.0
+2008,г. Бишкек,Male,,16.0
+2009,г. Бишкек,Male,,14.0
+2010,г. Бишкек,Male,,8.7
+2011,г. Бишкек,Male,,20.0
+2012,г. Бишкек,Male,,23.3
+2013,г. Бишкек,Male,,22.8
+2014,г. Бишкек,Male,,19.9
+2015,г. Бишкек,Male,,25.2
+2016,г. Бишкек,Male,,10.9
+2017,г. Бишкек,Male,,17.9
+2018,г. Бишкек,Male,,16.3
+2007,г. Ош,,,0.0
+2008,г. Ош,,,0.0
+2009,г. Ош,,,0.0
+2010,г. Ош,,,0.0
+2011,г. Ош,,,0.0
+2012,г. Ош,,,0.0
+2013,г. Ош,,,40.9
+2014,г. Ош,,,33.4
+2015,г. Ош,,,38.3
+2016,г. Ош,,,24.6
+2017,г. Ош,,,33.5
+2018,г. Ош,,,35.5
+2007,г. Ош,Female,,0.0
+2008,г. Ош,Female,,0.0
+2009,г. Ош,Female,,0.0
+2010,г. Ош,Female,,0.0
+2011,г. Ош,Female,,0.0
+2012,г. Ош,Female,,0.0
+2013,г. Ош,Female,,40.2
+2014,г. Ош,Female,,32.0
+2015,г. Ош,Female,,35.8
+2016,г. Ош,Female,,23.2
+2017,г. Ош,Female,,30.9
+2018,г. Ош,Female,,33.9
+2007,г. Ош,Male,,0.0
+2008,г. Ош,Male,,0.0
+2009,г. Ош,Male,,0.0
+2010,г. Ош,Male,,0.0
+2011,г. Ош,Male,,0.0
+2012,г. Ош,Male,,0.0
+2013,г. Ош,Male,,41.6
+2014,г. Ош,Male,,35.0
+2015,г. Ош,Male,,41.0
+2016,г. Ош,Male,,26.2
+2017,г. Ош,Male,,36.4
+2018,г. Ош,Male,,37.3

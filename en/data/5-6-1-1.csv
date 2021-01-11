@@ -1,13 +1,13 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Age,Degree of urbanisation,Unit of measure,Value
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Kyrgyzstan,Female,15 to 49 years old,,Percent,99.7
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Kyrgyzstan,Female,15 to 49 years old,Urban,Percent,99.8
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Kyrgyzstan,Female,15 to 49 years old,Rural,Percent,99.6
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Batken,Female,15 to 49 years old,,Percent,99.7
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Jalal-Abad,Female,15 to 49 years old,,Percent,99.4
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Issyk-Kul,Female,15 to 49 years old,,Percent,100.0
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Naryn,Female,15 to 49 years old,,Percent,99.7
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Osh,Female,15 to 49 years old,,Percent,99.8
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Talas,Female,15 to 49 years old,,Percent,100.0
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Chui,Female,15 to 49 years old,,Percent,99.5
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Bishkek (city),Female,15 to 49 years old,,Percent,99.9
-2018,Annual,National,Proportion of married women and sexually active non-married women from 15-49 years aware of any modern method of contraception,Osh (city),Female,15 to 49 years old,,Percent,99.5
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Units,Value
+2018,Annual,National,_L_KG_050601_1,Kyrgyzstan,Female,15 to 49 years old,,PT,99.7
+2018,Annual,National,_L_KG_050601_1,Kyrgyzstan,Female,15 to 49 years old,Urban,PT,99.8
+2018,Annual,National,_L_KG_050601_1,Kyrgyzstan,Female,15 to 49 years old,Rural,PT,99.6
+2018,Annual,National,_L_KG_050601_1,Batken,Female,15 to 49 years old,,PT,99.7
+2018,Annual,National,_L_KG_050601_1,Jalal-Abad,Female,15 to 49 years old,,PT,99.4
+2018,Annual,National,_L_KG_050601_1,Issyk-Kul,Female,15 to 49 years old,,PT,100.0
+2018,Annual,National,_L_KG_050601_1,Naryn,Female,15 to 49 years old,,PT,99.7
+2018,Annual,National,_L_KG_050601_1,Osh,Female,15 to 49 years old,,PT,99.8
+2018,Annual,National,_L_KG_050601_1,Talas,Female,15 to 49 years old,,PT,100.0
+2018,Annual,National,_L_KG_050601_1,Chui,Female,15 to 49 years old,,PT,99.5
+2018,Annual,National,_L_KG_050601_1,Bishkek (city),Female,15 to 49 years old,,PT,99.9
+2018,Annual,National,_L_KG_050601_1,Osh (city),Female,15 to 49 years old,,PT,99.5

@@ -1,8 +1,6 @@
 From,To
-Frequency of observation,Reporting type
-Reporting type,SDG Series
-SDG Series,Справочная зона (условная зона)
-Справочная зона (условная зона),пол
-пол,Возраст
-Возраст,Unit of measure
-Unit of measure,Степень урбанизации
+Частота наблюдений,Тип отчетности
+Тип отчетности,Территория
+Территория,Пол
+Пол,Возраст
+Возраст,Тип местности

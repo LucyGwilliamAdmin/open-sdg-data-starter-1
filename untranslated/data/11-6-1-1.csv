@@ -1,10 +1,10 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2010,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,214.643352
-2011,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,223.172865
-2012,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,183.173589
-2013,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,214.906582
-2014,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,178.260402
-2015,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,195.243858
-2016,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,170.944426
-2017,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,165.143944
-2018,Annual,National,Volume of removed solid household waste per person,Kyrgyzstan,Kilograms,171.426688
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2010,A,N,_L_KG_110601_1,KG,KG,214.643352
+2011,A,N,_L_KG_110601_1,KG,KG,223.172865
+2012,A,N,_L_KG_110601_1,KG,KG,183.173589
+2013,A,N,_L_KG_110601_1,KG,KG,214.906582
+2014,A,N,_L_KG_110601_1,KG,KG,178.260402
+2015,A,N,_L_KG_110601_1,KG,KG,195.243858
+2016,A,N,_L_KG_110601_1,KG,KG,170.944426
+2017,A,N,_L_KG_110601_1,KG,KG,165.143944
+2018,A,N,_L_KG_110601_1,KG,KG,171.426688

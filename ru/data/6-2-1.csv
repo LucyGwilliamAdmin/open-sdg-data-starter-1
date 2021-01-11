@@ -1,23 +1,23 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Степень урбанизации,Доход или квинтиль благосостояния,Уровень образования,Unit of measure,Value
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,,Процент,96.3
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,городская местность,,,Процент,96.1
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,сельская местность,,,Процент,96.5
-2018,Annual,National,Proportion of population using safely managed sanitation services,Баткенская область,,,,Процент,99.6
-2018,Annual,National,Proportion of population using safely managed sanitation services,Жалал-Абад область,,,,Процент,93.4
-2018,Annual,National,Proportion of population using safely managed sanitation services,Иссык-Кульская область,,,,Процент,99.1
-2018,Annual,National,Proportion of population using safely managed sanitation services,Нарынская область,,,,Процент,99.4
-2018,Annual,National,Proportion of population using safely managed sanitation services,Ошская область,,,,Процент,99.1
-2018,Annual,National,Proportion of population using safely managed sanitation services,Таласская область,,,,Процент,99.8
-2018,Annual,National,Proportion of population using safely managed sanitation services,Чуйская область,,,,Процент,91.6
-2018,Annual,National,Proportion of population using safely managed sanitation services,г. Бишкек,,,,Процент,95.7
-2018,Annual,National,Proportion of population using safely managed sanitation services,г. Ош,,,,Процент,96.8
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Начальное образование (1-4 классы),Процент,92.1
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,1- этап среднего образования,Процент,94.7
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,2- этап среднего образования,Процент,97.4
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Послесреднее нетретичное образование,Процент,96.6
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,,Short-cycle tertiary education,Процент,95.1
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,квинтиль 1 (самые бедные),,Процент,97.2
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,квинтиль 2,,Процент,95.9
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,квинтиль 3,,Процент,96.5
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,квинтиль 4,,Процент,96.4
-2018,Annual,National,Proportion of population using safely managed sanitation services,Kyrgyzstan,,квинтиль 5 (самые богатые),,Процент,95.7
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Units,Value
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,,,PT,96.3
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,Городская,,,PT,96.1
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,Сельская,,,PT,96.5
+2018,Годовая,Национальный,SH_SAN_SAFE,Баткенская область,,,,PT,99.6
+2018,Годовая,Национальный,SH_SAN_SAFE,Джалал-Абадская область,,,,PT,93.4
+2018,Годовая,Национальный,SH_SAN_SAFE,Иссык-Кульская область,,,,PT,99.1
+2018,Годовая,Национальный,SH_SAN_SAFE,Нарынская область,,,,PT,99.4
+2018,Годовая,Национальный,SH_SAN_SAFE,Ошская область,,,,PT,99.1
+2018,Годовая,Национальный,SH_SAN_SAFE,Таласская область,,,,PT,99.8
+2018,Годовая,Национальный,SH_SAN_SAFE,Чуйская область,,,,PT,91.6
+2018,Годовая,Национальный,SH_SAN_SAFE,г. Бишкек,,,,PT,95.7
+2018,Годовая,Национальный,SH_SAN_SAFE,г. Ош,,,,PT,96.8
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,,Начальное образование,PT,92.1
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,,Первый этап среднего образования,PT,94.7
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,,Второй этап среднего образования,PT,97.4
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,,Послесреднее нетретичное образование,PT,96.6
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,,Короткий цикл третичного образования,PT,95.1
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,Квинтиль 1 (беднейшие),,PT,97.2
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,Квинтиль 2,,PT,95.9
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,Квинтиль 3,,PT,96.5
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,Квинтиль 4,,PT,96.4
+2018,Годовая,Национальный,SH_SAN_SAFE,Киргизия,,Квинтиль 5 (богатейшие),,PT,95.7

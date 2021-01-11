@@ -1,11 +1,9 @@
 From,To
-Frequency of observation,Reporting type
-Reporting type,SDG Series
-SDG Series,Reference area
-Reference area,Sex
-Sex,Unit of measure
-Unit of measure,Age
-Unit of measure,Degree of urbanisation
-Unit of measure,Income or wealth quantile
-Unit of measure,Education level
-Unit of measure,Disability status
+FREQ,REPORTING_TYPE
+REPORTING_TYPE,REF_AREA
+REF_AREA,SEX
+SEX,AGE
+SEX,URBANISATION
+SEX,INCOME_WEALTH_QUANTILE
+SEX,EDUCATION_LEV
+SEX,DISABILITY_STATUS

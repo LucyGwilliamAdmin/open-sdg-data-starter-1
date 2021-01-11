@@ -1,14 +1,14 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Степень урбанизации,Доход или квинтиль благосостояния,Уровень образования,Unit of measure,Value
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,,Процент,19.2
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,городская местность,,,Процент,47.2
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,сельская местность,,,Процент,3.2
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Начальное образование (1-4 классы),Процент,6.8
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,1- этап среднего образования,Процент,10.5
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,2- этап среднего образования,Процент,11.4
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Послесреднее нетретичное образование,Процент,19.7
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Short-cycle tertiary education,Процент,38.9
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,квинтиль 1 (самые бедные),,Процент,10.0
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,квинтиль 2,,Процент,2.6
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,квинтиль 3,,Процент,6.1
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,квинтиль 4,,Процент,9.3
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,квинтиль 5 (самые богатые),,Процент,76.9
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Units,Value
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,,,PT,19.2
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,Городская,,,PT,47.2
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,Сельская,,,PT,3.2
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,,Начальное образование,PT,6.8
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,,Первый этап среднего образования,PT,10.5
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,,Второй этап среднего образования,PT,11.4
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,,Послесреднее нетретичное образование,PT,19.7
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,,Короткий цикл третичного образования,PT,38.9
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,Квинтиль 1 (беднейшие),,PT,10.0
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,Квинтиль 2,,PT,2.6
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,Квинтиль 3,,PT,6.1
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,Квинтиль 4,,PT,9.3
+2018,Годовая,Национальный,EG_EGY_CLEAN,Киргизия,,Квинтиль 5 (богатейшие),,PT,76.9

@@ -1,128 +1,98 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Composite breakdown,Unit of measure,Value
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,576.9
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,587.5
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,526.0
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,561.9
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,665.9
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,810.1
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,934.5
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,921.5
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,,Local currency,962.4
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,39.2
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,41.2
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,28.2
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,22.4
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,56.2
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,71.5
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,60.4
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,52.7
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Pollution control,Local currency,64.1
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,69.1
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,68.5
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,73.2
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,80.9
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,93.3
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,114.1
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,145.8
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,131.7
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Nature parks and reserves,Local currency,136.5
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,3.6
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,6.8
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,4.9
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,6.5
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,8.4
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,9.4
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,10.4
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,9.8
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Animal protection,Local currency,10.4
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Plant protection,Local currency,1.4
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Plant protection,Local currency,1.3
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Plant protection,Local currency,1.3
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Plant protection,Local currency,1.2
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Plant protection,Local currency,1.6
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Plant protection,Local currency,1.5
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Plant protection,Local currency,1.5
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,29.6
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,36.4
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,26.6
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,63.2
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,61.2
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,46.6
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,109.3
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,105.6
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Anti-epizootic measures,Local currency,153.6
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,190.9
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,190.1
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,158.7
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,90.9
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,109.3
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,107.2
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,150.8
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,134.6
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Veterinary diagnostics,Local currency,245.1
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,72.3
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,50.0
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,29.3
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,43.9
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,42.5
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,60.1
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,88.8
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,85.9
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Plant chemicals, protection and
-quarantine",Local currency,132.2
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,150.6
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,175.6
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,189.3
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,235.6
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,277.1
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,392.6
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,358.6
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,231.4
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services for the protection
-of biodiversity and landscape",Local currency,212.8
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,2.9
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,4.3
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,4.6
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,6.2
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,6.7
-2015,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,7.1
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,6.3
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Research and development work
-related to environmental protection",Local currency,6.3
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Environmental issues not classified elsewhere,Local currency,11.0
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Environmental issues not classified elsewhere,Local currency,11.2
-2012,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Environmental issues not classified elsewhere,Local currency,9.8
-2013,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Environmental issues not classified elsewhere,Local currency,11.2
-2014,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Environmental issues not classified elsewhere,Local currency,9.6
-2017,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,Expenditure on Environmental issues not classified elsewhere,Local currency,163.5
-2010,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services on environmental
-protection",Local currency,6.3
-2011,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services on environmental
-protection",Local currency,2.2
-2016,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services on environmental
-protection",Local currency,2.6
-2018,Annual,National,Public expenditure on environment preservation (forest),Kyrgyzstan,"Expenditure on Other services on environmental
-protection",Local currency,7.7
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,COMPOSITE_BREAKDOWN,Units,Value
+2010,A,N,_L_KG_150B01_1,KG,,CUR_LCU,576.9
+2011,A,N,_L_KG_150B01_1,KG,,CUR_LCU,587.5
+2012,A,N,_L_KG_150B01_1,KG,,CUR_LCU,526.0
+2013,A,N,_L_KG_150B01_1,KG,,CUR_LCU,561.9
+2014,A,N,_L_KG_150B01_1,KG,,CUR_LCU,665.9
+2015,A,N,_L_KG_150B01_1,KG,,CUR_LCU,810.1
+2016,A,N,_L_KG_150B01_1,KG,,CUR_LCU,934.5
+2017,A,N,_L_KG_150B01_1,KG,,CUR_LCU,921.5
+2018,A,N,_L_KG_150B01_1,KG,,CUR_LCU,962.4
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,39.2
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,41.2
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,28.2
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,22.4
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,56.2
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,71.5
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,60.4
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,52.7
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_POL,CUR_LCU,64.1
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,69.1
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,68.5
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,73.2
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,80.9
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,93.3
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,114.1
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,145.8
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,131.7
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_NATRES,CUR_LCU,136.5
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,3.6
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,6.8
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,4.9
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,6.5
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,8.4
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,9.4
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,10.4
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,9.8
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTAN,CUR_LCU,10.4
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTTPLN,CUR_LCU,1.4
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTTPLN,CUR_LCU,1.3
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTTPLN,CUR_LCU,1.3
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTTPLN,CUR_LCU,1.2
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTTPLN,CUR_LCU,1.6
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTTPLN,CUR_LCU,1.5
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_PROTTPLN,CUR_LCU,1.5
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,29.6
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,36.4
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,26.6
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,63.2
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,61.2
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,46.6
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,109.3
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,105.6
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_EPIS,CUR_LCU,153.6
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,190.9
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,190.1
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,158.7
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,90.9
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,109.3
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,107.2
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,150.8
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,134.6
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_VET,CUR_LCU,245.1
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,72.3
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,50.0
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,29.3
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,43.9
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,42.5
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,60.1
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,88.8
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,85.9
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_CHARPLN,CUR_LCU,132.2
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,150.6
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,175.6
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,189.3
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,235.6
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,277.1
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,392.6
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,358.6
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,231.4
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER_BIO,CUR_LCU,212.8
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,2.9
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,4.3
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,4.6
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,6.2
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,6.7
+2015,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,7.1
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,6.3
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_RD,CUR_LCU,6.3
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_NES,CUR_LCU,11.0
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_NES,CUR_LCU,11.2
+2012,A,N,_L_KG_150B01_1,KG,_L_EEX_NES,CUR_LCU,9.8
+2013,A,N,_L_KG_150B01_1,KG,_L_EEX_NES,CUR_LCU,11.2
+2014,A,N,_L_KG_150B01_1,KG,_L_EEX_NES,CUR_LCU,9.6
+2017,A,N,_L_KG_150B01_1,KG,_L_EEX_NES,CUR_LCU,163.5
+2010,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER,CUR_LCU,6.3
+2011,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER,CUR_LCU,2.2
+2016,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER,CUR_LCU,2.6
+2018,A,N,_L_KG_150B01_1,KG,_L_EEX_OTHER,CUR_LCU,7.7

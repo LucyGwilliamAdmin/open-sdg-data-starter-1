@@ -1,1 +1,1 @@
-{"From":["Frequency of observation","Reporting type","SDG Series","Reference area","Unit of measure","Age","Education level"],"To":["Reporting type","SDG Series","Reference area","Age","Sex","Education level","Unit of measure"]}
+{"From":["FREQ","REPORTING_TYPE","REF_AREA","EDUCATION_LEV","AGE"],"To":["REPORTING_TYPE","REF_AREA","AGE","SEX","EDUCATION_LEV"]}

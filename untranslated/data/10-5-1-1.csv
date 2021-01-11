@@ -1,36 +1,36 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2008,Annual,National,Assets to GDP,Kyrgyzstan,Percent,29.2
-2009,Annual,National,Assets to GDP,Kyrgyzstan,Percent,36.6
-2010,Annual,National,Assets to GDP,Kyrgyzstan,Percent,27.6
-2011,Annual,National,Assets to GDP,Kyrgyzstan,Percent,23.6
-2012,Annual,National,Assets to GDP,Kyrgyzstan,Percent,28.2
-2013,Annual,National,Assets to GDP,Kyrgyzstan,Percent,31.3
-2014,Annual,National,Assets to GDP,Kyrgyzstan,Percent,34.3
-2015,Annual,National,Assets to GDP,Kyrgyzstan,Percent,41.4
-2016,Annual,National,Assets to GDP,Kyrgyzstan,Percent,37.4
-2017,Annual,National,Assets to GDP,Kyrgyzstan,Percent,37.3
-2018,Annual,National,Assets to GDP,Kyrgyzstan,Percent,39.8
-2007,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,16.5
-2008,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,15.7
-2009,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,19.7
-2010,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,15.5
-2011,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,13.5
-2012,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,16.3
-2013,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,19.0
-2014,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,20.6
-2015,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,23.9
-2016,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,22.5
-2017,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,22.9
-2018,Annual,National,Deposits to GDP,Kyrgyzstan,Percent,23.9
-2007,Annual,National,Loans to GDP,Kyrgyzstan,Percent,14.7
-2008,Annual,National,Loans to GDP,Kyrgyzstan,Percent,13.6
-2009,Annual,National,Loans to GDP,Kyrgyzstan,Percent,12.5
-2010,Annual,National,Loans to GDP,Kyrgyzstan,Percent,12.0
-2011,Annual,National,Loans to GDP,Kyrgyzstan,Percent,10.9
-2012,Annual,National,Loans to GDP,Kyrgyzstan,Percent,12.9
-2013,Annual,National,Loans to GDP,Kyrgyzstan,Percent,15.2
-2014,Annual,National,Loans to GDP,Kyrgyzstan,Percent,19.7
-2015,Annual,National,Loans to GDP,Kyrgyzstan,Percent,21.8
-2016,Annual,National,Loans to GDP,Kyrgyzstan,Percent,19.6
-2017,Annual,National,Loans to GDP,Kyrgyzstan,Percent,20.4
-2018,Annual,National,Loans to GDP,Kyrgyzstan,Percent,23.0
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2008,A,N,_L_KG_100501_11,KG,PT,29.2
+2009,A,N,_L_KG_100501_11,KG,PT,36.6
+2010,A,N,_L_KG_100501_11,KG,PT,27.6
+2011,A,N,_L_KG_100501_11,KG,PT,23.6
+2012,A,N,_L_KG_100501_11,KG,PT,28.2
+2013,A,N,_L_KG_100501_11,KG,PT,31.3
+2014,A,N,_L_KG_100501_11,KG,PT,34.3
+2015,A,N,_L_KG_100501_11,KG,PT,41.4
+2016,A,N,_L_KG_100501_11,KG,PT,37.4
+2017,A,N,_L_KG_100501_11,KG,PT,37.3
+2018,A,N,_L_KG_100501_11,KG,PT,39.8
+2007,A,N,_L_KG_100501_12,KG,PT,16.5
+2008,A,N,_L_KG_100501_12,KG,PT,15.7
+2009,A,N,_L_KG_100501_12,KG,PT,19.7
+2010,A,N,_L_KG_100501_12,KG,PT,15.5
+2011,A,N,_L_KG_100501_12,KG,PT,13.5
+2012,A,N,_L_KG_100501_12,KG,PT,16.3
+2013,A,N,_L_KG_100501_12,KG,PT,19.0
+2014,A,N,_L_KG_100501_12,KG,PT,20.6
+2015,A,N,_L_KG_100501_12,KG,PT,23.9
+2016,A,N,_L_KG_100501_12,KG,PT,22.5
+2017,A,N,_L_KG_100501_12,KG,PT,22.9
+2018,A,N,_L_KG_100501_12,KG,PT,23.9
+2007,A,N,_L_KG_100501_13,KG,PT,14.7
+2008,A,N,_L_KG_100501_13,KG,PT,13.6
+2009,A,N,_L_KG_100501_13,KG,PT,12.5
+2010,A,N,_L_KG_100501_13,KG,PT,12.0
+2011,A,N,_L_KG_100501_13,KG,PT,10.9
+2012,A,N,_L_KG_100501_13,KG,PT,12.9
+2013,A,N,_L_KG_100501_13,KG,PT,15.2
+2014,A,N,_L_KG_100501_13,KG,PT,19.7
+2015,A,N,_L_KG_100501_13,KG,PT,21.8
+2016,A,N,_L_KG_100501_13,KG,PT,19.6
+2017,A,N,_L_KG_100501_13,KG,PT,20.4
+2018,A,N,_L_KG_100501_13,KG,PT,23.0

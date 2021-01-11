@@ -1,10 +1,10 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Unit of measure,Value
-2010,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,360
-2011,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,401
-2012,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,415
-2013,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,530
-2014,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,511
-2015,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,572
-2016,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,563
-2017,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,524
-2018,Annual,National,Researchers (in full-time equivalent) per million inhabitants,Kyrgyzstan,Per million population,555
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
+2010,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,360
+2011,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,401
+2012,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,415
+2013,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,530
+2014,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,511
+2015,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,572
+2016,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,563
+2017,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,524
+2018,Годовая,Национальный,GB_POP_SCIERD,Киргизия,PER_1000000_POP,555

@@ -1,31 +1,31 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit of measure,Value
-2014,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,,Number,378
-2015,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,,Number,336
-2016,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,,Number,351
-2017,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,,Number,234
-2018,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,,Number,342
-2014,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,,Number,62
-2015,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,,Number,69
-2016,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,,Number,72
-2017,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,,Number,52
-2018,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,,Number,56
-2014,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Male,Number,323
-2015,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Male,Number,278
-2016,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Male,Number,286
-2017,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Male,Number,196
-2018,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Male,Number,297
-2014,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Male,Number,57
-2015,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Male,Number,65
-2016,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Male,Number,61
-2017,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Male,Number,44
-2018,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Male,Number,53
-2014,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Female,Number,55
-2015,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Female,Number,58
-2016,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Female,Number,65
-2017,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Female,Number,38
-2018,Annual,National,Number of convictions for malfeasance,Kyrgyzstan,Female,Number,45
-2014,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Female,Number,5
-2015,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Female,Number,4
-2016,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Female,Number,11
-2017,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Female,Number,8
-2018,Annual,National,Number of convictions for сorruption and bribery,Kyrgyzstan,Female,Number,3
+Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
+2014,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,,NUMBER,378
+2015,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,,NUMBER,336
+2016,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,,NUMBER,351
+2017,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,,NUMBER,234
+2018,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,,NUMBER,342
+2014,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,,NUMBER,62
+2015,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,,NUMBER,69
+2016,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,,NUMBER,72
+2017,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,,NUMBER,52
+2018,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,,NUMBER,56
+2014,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Male,NUMBER,323
+2015,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Male,NUMBER,278
+2016,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Male,NUMBER,286
+2017,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Male,NUMBER,196
+2018,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Male,NUMBER,297
+2014,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Male,NUMBER,57
+2015,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Male,NUMBER,65
+2016,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Male,NUMBER,61
+2017,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Male,NUMBER,44
+2018,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Male,NUMBER,53
+2014,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Female,NUMBER,55
+2015,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Female,NUMBER,58
+2016,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Female,NUMBER,65
+2017,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Female,NUMBER,38
+2018,Annual,National,_L_KG_160501_1B1,Kyrgyzstan,Female,NUMBER,45
+2014,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Female,NUMBER,5
+2015,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Female,NUMBER,4
+2016,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Female,NUMBER,11
+2017,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Female,NUMBER,8
+2018,Annual,National,_L_KG_160501_1B2,Kyrgyzstan,Female,NUMBER,3

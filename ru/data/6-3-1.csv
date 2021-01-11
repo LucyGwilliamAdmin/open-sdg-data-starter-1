@@ -1,10 +1,10 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),Unit of measure,Value
-2010,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,89.9
-2011,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,94.5
-2012,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,94.4
-2013,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,91.0
-2014,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,94.8
-2015,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,94.6
-2016,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,93.5
-2017,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,93.9
-2018,Annual,National,Proportion of safely treated domestic wastewater flows,Kyrgyzstan,Процент,95.1
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Units,Value
+2010,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,89.9
+2011,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,94.5
+2012,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,94.4
+2013,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,91.0
+2014,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,94.8
+2015,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,94.6
+2016,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,93.5
+2017,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,93.9
+2018,Годовая,Национальный,EN_WWT_WWDS,Киргизия,PT,95.1

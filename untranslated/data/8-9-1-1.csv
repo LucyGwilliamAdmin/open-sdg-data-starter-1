@@ -1,12 +1,12 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of measure,Value
-2007,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.0
-2008,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.2
-2009,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.0
-2010,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,3.7
-2011,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.5
-2012,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.6
-2013,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.6
-2014,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.3
-2015,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.7
-2016,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,4.6
-2017,Annual,National,Tourism share in GDP,Kyrgyzstan,Percent,5.0
+Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2007,A,N,_L_KG_080901_01,KG,PT,4.0
+2008,A,N,_L_KG_080901_01,KG,PT,4.2
+2009,A,N,_L_KG_080901_01,KG,PT,4.0
+2010,A,N,_L_KG_080901_01,KG,PT,3.7
+2011,A,N,_L_KG_080901_01,KG,PT,4.5
+2012,A,N,_L_KG_080901_01,KG,PT,4.6
+2013,A,N,_L_KG_080901_01,KG,PT,4.6
+2014,A,N,_L_KG_080901_01,KG,PT,4.3
+2015,A,N,_L_KG_080901_01,KG,PT,4.7
+2016,A,N,_L_KG_080901_01,KG,PT,4.6
+2017,A,N,_L_KG_080901_01,KG,PT,5.0

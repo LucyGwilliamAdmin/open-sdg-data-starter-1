@@ -1,21 +1,23 @@
-Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Age,Degree of urbanisation,Education level,Unit of measure,Value
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,,Percent,91.8
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,Urban,,Percent,94.9
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,Rural,,Percent,89.9
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,Male,15 years old and over,,,Percent,92.8
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,Female,15 years old and over,,,Percent,91.0
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Batken,,15 years old and over,,,Percent,91.1
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Jalal-Abad,,15 years old and over,,,Percent,90.6
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Issyk-Kul,,15 years old and over,,,Percent,92.1
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Naryn,,15 years old and over,,,Percent,89.4
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Osh,,15 years old and over,,,Percent,87.6
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Talas,,15 years old and over,,,Percent,91.5
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Chui,,15 years old and over,,,Percent,94.6
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Bishkek (city),,15 years old and over,,,Percent,97.0
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Osh (city),,15 years old and over,,,Percent,88.3
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 to 28 years old,,,Percent,90.9
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Primary education,Percent,58.1
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Lower secondary education,Percent,84.0
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Secondary and post-secondary non-tertiary education (intermediate),Percent,92.8
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Short-cycle tertiary education,Percent,96.4
-2018,Annual,National,Proportion of individuals who own a mobile telephone,Kyrgyzstan,,15 years old and over,,Bachelor’s or equivalent level,Percent,98.1
+Year,Территория,Местность,Пол,Возраст,Образование,Value
+2018,,,,,,91.8
+2018,,Городская,,,,94.9
+2018,,Сельская,,,,89.9
+2018,,,Мужчины,,,92.8
+2018,,,Женщины,,,91.0
+2018,Баткенская область,,,,,91.1
+2018,Джалал-Абадская область,,,,,90.6
+2018,Иссык-Кульская область,,,,,92.1
+2018,Нарынская область,,,,,89.4
+2018,Ошская область,,,,,87.6
+2018,Таласская область,,,,,91.5
+2018,Чуйская область,,,,,94.6
+2018,г.Бишкек,,,,,97.0
+2018,г.Ош,,,,,88.3
+2018,,,,"Молодёжь, 15-28 лет",,90.9
+2018,,,,Взрослое население трудоспособного возраста (от 29 лет),,95.9
+2018,,,,"Старше трудоспособного возраста (женщины 58 лет и старше, мужчины 63 лет и старше)",,78.8
+2018,,,,,Дошкольное или нет/Начальное,58.1
+2018,,,,,Основное общее,84.0
+2018,,,,,Среднее общее,92.8
+2018,,,,,Профессиональное начальное/среднее,96.4
+2018,,,,,Высшее,98.1

@@ -1,43 +1,43 @@
-Year,Frequency of observation,Reporting type,SDG Series,Справочная зона (условная зона),пол,Уровень образования,Unit of measure,Value
-2010,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1432
-2013,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1551
-2014,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1272
-2015,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,1236
-2016,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,891
-2017,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),Number,766
-2010,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,2544
-2013,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,2663
-2014,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,5189
-2015,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,4961
-2016,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,4754
-2017,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Short-cycle tertiary education,Number,5106
-2010,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Short-cycle tertiary education,Number,1244
-2013,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Short-cycle tertiary education,Number,1347
-2014,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Short-cycle tertiary education,Number,1873
-2015,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Short-cycle tertiary education,Number,1785
-2016,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Short-cycle tertiary education,Number,3050
-2017,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Short-cycle tertiary education,Number,1380
-2010,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Short-cycle tertiary education,Number,1300
-2013,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Short-cycle tertiary education,Number,1316
-2014,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Short-cycle tertiary education,Number,3316
-2015,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Short-cycle tertiary education,Number,3176
-2016,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Short-cycle tertiary education,Number,1704
-2017,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Short-cycle tertiary education,Number,3722
-2010,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,12291
-2013,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,8890
-2014,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,9214
-2015,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,8551
-2016,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,7089
-2017,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),Number,8522
-2010,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Tertiary education (Bachelor’s and Master's or equivalent),Number,5530
-2013,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Tertiary education (Bachelor’s and Master's or equivalent),Number,4469
-2014,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Tertiary education (Bachelor’s and Master's or equivalent),Number,4096
-2015,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Tertiary education (Bachelor’s and Master's or equivalent),Number,3916
-2016,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Tertiary education (Bachelor’s and Master's or equivalent),Number,3020
-2017,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,женский,Tertiary education (Bachelor’s and Master's or equivalent),Number,4023
-2010,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Tertiary education (Bachelor’s and Master's or equivalent),Number,6761
-2013,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Tertiary education (Bachelor’s and Master's or equivalent),Number,4421
-2014,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Tertiary education (Bachelor’s and Master's or equivalent),Number,5118
-2015,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Tertiary education (Bachelor’s and Master's or equivalent),Number,4635
-2016,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Tertiary education (Bachelor’s and Master's or equivalent),Number,4069
-2017,Annual,National,Number of people who receive training in information and communication technologies (ICT),Kyrgyzstan,мужской,Tertiary education (Bachelor’s and Master's or equivalent),Number,4491
+Year,Частота наблюдений,Тип отчетности,Series,Территория,Пол,Уровень образования,Units,Value
+2010,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Среднее и послесреднее нетретичное образование (среднее),NUMBER,1432
+2013,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Среднее и послесреднее нетретичное образование (среднее),NUMBER,1551
+2014,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Среднее и послесреднее нетретичное образование (среднее),NUMBER,1272
+2015,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Среднее и послесреднее нетретичное образование (среднее),NUMBER,1236
+2016,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Среднее и послесреднее нетретичное образование (среднее),NUMBER,891
+2017,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Среднее и послесреднее нетретичное образование (среднее),NUMBER,766
+2010,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Короткий цикл третичного образования,NUMBER,2544
+2013,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Короткий цикл третичного образования,NUMBER,2663
+2014,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Короткий цикл третичного образования,NUMBER,5189
+2015,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Короткий цикл третичного образования,NUMBER,4961
+2016,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Короткий цикл третичного образования,NUMBER,4754
+2017,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Короткий цикл третичного образования,NUMBER,5106
+2010,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Короткий цикл третичного образования,NUMBER,1244
+2013,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Короткий цикл третичного образования,NUMBER,1347
+2014,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Короткий цикл третичного образования,NUMBER,1873
+2015,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Короткий цикл третичного образования,NUMBER,1785
+2016,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Короткий цикл третичного образования,NUMBER,3050
+2017,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Короткий цикл третичного образования,NUMBER,1380
+2010,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Короткий цикл третичного образования,NUMBER,1300
+2013,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Короткий цикл третичного образования,NUMBER,1316
+2014,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Короткий цикл третичного образования,NUMBER,3316
+2015,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Короткий цикл третичного образования,NUMBER,3176
+2016,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Короткий цикл третичного образования,NUMBER,1704
+2017,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Короткий цикл третичного образования,NUMBER,3722
+2010,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,12291
+2013,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,8890
+2014,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,9214
+2015,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,8551
+2016,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,7089
+2017,Годовая,Национальный,_L_KG_040401_1A,Киргизия,,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,8522
+2010,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,5530
+2013,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,4469
+2014,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,4096
+2015,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,3916
+2016,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,3020
+2017,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Женщины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,4023
+2010,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,6761
+2013,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,4421
+2014,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,5118
+2015,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,4635
+2016,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,4069
+2017,Годовая,Национальный,_L_KG_040401_1A,Киргизия,Мужчины,Высшее образование (бакалавриат и магистратура или эквиваленты),NUMBER,4491
