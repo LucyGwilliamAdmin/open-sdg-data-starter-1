@@ -31,6 +31,9 @@ inputs:
     path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
     path_pattern: indicator_settings/*-*.md
+  - class: InputExcelMeta
+    path_pattern: meta/*-*.xlsx
+    metadata_mapping: 'metadata-mapping.csv'
 
 
 sdmx_output:
