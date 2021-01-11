@@ -24,14 +24,14 @@ inputs:
     dsd: 'SDG_DSD.KG.xml'
     #import_codes: true
     drop_singleton_dimensions: false
-#  - class: InputCsvData
-#    path_pattern: data/*-*.csv
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
     path_pattern: indicator_settings/*-*.md
 
 
-#sdmx_output:
- #   dsd: 'SDG_DSD.KG.xml'
+sdmx_output:
+    dsd: 'SDG_DSD.KG.xml'
 
 
 # Translations
