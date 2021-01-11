@@ -1,6 +1,6 @@
 Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit of measure,Value
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",7.76329
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",10.378419000000001
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",10.378419
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",12.464527
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",10.168944
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",10.771106
@@ -11,19 +11,19 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",11.7
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,,"Per 100,000 population",12.8
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",4.195446
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",6.715757000000001
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",6.715757
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",6.454885
-2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",6.0535120000000004
+2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",6.053512
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",6.446899
-2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",10.573649000000001
+2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",10.573649
 2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",7.0
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",9.1
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",9.1
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",9.7
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Female,"Per 100,000 population",10.7
-2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",11.428246000000001
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",14.141010000000001
-2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",18.632417999999998
+2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",11.428246
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",14.14101
+2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",18.632418
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",14.390731
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",15.205416
 2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",14.583421
@@ -34,7 +34,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Kyrgyzstan,Male,"Per 100,000 population",15.1
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",1.899344
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",3.767117
-2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",1.6262159999999999
+2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",1.626216
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",1.142983
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",2.5
 2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",3.965893
@@ -44,7 +44,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",3.4
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,,"Per 100,000 population",5.1
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,Female,"Per 100,000 population",1.448324
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,Female,"Per 100,000 population",3.3536309999999996
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,Female,"Per 100,000 population",3.353631
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,Female,"Per 100,000 population",0.472862
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,Female,"Per 100,000 population",1.394311
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Batken,Female,"Per 100,000 population",2.3
@@ -99,7 +99,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Jalal-Abad,Male,"Per 100,000 population",8.4
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Jalal-Abad,Male,"Per 100,000 population",9.8
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,,"Per 100,000 population",0.46075
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,,"Per 100,000 population",2.7500169999999997
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,,"Per 100,000 population",2.750017
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,,"Per 100,000 population",2.730419
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,,"Per 100,000 population",1.8
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,,"Per 100,000 population",5.378007
@@ -111,7 +111,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,,"Per 100,000 population",8.8
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",2.261932
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",1.349637
-2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",3.5535660000000004
+2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",3.553566
 2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",2.641054
 2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",2.6
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",6.5
@@ -120,10 +120,10 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Female,"Per 100,000 population",5.8
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",0.934881
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",3.251111
-2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",4.1434370000000005
+2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",4.143437
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",3.6
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",7.235366
-2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",3.5792260000000002
+2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",3.579226
 2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",3.1
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",6.1
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Issyk-Kul,Male,"Per 100,000 population",8.6
@@ -132,7 +132,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",0.388928
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",0.774278
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",2.300993
-2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",9.486153999999999
+2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",9.486154
 2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",4.502426
 2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",4.1
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",8.8
@@ -141,26 +141,26 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,,"Per 100,000 population",12.4
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",0.783337
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",0.77688
-2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",3.8463910000000006
+2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",3.846391
 2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",3.046018
-2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",3.7648330000000003
+2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",3.764833
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",4.463024
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",3.675822
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",6.544503
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Female,"Per 100,000 population",10.802091
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",0.770149
-2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",0.7654270000000001
-2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",3.7868169999999997
+2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",0.765427
+2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",3.786817
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",14.975665
-2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",5.9169849999999995
+2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",5.916985
 2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",4.382473
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",12.996202
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",10.708549
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",11.281191
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Naryn,Male,"Per 100,000 population",13.927674
-2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",9.538917999999999
+2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",9.538918
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",11.894501
-2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",10.995814999999999
+2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",10.995815
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",9.071755
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",8.777173
 2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,,"Per 100,000 population",17.148062
@@ -192,7 +192,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,Male,"Per 100,000 population",7.2
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh,Male,"Per 100,000 population",7.6
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",1.347358
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",1.7774459999999999
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",1.777446
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",3.074923
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",2.170073
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",4.281317
@@ -202,18 +202,18 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",5.6
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",5.5
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,,"Per 100,000 population",5.8
-2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",0.8980290000000001
+2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",0.898029
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",0.889229
-2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",1.7600209999999998
+2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",1.760021
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",0.870489
-2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",1.7202529999999998
+2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",1.720253
 2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",6.8
 2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",5.0
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",4.1
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",4.9
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",4.8
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Female,"Per 100,000 population",5.5
-2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Male,"Per 100,000 population",1.7968970000000002
+2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Male,"Per 100,000 population",1.796897
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Male,"Per 100,000 population",2.664653
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Male,"Per 100,000 population",4.385426
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Talas,Male,"Per 100,000 population",3.462334
@@ -236,7 +236,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,,"Per 100,000 population",29.3
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,,"Per 100,000 population",30.7
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Female,"Per 100,000 population",4.466468
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Female,"Per 100,000 population",7.873996000000001
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Female,"Per 100,000 population",7.873996
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Female,"Per 100,000 population",8.300943
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Female,"Per 100,000 population",8.479011
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Female,"Per 100,000 population",10.573085
@@ -258,7 +258,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Male,"Per 100,000 population",36.5
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Chui,Male,"Per 100,000 population",39.1
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),,"Per 100,000 population",5.50316
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),,"Per 100,000 population",8.098507000000001
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),,"Per 100,000 population",8.098507
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),,"Per 100,000 population",9.172137
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),,"Per 100,000 population",10.666592
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),,"Per 100,000 population",12.340325
@@ -280,11 +280,11 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Female,"Per 100,000 population",9.7
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Female,"Per 100,000 population",8.1
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",8.418837
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",11.205796000000001
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",11.205796
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",15.414575
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",17.679536
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",20.610672
-2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",14.349120999999998
+2012,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",14.349121
 2013,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",17.1
 2014,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",10.9
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Bishkek (city),Male,"Per 100,000 population",16.5
@@ -301,7 +301,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2015,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),,"Per 100,000 population",15.0
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),,"Per 100,000 population",19.0
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),,"Per 100,000 population",15.1
-2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Female,"Per 100,000 population",12.747736999999999
+2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Female,"Per 100,000 population",12.747737
 2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Female,"Per 100,000 population",11.939764
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Female,"Per 100,000 population",26.046124
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Female,"Per 100,000 population",17.921147
@@ -313,7 +313,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Female,"Per 100,000 population",18.7
 2017,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Female,"Per 100,000 population",14.2
 2007,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Male,"Per 100,000 population",57.741416
-2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Male,"Per 100,000 population",38.059146000000005
+2008,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Male,"Per 100,000 population",38.059146
 2009,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Male,"Per 100,000 population",74.890684
 2010,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Male,"Per 100,000 population",42.085839
 2011,Annual,National,"Number of new HIV infections per 1,000 uninfected population",Osh (city),Male,"Per 100,000 population",31.001175

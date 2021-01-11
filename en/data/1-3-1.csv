@@ -12,11 +12,11 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of m
 2017,Annual,National,Proportion of population covered by at least one social protection benefit,Kyrgyzstan,Percent,16.8
 2018,Annual,National,Proportion of population covered by at least one social protection benefit,Kyrgyzstan,Percent,16.6
 2007,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,2.109664
-2008,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.9341279999999998
+2008,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.934128
 2009,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.92383
-2010,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.8744439999999998
+2010,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.874444
 2011,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.930035
-2012,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.8456240000000002
+2012,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.845624
 2013,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.795079
 2014,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.762407
 2015,Annual,National,Proportion of population covered by at least one social protection benefit,Batken,Percent,1.659097
@@ -31,19 +31,19 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of m
 2012,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,4.13553
 2013,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,4.101223
 2014,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.951307
-2015,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.8641379999999996
-2016,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.7465230000000003
-2017,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.7927160000000004
-2018,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.8041160000000005
-2007,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.5049270000000001
+2015,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.864138
+2016,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.746523
+2017,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.792716
+2018,Annual,National,Proportion of population covered by at least one social protection benefit,Jalal-Abad,Percent,3.804116
+2007,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.504927
 2008,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.39314
 2009,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.390619
-2010,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.4328299999999998
+2010,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.43283
 2011,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.496891
 2012,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.460728
-2013,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.4106809999999999
-2014,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.3973389999999999
-2015,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.3666129999999999
+2013,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.410681
+2014,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.397339
+2015,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.366613
 2016,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.391437
 2017,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.400236
 2018,Annual,National,Proportion of population covered by at least one social protection benefit,Issyk-Kul,Percent,1.390469
@@ -57,7 +57,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of m
 2014,Annual,National,Proportion of population covered by at least one social protection benefit,Naryn,Percent,1.366601
 2015,Annual,National,Proportion of population covered by at least one social protection benefit,Naryn,Percent,1.342043
 2016,Annual,National,Proportion of population covered by at least one social protection benefit,Naryn,Percent,1.284926
-2017,Annual,National,Proportion of population covered by at least one social protection benefit,Naryn,Percent,1.2882930000000001
+2017,Annual,National,Proportion of population covered by at least one social protection benefit,Naryn,Percent,1.288293
 2018,Annual,National,Proportion of population covered by at least one social protection benefit,Naryn,Percent,1.232146
 2007,Annual,National,Proportion of population covered by at least one social protection benefit,Osh,Percent,4.940158
 2008,Annual,National,Proportion of population covered by at least one social protection benefit,Osh,Percent,4.693844
@@ -73,49 +73,49 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Unit of m
 2018,Annual,National,Proportion of population covered by at least one social protection benefit,Osh,Percent,3.639299
 2007,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.73051
 2008,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.843038
-2009,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.8163279999999999
+2009,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.816328
 2010,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.784158
-2011,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.8255049999999999
+2011,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.825505
 2012,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.806951
 2013,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.784064
-2014,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.7721720000000001
+2014,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.772172
 2015,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.795667
 2016,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.823182
-2017,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.8582280000000001
+2017,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.858228
 2018,Annual,National,Proportion of population covered by at least one social protection benefit,Talas,Percent,0.833649
-2007,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9582990000000002
-2008,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9942509999999998
-2009,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9394369999999999
-2010,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9224849999999998
+2007,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.958299
+2008,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.994251
+2009,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.939437
+2010,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.922485
 2011,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.949861
 2012,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.969888
-2013,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9161540000000001
+2013,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.916154
 2014,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.902321
-2015,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9056959999999998
+2015,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.905696
 2016,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.915556
-2017,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9093200000000001
+2017,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.90932
 2018,Annual,National,Proportion of population covered by at least one social protection benefit,Chui,Percent,1.9317
 2007,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.509824
-2008,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.7903830000000003
-2009,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.7625520000000001
-2010,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.7552740000000002
+2008,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.790383
+2009,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.762552
+2010,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.755274
 2011,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.761641
-2012,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.7988119999999999
-2013,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.7537740000000002
+2012,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.798812
+2013,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.753774
 2014,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.74105
 2015,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.736014
 2016,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.742989
-2017,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.7667380000000001
-2018,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.7700599999999997
-2007,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.49289499999999997
+2017,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.766738
+2018,Annual,National,Proportion of population covered by at least one social protection benefit,Bishkek (city),Percent,1.77006
+2007,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.492895
 2008,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.48253
-2009,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.46367600000000003
+2009,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.463676
 2010,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.473654
 2011,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.470606
-2012,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.46085200000000004
+2012,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.460852
 2013,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.454024
-2014,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.45231099999999996
+2014,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.452311
 2015,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.452797
 2016,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.445767
-2017,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.44659099999999996
+2017,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.446591
 2018,Annual,National,Proportion of population covered by at least one social protection benefit,Osh (city),Percent,0.455388

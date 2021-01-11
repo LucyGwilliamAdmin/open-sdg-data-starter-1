@@ -1,18 +1,18 @@
 Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit of measure,Value
 2007,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",115.478276
-2008,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",106.34008200000001
+2008,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",106.340082
 2009,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",103.932976
 2010,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",101.138775
 2011,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",100.367124
-2012,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",104.34219399999999
-2013,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",102.43271999999999
+2012,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",104.342194
+2013,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",102.43272
 2014,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",101.065558
 2015,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",98.249685
 2016,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",93.423511
 2017,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",90.6
-2018,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",83.01288199999999
+2018,Annual,National,Tuberculosis incidence,Kyrgyzstan,,"Per 100,000 population",83.012882
 2007,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",91.061332
-2008,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",85.80910300000001
+2008,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",85.809103
 2009,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",85.417204
 2010,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",84.9
 2011,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",81.94725
@@ -24,17 +24,17 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",77.7
 2018,Annual,National,Tuberculosis incidence,Kyrgyzstan,Female,"Per 100,000 population",69.02199
 2007,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",140.46199
-2008,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",127.33842299999999
+2008,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",127.338423
 2009,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",122.936319
 2010,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",117.8
-2011,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",119.25600700000001
-2012,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",123.92298400000001
+2011,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",119.256007
+2012,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",123.922984
 2013,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",117.4
 2014,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",113.7
 2015,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",113.1
 2016,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",105.3
 2017,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",103.8
-2018,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",97.23429200000001
+2018,Annual,National,Tuberculosis incidence,Kyrgyzstan,Male,"Per 100,000 population",97.234292
 2007,Annual,National,Tuberculosis incidence,Batken,,"Per 100,000 population",80.315042
 2008,Annual,National,Tuberculosis incidence,Batken,,"Per 100,000 population",81.679899
 2009,Annual,National,Tuberculosis incidence,Batken,,"Per 100,000 population",82.704723
@@ -48,7 +48,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,Tuberculosis incidence,Batken,,"Per 100,000 population",70.8
 2018,Annual,National,Tuberculosis incidence,Batken,,"Per 100,000 population",64.887679
 2007,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",70.837249
-2008,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",67.32306700000001
+2008,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",67.323067
 2009,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",81.332337
 2010,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",62.3
 2011,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",63.9
@@ -59,8 +59,8 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",66.6
 2017,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",65.7
 2018,Annual,National,Tuberculosis incidence,Batken,Female,"Per 100,000 population",60.420827
-2007,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",89.74509599999999
-2008,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",95.98673000000001
+2007,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",89.745096
+2008,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",95.98673
 2009,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",84.03016
 2010,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",100.8
 2011,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",93.4
@@ -70,10 +70,10 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2015,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",82.0
 2016,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",67.5
 2017,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",75.7
-2018,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",69.19237700000001
+2018,Annual,National,Tuberculosis incidence,Batken,Male,"Per 100,000 population",69.192377
 2007,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",91.916186
-2008,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",88.33931199999999
-2009,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",87.78748900000001
+2008,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",88.339312
+2009,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",87.787489
 2010,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",85.931674
 2011,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",82.549369
 2012,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",86.910818
@@ -83,9 +83,9 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",84.915163
 2017,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",80.2
 2018,Annual,National,Tuberculosis incidence,Jalal-Abad,,"Per 100,000 population",73.346827
-2007,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",75.21800999999999
+2007,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",75.21801
 2008,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",71.207543
-2009,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",71.79005699999999
+2009,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",71.790057
 2010,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",74.3
 2011,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",72.983333
 2012,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",75.789204
@@ -96,7 +96,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",72.8
 2018,Annual,National,Tuberculosis incidence,Jalal-Abad,Female,"Per 100,000 population",64.089585
 2007,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",108.757553
-2008,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",105.62176399999998
+2008,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",105.621764
 2009,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",103.75711
 2010,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",97.6
 2011,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",92.090531
@@ -107,54 +107,54 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",90.3
 2017,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",87.5
 2018,Annual,National,Tuberculosis incidence,Jalal-Abad,Male,"Per 100,000 population",82.492292
-2007,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",74.81839699999999
+2007,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",74.818397
 2008,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",65.710142
 2009,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",68.260473
 2010,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",67.280621
 2011,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",68.345501
 2012,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",70.114091
-2013,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",69.96319799999999
+2013,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",69.963198
 2014,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",63.962325
 2015,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",58.459621
-2016,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",60.411218999999996
+2016,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",60.411219
 2017,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",48.6
 2018,Annual,National,Tuberculosis incidence,Issyk-Kul,,"Per 100,000 population",48.933537
 2007,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",57.509562
 2008,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",56.84919
-2009,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",57.584509999999995
+2009,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",57.58451
 2010,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",55.0
-2011,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",53.747679000000005
-2012,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",57.222843000000005
+2011,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",53.747679
+2012,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",57.222843
 2013,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",57.9
 2014,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",51.3
 2015,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",48.5
 2016,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",53.8
 2017,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",34.8
-2018,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",34.802403999999996
+2018,Annual,National,Tuberculosis incidence,Issyk-Kul,Female,"Per 100,000 population",34.802404
 2007,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",92.654432
 2008,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",74.822647
 2009,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",79.185677
 2010,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",79.8
 2011,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",83.206714
-2012,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",83.21700799999999
+2012,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",83.217008
 2013,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",82.2
 2014,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",76.8
 2015,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",68.5
 2016,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",67.1
 2017,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",62.4
-2018,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",63.187107999999995
+2018,Annual,National,Tuberculosis incidence,Issyk-Kul,Male,"Per 100,000 population",63.187108
 2007,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",89.134835
 2008,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",101.241128
 2009,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",97.171948
 2010,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",103.928178
-2011,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",95.24098599999999
+2011,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",95.240986
 2012,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",105.056599
 2013,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",90.465191
 2014,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",98.190078
 2015,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",84.752208
 2016,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",77.322632
 2017,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",59.5
-2018,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",67.95977099999999
+2018,Annual,National,Tuberculosis incidence,Naryn,,"Per 100,000 population",67.959771
 2007,Annual,National,Tuberculosis incidence,Naryn,Female,"Per 100,000 population",73.136894
 2008,Annual,National,Tuberculosis incidence,Naryn,Female,"Per 100,000 population",93.896008
 2009,Annual,National,Tuberculosis incidence,Naryn,Female,"Per 100,000 population",87.733728
@@ -171,7 +171,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2008,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",108.341574
 2009,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",106.394379
 2010,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",121.9
-2011,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",104.08086899999999
+2011,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",104.080869
 2012,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",125.735925
 2013,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",104.4
 2014,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",109.0
@@ -180,14 +180,14 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2017,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",69.6
 2018,Annual,National,Tuberculosis incidence,Naryn,Male,"Per 100,000 population",88.116038
 2007,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",102.866708
-2008,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",97.93956999999999
-2009,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",99.50311500000001
+2008,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",97.93957
+2009,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",99.503115
 2010,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",90.272855
 2011,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",86.981785
 2012,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",89.531841
-2013,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",97.42358399999999
+2013,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",97.423584
 2014,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",90.681619
-2015,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",91.23786899999999
+2015,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",91.237869
 2016,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",83.857442
 2017,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",84.4
 2018,Annual,National,Tuberculosis incidence,Osh,,"Per 100,000 population",75.003106
@@ -203,9 +203,9 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,Tuberculosis incidence,Osh,Female,"Per 100,000 population",78.4
 2017,Annual,National,Tuberculosis incidence,Osh,Female,"Per 100,000 population",73.3
 2018,Annual,National,Tuberculosis incidence,Osh,Female,"Per 100,000 population",68.791282
-2007,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",120.17593500000001
-2008,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",115.96536599999999
-2009,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",114.26834299999999
+2007,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",120.175935
+2008,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",115.965366
+2009,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",114.268343
 2010,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",97.1
 2011,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",95.537626
 2012,Annual,National,Tuberculosis incidence,Osh,Male,"Per 100,000 population",99.072585
@@ -218,11 +218,11 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2007,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",109.772016
 2008,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",98.863075
 2009,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",98.836801
-2010,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",105.89956000000001
+2010,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",105.89956
 2011,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",107.889182
 2012,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",96.876369
 2013,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",106.455247
-2014,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",101.92599399999999
+2014,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",101.925994
 2015,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",95.886509
 2016,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",83.723318
 2017,Annual,National,Tuberculosis incidence,Talas,,"Per 100,000 population",73.9
@@ -231,7 +231,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2008,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",90.931636
 2009,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",76.560919
 2010,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",87.0
-2011,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",90.31325799999999
+2011,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",90.313258
 2012,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",85.593946
 2013,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",89.3
 2014,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",89.6
@@ -241,7 +241,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2018,Annual,National,Tuberculosis incidence,Talas,Female,"Per 100,000 population",46.443942
 2007,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",132.527127
 2008,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",106.730401
-2009,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",121.03776699999999
+2009,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",121.037767
 2010,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",124.6
 2011,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",125.307942
 2012,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",108.024821
@@ -250,13 +250,13 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2015,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",110.5
 2016,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",100.1
 2017,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",81.6
-2018,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",72.71735699999999
+2018,Annual,National,Tuberculosis incidence,Talas,Male,"Per 100,000 population",72.717357
 2007,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",158.506191
 2008,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",166.836568
-2009,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",155.18168899999998
+2009,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",155.181689
 2010,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",154.517607
-2011,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",158.53919199999999
-2012,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",156.78039099999998
+2011,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",158.539192
+2012,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",156.780391
 2013,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",144.320612
 2014,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",129.231041
 2015,Annual,National,Tuberculosis incidence,Chui,,"Per 100,000 population",141.654663
@@ -267,8 +267,8 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2008,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",125.534299
 2009,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",117.922225
 2010,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",125.0
-2011,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",112.21888200000001
-2012,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",111.42140500000001
+2011,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",112.218882
+2012,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",111.421405
 2013,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",108.3
 2014,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",108.3
 2015,Annual,National,Tuberculosis incidence,Chui,Female,"Per 100,000 population",118.6
@@ -290,7 +290,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2007,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",174.387607
 2008,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",123.075571
 2009,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",114.473037
-2010,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",113.11275800000001
+2010,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",113.112758
 2011,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",114.984154
 2012,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",123.691851
 2013,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",126.393198
@@ -299,7 +299,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",114.6052
 2017,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",113.1
 2018,Annual,National,Tuberculosis incidence,Bishkek (city),,"Per 100,000 population",102.592405
-2007,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",121.38989099999999
+2007,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",121.389891
 2008,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",101.464217
 2009,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",90.39282
 2010,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",91.9
@@ -311,11 +311,11 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2016,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",92.2
 2017,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",91.3
 2018,Annual,National,Tuberculosis incidence,Bishkek (city),Female,"Per 100,000 population",75.045722
-2007,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",232.39882599999999
-2008,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",146.69989099999998
+2007,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",232.398826
+2008,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",146.699891
 2009,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",142.327909
 2010,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",137.6
-2011,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",143.52973899999998
+2011,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",143.529739
 2012,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",153.949048
 2013,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",145.0
 2014,Annual,National,Tuberculosis incidence,Bishkek (city),Male,"Per 100,000 population",162.1
@@ -328,18 +328,18 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2009,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",99.784188
 2010,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",85.444525
 2011,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",88.724902
-2012,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",98.39240799999999
+2012,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",98.392408
 2013,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",83.705251
 2014,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",103.082002
 2015,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",89.736358
-2016,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",92.52618000000001
+2016,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",92.52618
 2017,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",89.7
 2018,Annual,National,Tuberculosis incidence,Osh (city),,"Per 100,000 population",84.314452
 2007,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",83.113365
-2008,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",63.749058999999995
+2008,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",63.749059
 2009,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",82.603422
 2010,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",68.0
-2011,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",75.03507900000001
+2011,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",75.035079
 2012,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",78.139535
 2013,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",64.4
 2014,Annual,National,Tuberculosis incidence,Osh (city),Female,"Per 100,000 population",92.2
@@ -352,7 +352,7 @@ Year,Frequency of observation,Reporting type,SDG Series,Reference area,Sex,Unit 
 2009,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",118.375597
 2010,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",104.4
 2011,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",103.609189
-2012,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",120.37972099999999
+2012,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",120.379721
 2013,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",104.5
 2014,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",114.8
 2015,Annual,National,Tuberculosis incidence,Osh (city),Male,"Per 100,000 population",101.8
