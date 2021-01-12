@@ -86,7 +86,7 @@ reporting_status_extra_fields: []
 
 
 indicator_downloads:
-  - button_label: Download Source SDMX
+  - button_label: custom.download_source_sdmx
     source_pattern: data/*.xml
     indicator_id_pattern: (.*)
     output_folder: data-sdmx
