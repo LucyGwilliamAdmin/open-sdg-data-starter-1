@@ -13,6 +13,9 @@ def alter_data(df):
 
 def alter_meta(meta):
     meta['goal_meta_link_text'] = 'custom.meta_link_text'
+    if 'tags' in meta:
+        if 'custom.national' in meta['tags']:
+            meta['indicator_type'] = 'custom.national'
     return meta
 
 # Validate the indicators.
