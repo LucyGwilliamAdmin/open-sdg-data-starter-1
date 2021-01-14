@@ -22,7 +22,8 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
     dsd: 'SDG_DSD.KG.xml'
-    import_codes: true
+    import_translation_keys: true
+    #import_codes: true #when testing SDMX output (instead of above)
     drop_singleton_dimensions: false
     dimension_map:
       UNIT_MEASURE: 'Units'
