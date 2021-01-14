@@ -36,8 +36,8 @@ inputs:
     metadata_mapping: 'metadata-mapping.csv'
 
 
-sdmx_output:
-    dsd: 'SDG_DSD.KG.xml'
+#sdmx_output:
+#    dsd: 'SDG_DSD.KG.xml'
 
 
 # Translations
