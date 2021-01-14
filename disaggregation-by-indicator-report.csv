@@ -1,145 +1,145 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#1-1-1-1a,"REF_AREA, URBANISATION, COMMENT_TS, OBS_STATUS, COMMENT_OBS",5
+#1-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#1-1-1-1a,"REF_AREA, URBANISATION, OBS_STATUS, COMMENT_OBS, COMMENT_TS",5
 #1-2-1,"Территория, Пол, Возраст",3
-#1-2-1-1a,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, ACTIVITY, URBANISATION",7
+#1-2-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.ACTIVITY, concept.SEX, concept.URBANISATION, concept.AGE",7
 #1-2-2,"Территория, Пол, Возраст, Местность",4
-#1-3-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#1-3-1-1c,"FREQ, REPORTING_TYPE, REF_AREA",3
-#1-3-1-1e,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#1-3-1-1f,"FREQ, REPORTING_TYPE, REF_AREA",3
-#1-3-1-1g,"FREQ, REPORTING_TYPE, REF_AREA",3
+#1-3-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#1-3-1-1c,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#1-3-1-1e,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#1-3-1-1f,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#1-3-1-1g,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #1-4-1,"Территория, Местность, Квинтиль индекса благосостояния, baz, Образование главы домохозяйства",5
 #1-5-1,"Территория, Пол",2
-#1-5-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#1-a-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#1-b-1-1,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN",4
+#1-5-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#1-a-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#1-b-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN",4
 #10-1-1,Показатель,1
-#10-2-1,"Территория, Пол, Возраст, Показатель, Местность",5
-#10-3-1,"Территория, Местность, Уровень образования, Квинтиль индекса благосостояния, Возраст (лет), Функциональные трудности (возраст: 18-49лет)",6
-#10-3-1-1a,"FREQ, REPORTING_TYPE, REF_AREA",3
-#10-4-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#10-5-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#10-2-1,"Территория, Пол, Возраст, Местность, Показатель",5
+#10-3-1,"Территория, Местность, Возраст (лет), Квинтиль индекса благосостояния, Уровень образования, Функциональные трудности (возраст: 18-49лет)",6
+#10-3-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#10-4-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#10-5-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #10-b-1,"Деятельность, Донор",2
 #11-2-1,"Территория, Пол, Возраст, Местность, Уровень образования",5
 #11-5-1,"Территория, Пол",2
-#11-5-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#11-6-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#11-5-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#11-6-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #11-6-1-1a,Показатель,1
-#11-7-1-1a,"FREQ, REPORTING_TYPE, REF_AREA",3
-#12-4-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#13-1-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#15-1-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#11-7-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#12-4-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#13-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#15-1-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #15-1-2,Показатель,1
-#15-1-2-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#15-1-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #15-2-1,"Показатель, Единица измерения",2
 #15-3-1-1,Показатель,1
-#15-4-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#15-4-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #15-5-1-1,По видам,1
 #15-7-1-1,По классам,1
 #15-7-1-2,Показатель,1
-#15-b-1-1,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN",4
+#15-b-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN",4
 #15-c-1-1,По классам,1
 #16-1-1,Территория,1
 #16-1-1-1,Территория,1
 #16-1-3-1,"Территория, Пол, Возраст, Местность, Образование",5
 #16-1-4,"Территория, Пол, Возраст, Местность, Уровень образования",5
-#16-1-4-1a,"FREQ, REPORTING_TYPE, REF_AREA",3
-#16-2-1,"Территория, Пол, Местность, Функциональные трудности у матери (возраст: 18-49 лет), Квинтиль индекса благосостояния, Возраст (лет), Функциональные трудности у ребенка (возраст: 2-14 лет)",7
-#16-2-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#16-3-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, URBANISATION",6
-#16-5-1-1a,"FREQ, REPORTING_TYPE, REF_AREA",3
-#16-5-1-1b,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
+#16-1-4-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#16-2-1,"Территория, Пол, Местность, Возраст (лет), Функциональные трудности у ребенка (возраст: 2-14 лет), Функциональные трудности у матери (возраст: 18-49 лет), Квинтиль индекса благосостояния",7
+#16-2-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#16-3-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.URBANISATION, concept.AGE",6
+#16-5-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#16-5-1-1b,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
 #16-6-1,Деятельность,1
-#16-6-2-1a,"FREQ, REPORTING_TYPE, REF_AREA",3
+#16-6-2-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #16-7-1,"Пол, Показатель",2
-#16-9-1,"Территория, Пол, Местность, Возраст (в месяцах), Образование матери, Функциональные трудности у ребенка (возраст: 2-4 лет), Функциональные трудности у матери (возраст: 18-49 лет), Квинтиль индекса благосостояния",8
-#16-b-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, URBANISATION, DISABILITY_STATUS",9
-#16-b-1-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, URBANISATION, DISABILITY_STATUS",9
+#16-9-1,"Территория, Пол, Местность, Функциональные трудности у матери (возраст: 18-49 лет), Квинтиль индекса благосостояния, Возраст (в месяцах), Образование матери, Функциональные трудности у ребенка (возраст: 2-4 лет)",8
+#16-b-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.URBANISATION, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV, concept.AGE, concept.DISABILITY_STATUS",9
+#16-b-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.URBANISATION, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV, concept.AGE, concept.DISABILITY_STATUS",9
 #17-1-1,Показатели,1
-#17-1-2,"FREQ, REPORTING_TYPE, REF_AREA",3
+#17-1-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #17-13-1-1,Показатель,1
-#17-3-1-1a,"FREQ, REPORTING_TYPE, REF_AREA, ACTIVITY",4
-#17-4-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#17-6-2,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN",4
+#17-3-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.ACTIVITY",4
+#17-4-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#17-6-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN",4
 #17-8-1,"Территория, Пол, Возраст, Местность, Уровень образования",5
-#2-1-1,"FREQ, REPORTING_TYPE, REF_AREA, URBANISATION",4
-#2-1-1-1e,"FREQ, REPORTING_TYPE, REF_AREA, PRODUCT",4
-#2-2-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, URBANISATION",8
-#2-2-2,"FREQ, REPORTING_TYPE, REF_AREA, AGE",4
-#2-a-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#2-c-1-1b,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-1-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#3-1-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-2-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE",4
-#3-2-2,"FREQ, REPORTING_TYPE, REF_AREA, AGE",4
+#2-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.URBANISATION",4
+#2-1-1-1e,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.PRODUCT",4
+#2-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.URBANISATION, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV, concept.AGE",8
+#2-2-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.AGE",4
+#2-a-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#2-c-1-1b,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#3-1-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.AGE",4
+#3-2-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.AGE",4
 #3-3-1,"Территория, Пол, Возраст",3
-#3-3-2,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#3-3-3,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-3-4,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#3-4-1,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN",4
-#3-4-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-5-1-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#3-5-2-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#3-6-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-7-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, URBANISATION, DISABILITY_STATUS",9
-#3-7-2,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX",5
-#3-9-1-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#3-9-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-9-3,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-b-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#3-c-1,"FREQ, REPORTING_TYPE, REF_AREA, OCCUPATION",4
-#4-1-1,"Территория, Возраст, Показатель, Местность, Образование матери, Квинтиль индекса благосостояния, Функциональные трудности у ребенка, Функциональные трудности у матери",8
-#4-1-1-1a,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN, AGE, SEX",6
-#4-2-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",7
-#4-2-2,"FREQ, REPORTING_TYPE, REF_AREA, AGE",4
-#4-2-2-1a,"FREQ, REPORTING_TYPE, REF_AREA, AGE, URBANISATION",5
-#4-3-1-1a,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, EDUCATION_LEV",6
-#4-4-1,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN, AGE, SEX",6
-#4-4-1-1a,"FREQ, REPORTING_TYPE, REF_AREA, SEX, EDUCATION_LEV",5
-#4-b-1-1,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN",4
+#3-3-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#3-3-3,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-3-4,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#3-4-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN",4
+#3-4-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-5-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#3-5-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#3-6-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-7-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.URBANISATION, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV, concept.AGE, concept.DISABILITY_STATUS",9
+#3-7-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.AGE",5
+#3-9-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#3-9-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-9-3,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-b-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#3-c-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.OCCUPATION",4
+#4-1-1,"Территория, Возраст, Местность, Квинтиль индекса благосостояния, Образование матери, Показатель, Функциональные трудности у ребенка, Функциональные трудности у матери",8
+#4-1-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN, concept.SEX, concept.AGE",6
+#4-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV, concept.AGE",7
+#4-2-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.AGE",4
+#4-2-2-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.URBANISATION, concept.AGE",5
+#4-3-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.EDUCATION_LEV, concept.AGE",6
+#4-4-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN, concept.SEX, concept.AGE",6
+#4-4-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.EDUCATION_LEV",5
+#4-b-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN",4
 #4-c-1-1,Показатель,1
-#5-2-1-1a,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#5-2-1-1b,"Пол, Уровень образования, Возраст (лет), Род занятий",4
-#5-3-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, DISABILITY_STATUS",8
+#5-2-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#5-2-1-1b,"Пол, Возраст (лет), Уровень образования, Род занятий",4
+#5-3-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV, concept.AGE, concept.DISABILITY_STATUS",8
 #5-4-1,"Пол, Деятельность",2
-#5-5-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#5-5-2,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#5-6-1-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, URBANISATION",6
+#5-5-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#5-5-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#5-6-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.URBANISATION, concept.AGE",6
 #5-b-1,"Территория, Пол, Возраст, Местность, Образование",5
 #5-b-1-1,Показатель,1
-#6-1-1,"FREQ, REPORTING_TYPE, REF_AREA, URBANISATION",4
-#6-1-1-2b,"FREQ, REPORTING_TYPE, REF_AREA",3
-#6-2-1,"FREQ, REPORTING_TYPE, REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, URBANISATION",6
+#6-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.URBANISATION",4
+#6-1-1-2b,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#6-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.URBANISATION, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV",6
 #6-2-1-1,Территория,1
-#6-3-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#6-3-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #6-4-1-2,"Территория, Показатель",2
-#6-4-2-1,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN",4
+#6-4-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN",4
 #6-a-1-1,Показатель,1
 #7-1-1,"Территория, Пол, Возраст, Местность, Уровень образования",5
-#7-1-2,"FREQ, REPORTING_TYPE, REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, URBANISATION",6
+#7-1-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.URBANISATION, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV",6
 #7-2-1-1,Показатель,1
-#7-3-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#7-3-1-2,"FREQ, REPORTING_TYPE, REF_AREA, ACTIVITY",4
-#7-b-1-1a,"FREQ, REPORTING_TYPE, REF_AREA",3
-#8-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#8-10-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE",4
+#7-3-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#7-3-1-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.ACTIVITY",4
+#7-b-1-1a,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#8-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#8-10-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.AGE",4
 #8-10-2,"Территория, Пол, Возраст, Местность, Уровень образования",5
-#8-10-2-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#8-2-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#8-3-1-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX, ACTIVITY, URBANISATION",7
-#8-3-1-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#8-5-1-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX, ACTIVITY",5
-#8-5-2,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX",5
-#8-6-1,"FREQ, REPORTING_TYPE, REF_AREA, AGE, SEX",5
-#8-7-1,"Территория, Пол, Местность, Образование матери, Квинтиль индекса благосостояния, Возраст (лет), Посещаемость школы, Функциональные трудности у ребенка",8
-#8-8-1,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#8-9-1-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#8-10-2-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#8-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#8-3-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.ACTIVITY, concept.SEX, concept.URBANISATION, concept.AGE",7
+#8-3-1-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#8-5-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.ACTIVITY, concept.SEX",5
+#8-5-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.AGE",5
+#8-6-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX, concept.AGE",5
+#8-7-1,"Территория, Пол, Местность, Возраст (лет), Квинтиль индекса благосостояния, Образование матери, Посещаемость школы, Функциональные трудности у ребенка",8
+#8-8-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#8-9-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
 #9-1-2,Показатель,1
-#9-2-1,"FREQ, REPORTING_TYPE, REF_AREA, COMMENT_TS",4
-#9-2-2,"FREQ, REPORTING_TYPE, REF_AREA, SEX",4
-#9-3-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#9-4-1-1,"FREQ, REPORTING_TYPE, REF_AREA, COMPOSITE_BREAKDOWN",4
-#9-5-1,"FREQ, REPORTING_TYPE, REF_AREA",3
-#9-5-2,"FREQ, REPORTING_TYPE, REF_AREA",3
-#9-c-1,"FREQ, REPORTING_TYPE, REF_AREA",3
+#9-2-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#9-2-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.SEX",4
+#9-3-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#9-4-1-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA, concept.COMPOSITE_BREAKDOWN",4
+#9-5-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#9-5-2,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3
+#9-c-1,"concept.FREQ, concept.REPORTING_TYPE, concept.REF_AREA",3

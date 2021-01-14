@@ -1,20 +1,20 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2012,Annual,National,IT_MOB_2GNTWK,Kyrgyzstan,PT,97.5
-2013,Annual,National,IT_MOB_2GNTWK,Kyrgyzstan,PT,97.6
-2014,Annual,National,IT_MOB_2GNTWK,Kyrgyzstan,PT,97.7
-2015,Annual,National,IT_MOB_2GNTWK,Kyrgyzstan,PT,97.8
-2016,Annual,National,IT_MOB_2GNTWK,Kyrgyzstan,PT,99.0
-2017,Annual,National,IT_MOB_2GNTWK,Kyrgyzstan,PT,99.1
-2018,Annual,National,IT_MOB_2GNTWK,Kyrgyzstan,PT,99.2
-2012,Annual,National,IT_MOB_3GNTWK,Kyrgyzstan,PT,46.3
-2013,Annual,National,IT_MOB_3GNTWK,Kyrgyzstan,PT,51.0
-2014,Annual,National,IT_MOB_3GNTWK,Kyrgyzstan,PT,57.0
-2015,Annual,National,IT_MOB_3GNTWK,Kyrgyzstan,PT,59.0
-2016,Annual,National,IT_MOB_3GNTWK,Kyrgyzstan,PT,60.0
-2017,Annual,National,IT_MOB_3GNTWK,Kyrgyzstan,PT,75.0
-2018,Annual,National,IT_MOB_3GNTWK,Kyrgyzstan,PT,88.0
-2014,Annual,National,IT_MOB_4GNTWK,Kyrgyzstan,PT,0.5
-2015,Annual,National,IT_MOB_4GNTWK,Kyrgyzstan,PT,1.6
-2016,Annual,National,IT_MOB_4GNTWK,Kyrgyzstan,PT,40.0
-2017,Annual,National,IT_MOB_4GNTWK,Kyrgyzstan,PT,50.0
-2018,Annual,National,IT_MOB_4GNTWK,Kyrgyzstan,PT,70.0
+2012,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.5
+2013,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.6
+2014,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.7
+2015,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,97.8
+2016,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,99.0
+2017,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,99.1
+2018,Annual,National,Proportion of population covered by at least a 2G mobile network,Kyrgyzstan,Percent,99.2
+2012,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,46.3
+2013,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,51.0
+2014,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,57.0
+2015,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,59.0
+2016,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,60.0
+2017,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,75.0
+2018,Annual,National,Proportion of population covered by at least a 3G mobile network,Kyrgyzstan,Percent,88.0
+2014,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,0.5
+2015,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,1.6
+2016,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,40.0
+2017,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,50.0
+2018,Annual,National,Proportion of population covered by at least a 4G mobile network,Kyrgyzstan,Percent,70.0

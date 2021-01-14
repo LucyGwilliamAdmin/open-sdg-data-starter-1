@@ -1,4 +1,4 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Units,Value
-2018,Annual,National,VC_PRR_PHYV,Kyrgyzstan,Female,15 to 49 years old,,PT,29.5
-2018,Annual,National,VC_PRR_PHYV,Kyrgyzstan,Female,15 to 49 years old,Urban,PT,38.4
-2018,Annual,National,VC_PRR_PHYV,Kyrgyzstan,Female,15 to 49 years old,Rural,PT,22.4
+2018,Annual,National,"Police reporting rate for physical assault, by sex (%)",Kyrgyzstan,Female,15 to 49 years old,,Percent,29.5
+2018,Annual,National,"Police reporting rate for physical assault, by sex (%)",Kyrgyzstan,Female,15 to 49 years old,Urban,Percent,38.4
+2018,Annual,National,"Police reporting rate for physical assault, by sex (%)",Kyrgyzstan,Female,15 to 49 years old,Rural,Percent,22.4

@@ -1,51 +1,51 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2015,Annual,National,_L_KG_160501_1A,Kyrgyzstan,IX,10.810627
-2016,Annual,National,_L_KG_160501_1A,Kyrgyzstan,IX,16.102629
-2017,Annual,National,_L_KG_160501_1A,Kyrgyzstan,IX,20.2
-2018,Annual,National,_L_KG_160501_1A,Kyrgyzstan,IX,12.4
-2019,Annual,National,_L_KG_160501_1A,Kyrgyzstan,IX,14.10991
-2015,Annual,National,_L_KG_160501_1A,Batken,IX,34.216964
-2016,Annual,National,_L_KG_160501_1A,Batken,IX,51.97171
-2017,Annual,National,_L_KG_160501_1A,Batken,IX,50.7
-2018,Annual,National,_L_KG_160501_1A,Batken,IX,44.9
-2019,Annual,National,_L_KG_160501_1A,Batken,IX,37.375177
-2015,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,30.828434
-2016,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,35.669135
-2017,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,31.6
-2018,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,28.9
-2019,Annual,National,_L_KG_160501_1A,Jalal-Abad,IX,40.75486
-2015,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,-8.771443
-2016,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,19.590714
-2017,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,25.6
-2018,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,16.6
-2019,Annual,National,_L_KG_160501_1A,Issyk-Kul,IX,45.71014
-2015,Annual,National,_L_KG_160501_1A,Naryn,IX,-5.438854
-2016,Annual,National,_L_KG_160501_1A,Naryn,IX,-3.700551
-2017,Annual,National,_L_KG_160501_1A,Naryn,IX,16.3
-2018,Annual,National,_L_KG_160501_1A,Naryn,IX,5.4
-2019,Annual,National,_L_KG_160501_1A,Naryn,IX,24.570798
-2015,Annual,National,_L_KG_160501_1A,Osh,IX,18.022223
-2016,Annual,National,_L_KG_160501_1A,Osh,IX,0.07913
-2017,Annual,National,_L_KG_160501_1A,Osh,IX,16.9
-2018,Annual,National,_L_KG_160501_1A,Osh,IX,5.4
-2019,Annual,National,_L_KG_160501_1A,Osh,IX,12.597911
-2015,Annual,National,_L_KG_160501_1A,Talas,IX,16.930727
-2016,Annual,National,_L_KG_160501_1A,Talas,IX,15.126177
-2017,Annual,National,_L_KG_160501_1A,Talas,IX,17.2
-2018,Annual,National,_L_KG_160501_1A,Talas,IX,24.8
-2019,Annual,National,_L_KG_160501_1A,Talas,IX,29.450445
-2015,Annual,National,_L_KG_160501_1A,Chui,IX,25.703179
-2016,Annual,National,_L_KG_160501_1A,Chui,IX,26.618611
-2017,Annual,National,_L_KG_160501_1A,Chui,IX,28.8
-2018,Annual,National,_L_KG_160501_1A,Chui,IX,16.2
-2019,Annual,National,_L_KG_160501_1A,Chui,IX,17.355551
-2015,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-9.015999
-2016,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-11.403693
-2017,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-3.4
-2018,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-12.8
-2019,Annual,National,_L_KG_160501_1A,Bishkek (city),IX,-17.985899
-2015,Annual,National,_L_KG_160501_1A,Osh (city),IX,10.609517
-2016,Annual,National,_L_KG_160501_1A,Osh (city),IX,25.440447
-2017,Annual,National,_L_KG_160501_1A,Osh (city),IX,37.2
-2018,Annual,National,_L_KG_160501_1A,Osh (city),IX,39.6
-2019,Annual,National,_L_KG_160501_1A,Osh (city),IX,22.751648
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Kyrgyzstan,Index,10.810627
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Kyrgyzstan,Index,16.102629
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Kyrgyzstan,Index,20.2
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Kyrgyzstan,Index,12.4
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Kyrgyzstan,Index,14.10991
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Batken,Index,34.216964
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Batken,Index,51.97171
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Batken,Index,50.7
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Batken,Index,44.9
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Batken,Index,37.375177
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Jalal-Abad,Index,30.828434
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Jalal-Abad,Index,35.669135
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Jalal-Abad,Index,31.6
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Jalal-Abad,Index,28.9
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Jalal-Abad,Index,40.75486
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Issyk-Kul,Index,-8.771443
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Issyk-Kul,Index,19.590714
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Issyk-Kul,Index,25.6
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Issyk-Kul,Index,16.6
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Issyk-Kul,Index,45.71014
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Naryn,Index,-5.438854
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Naryn,Index,-3.700551
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Naryn,Index,16.3
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Naryn,Index,5.4
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Naryn,Index,24.570798
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh,Index,18.022223
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh,Index,0.07913
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh,Index,16.9
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh,Index,5.4
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh,Index,12.597911
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Talas,Index,16.930727
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Talas,Index,15.126177
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Talas,Index,17.2
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Talas,Index,24.8
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Talas,Index,29.450445
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Chui,Index,25.703179
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Chui,Index,26.618611
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Chui,Index,28.8
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Chui,Index,16.2
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Chui,Index,17.355551
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Bishkek (city),Index,-9.015999
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Bishkek (city),Index,-11.403693
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Bishkek (city),Index,-3.4
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Bishkek (city),Index,-12.8
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Bishkek (city),Index,-17.985899
+2015,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh (city),Index,10.609517
+2016,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh (city),Index,25.440447
+2017,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh (city),Index,37.2
+2018,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh (city),Index,39.6
+2019,Annual,National,"Index ""Personal perception of corruption level in state bodies of executive power and local self-government bodies""",Osh (city),Index,22.751648

@@ -1,41 +1,41 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Age,Units,Value
-2014,Annual,National,SH_STA_WAST,Kyrgyzstan,under 5 years old,PT,2.8
-2018,Annual,National,SH_STA_WAST,Kyrgyzstan,under 5 years old,PT,2.0
-2014,Annual,National,SH_STA_WAST,Batken,under 5 years old,PT,2.2
-2018,Annual,National,SH_STA_WAST,Batken,under 5 years old,PT,2.3
-2014,Annual,National,SH_STA_WAST,Jalal-Abad,under 5 years old,PT,7.9
-2018,Annual,National,SH_STA_WAST,Jalal-Abad,under 5 years old,PT,3.8
-2014,Annual,National,SH_STA_WAST,Issyk-Kul,under 5 years old,PT,1.7
-2018,Annual,National,SH_STA_WAST,Issyk-Kul,under 5 years old,PT,2.1
-2014,Annual,National,SH_STA_WAST,Naryn,under 5 years old,PT,0.5
-2018,Annual,National,SH_STA_WAST,Naryn,under 5 years old,PT,1.1
-2014,Annual,National,SH_STA_WAST,Osh,under 5 years old,PT,1.1
-2018,Annual,National,SH_STA_WAST,Osh,under 5 years old,PT,1.6
-2014,Annual,National,SH_STA_WAST,Talas,under 5 years old,PT,1.0
-2018,Annual,National,SH_STA_WAST,Talas,under 5 years old,PT,2.9
-2014,Annual,National,SH_STA_WAST,Chui,under 5 years old,PT,1.5
-2018,Annual,National,SH_STA_WAST,Chui,under 5 years old,PT,1.5
-2014,Annual,National,SH_STA_WAST,Bishkek (city),under 5 years old,PT,2.1
-2018,Annual,National,SH_STA_WAST,Bishkek (city),under 5 years old,PT,0.6
-2014,Annual,National,SH_STA_WAST,Osh (city),under 5 years old,PT,2.4
-2018,Annual,National,SH_STA_WAST,Osh (city),under 5 years old,PT,1.8
-2014,Annual,National,SN_STA_OVWGT,Kyrgyzstan,under 5 years old,PT,7.0
-2018,Annual,National,SN_STA_OVWGT,Kyrgyzstan,under 5 years old,PT,6.9
-2014,Annual,National,SN_STA_OVWGT,Batken,under 5 years old,PT,3.4
-2018,Annual,National,SN_STA_OVWGT,Batken,under 5 years old,PT,6.9
-2014,Annual,National,SN_STA_OVWGT,Jalal-Abad,under 5 years old,PT,8.7
-2018,Annual,National,SN_STA_OVWGT,Jalal-Abad,under 5 years old,PT,8.9
-2014,Annual,National,SN_STA_OVWGT,Issyk-Kul,under 5 years old,PT,7.8
-2018,Annual,National,SN_STA_OVWGT,Issyk-Kul,under 5 years old,PT,4.6
-2014,Annual,National,SN_STA_OVWGT,Naryn,under 5 years old,PT,6.2
-2018,Annual,National,SN_STA_OVWGT,Naryn,under 5 years old,PT,4.4
-2014,Annual,National,SN_STA_OVWGT,Osh,under 5 years old,PT,4.7
-2018,Annual,National,SN_STA_OVWGT,Osh,under 5 years old,PT,5.3
-2014,Annual,National,SN_STA_OVWGT,Talas,under 5 years old,PT,7.3
-2018,Annual,National,SN_STA_OVWGT,Talas,under 5 years old,PT,2.9
-2014,Annual,National,SN_STA_OVWGT,Chui,under 5 years old,PT,9.0
-2018,Annual,National,SN_STA_OVWGT,Chui,under 5 years old,PT,11.7
-2014,Annual,National,SN_STA_OVWGT,Bishkek (city),under 5 years old,PT,9.5
-2018,Annual,National,SN_STA_OVWGT,Bishkek (city),under 5 years old,PT,7.4
-2014,Annual,National,SN_STA_OVWGT,Osh (city),under 5 years old,PT,4.3
-2018,Annual,National,SN_STA_OVWGT,Osh (city),under 5 years old,PT,3.3
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Kyrgyzstan,under 5 years old,Percent,2.8
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Kyrgyzstan,under 5 years old,Percent,2.0
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Batken,under 5 years old,Percent,2.2
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Batken,under 5 years old,Percent,2.3
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Jalal-Abad,under 5 years old,Percent,7.9
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Jalal-Abad,under 5 years old,Percent,3.8
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Issyk-Kul,under 5 years old,Percent,1.7
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Issyk-Kul,under 5 years old,Percent,2.1
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Naryn,under 5 years old,Percent,0.5
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Naryn,under 5 years old,Percent,1.1
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Osh,under 5 years old,Percent,1.1
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Osh,under 5 years old,Percent,1.6
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Talas,under 5 years old,Percent,1.0
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Talas,under 5 years old,Percent,2.9
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Chui,under 5 years old,Percent,1.5
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Chui,under 5 years old,Percent,1.5
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Bishkek (city),under 5 years old,Percent,2.1
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Bishkek (city),under 5 years old,Percent,0.6
+2014,Annual,National,Proportion of children moderately or severely wasted (number),Osh (city),under 5 years old,Percent,2.4
+2018,Annual,National,Proportion of children moderately or severely wasted (number),Osh (city),under 5 years old,Percent,1.8
+2014,Annual,National,Proportion of children moderately or severely overweight,Kyrgyzstan,under 5 years old,Percent,7.0
+2018,Annual,National,Proportion of children moderately or severely overweight,Kyrgyzstan,under 5 years old,Percent,6.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Batken,under 5 years old,Percent,3.4
+2018,Annual,National,Proportion of children moderately or severely overweight,Batken,under 5 years old,Percent,6.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Jalal-Abad,under 5 years old,Percent,8.7
+2018,Annual,National,Proportion of children moderately or severely overweight,Jalal-Abad,under 5 years old,Percent,8.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Issyk-Kul,under 5 years old,Percent,7.8
+2018,Annual,National,Proportion of children moderately or severely overweight,Issyk-Kul,under 5 years old,Percent,4.6
+2014,Annual,National,Proportion of children moderately or severely overweight,Naryn,under 5 years old,Percent,6.2
+2018,Annual,National,Proportion of children moderately or severely overweight,Naryn,under 5 years old,Percent,4.4
+2014,Annual,National,Proportion of children moderately or severely overweight,Osh,under 5 years old,Percent,4.7
+2018,Annual,National,Proportion of children moderately or severely overweight,Osh,under 5 years old,Percent,5.3
+2014,Annual,National,Proportion of children moderately or severely overweight,Talas,under 5 years old,Percent,7.3
+2018,Annual,National,Proportion of children moderately or severely overweight,Talas,under 5 years old,Percent,2.9
+2014,Annual,National,Proportion of children moderately or severely overweight,Chui,under 5 years old,Percent,9.0
+2018,Annual,National,Proportion of children moderately or severely overweight,Chui,under 5 years old,Percent,11.7
+2014,Annual,National,Proportion of children moderately or severely overweight,Bishkek (city),under 5 years old,Percent,9.5
+2018,Annual,National,Proportion of children moderately or severely overweight,Bishkek (city),under 5 years old,Percent,7.4
+2014,Annual,National,Proportion of children moderately or severely overweight,Osh (city),under 5 years old,Percent,4.3
+2018,Annual,National,Proportion of children moderately or severely overweight,Osh (city),under 5 years old,Percent,3.3

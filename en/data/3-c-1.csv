@@ -1,49 +1,49 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Occupation,Units,Value
-2007,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.2
-2008,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.2
-2009,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.2
-2010,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.2
-2011,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.2
-2012,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.2
-2013,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.2
-2014,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.1
-2015,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.1
-2016,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.1
-2017,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.0
-2018,Annual,National,SH_MED_DEN,Kyrgyzstan,Medical doctors,PER_1000_POP,2.0
-2007,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2008,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2009,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2010,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2011,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2012,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2013,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2014,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2015,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2016,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2017,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2018,Annual,National,SH_MED_DEN,Kyrgyzstan,Dentists,PER_1000_POP,0.3
-2007,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.0
-2008,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.0
-2009,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.0
-2010,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.0
-2011,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.0
-2012,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.1
-2013,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.1
-2014,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.1
-2015,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.1
-2016,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.1
-2017,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.1
-2018,Annual,National,SH_MED_DEN,Kyrgyzstan,Pharmacists,PER_1000_POP,0.1
-2007,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.4
-2008,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.3
-2009,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.3
-2010,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.4
-2011,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.5
-2012,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.6
-2013,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.6
-2014,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.6
-2015,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.6
-2016,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.6
-2017,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.3
-2018,Annual,National,SH_MED_DEN,Kyrgyzstan,Nursing and midwifery professionals,PER_1000_POP,4.5
+2007,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.2
+2008,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.2
+2009,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.2
+2010,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.2
+2011,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.2
+2012,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.2
+2013,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.2
+2014,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.1
+2015,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.1
+2016,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.1
+2017,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.0
+2018,Annual,National,Health workder density,Kyrgyzstan,Medical doctors,"Per 1,000 population",2.0
+2007,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2008,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2009,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2010,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2011,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2012,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2013,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2014,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2015,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2016,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2017,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2018,Annual,National,Health workder density,Kyrgyzstan,Dentists,"Per 1,000 population",0.3
+2007,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.0
+2008,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.0
+2009,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.0
+2010,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.0
+2011,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.0
+2012,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.1
+2013,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.1
+2014,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.1
+2015,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.1
+2016,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.1
+2017,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.1
+2018,Annual,National,Health workder density,Kyrgyzstan,Pharmacists,"Per 1,000 population",0.1
+2007,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.4
+2008,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.3
+2009,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.3
+2010,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.4
+2011,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.5
+2012,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.6
+2013,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.6
+2014,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.6
+2015,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.6
+2016,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.6
+2017,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.3
+2018,Annual,National,Health workder density,Kyrgyzstan,Nursing and midwifery professionals,"Per 1,000 population",4.5
