@@ -1,3 +1,3 @@
 xlrd==1.2.0
 git+git://github.com/dougmet/yamlmd
-git+git://github.com/brockfanning/sdg-build-1@sdmx-output-take-35
+git+git://github.com/brockfanning/sdg-build-1@allow-missing-extra-fields
