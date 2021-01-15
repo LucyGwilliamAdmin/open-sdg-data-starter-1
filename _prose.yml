@@ -68,6 +68,11 @@ prose:
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: indicator_information
       ######### National Metadata #########
+      - name: "indicator_type"
+        field:
+            element: select
+            label: "Indicator type"
+            translation_key: "metadata_fields.indicator_type"
       - name: "national_geographical_coverage"
         field:
             element: text
