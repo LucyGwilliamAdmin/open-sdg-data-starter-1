@@ -73,6 +73,7 @@ prose:
             element: select
             label: "Indicator type"
             translation_key: "metadata_fields.indicator_type"
+            scope: data
       - name: "national_geographical_coverage"
         field:
             element: text
