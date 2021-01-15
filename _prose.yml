@@ -70,7 +70,7 @@ prose:
       ######### National Metadata #########
       - name: "indicator_type"
         field:
-            element: select
+            element: text
             label: "Indicator type"
             translation_key: "metadata_fields.indicator_type"
             scope: data
