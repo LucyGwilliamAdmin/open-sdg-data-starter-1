@@ -22,12 +22,13 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
     dsd: 'SDG_DSD.KG.xml'
-    import_translation_keys: true
-    #import_codes: true #when testing SDMX output (instead of above)
+    #import_translation_keys: true
+    import_codes: true #when testing SDMX output (instead of above)
     drop_singleton_dimensions: false
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
+      REF_AREA|KG: ''
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
@@ -37,8 +38,8 @@ inputs:
     metadata_mapping: 'metadata-mapping.csv'
 
 
-#sdmx_output:
-#    dsd: 'SDG_DSD.KG.xml'
+sdmx_output:
+    dsd: 'SDG_DSD.KG.xml'
 
 
 # Translations
@@ -76,8 +77,7 @@ schema_file: _prose.yml
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
 # fields, beyond the default "status by goal" report.
-reporting_status_extra_fields:
-  - indicator_type
+reporting_status_extra_fields: []
 
 # Data and metadata alterations
 # -----------------------------
