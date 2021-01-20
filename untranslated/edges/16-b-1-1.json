@@ -1,1 +1,1 @@
-{"From":["concept.FREQ","concept.REPORTING_TYPE","concept.REF_AREA","concept.SEX","concept.SEX","concept.SEX","concept.SEX","concept.SEX"],"To":["concept.REPORTING_TYPE","concept.REF_AREA","concept.SEX","concept.AGE","concept.URBANISATION","concept.INCOME_WEALTH_QUANTILE","concept.EDUCATION_LEV","concept.DISABILITY_STATUS"]}
+{"From":["FREQ","REPORTING_TYPE","REF_AREA","SEX","SEX","SEX","SEX","SEX"],"To":["REPORTING_TYPE","REF_AREA","SEX","AGE","URBANISATION","INCOME_WEALTH_QUANTILE","EDUCATION_LEV","DISABILITY_STATUS"]}

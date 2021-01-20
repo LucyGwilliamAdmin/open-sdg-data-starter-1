@@ -1,1 +1,1 @@
-{"From":["concept.FREQ","concept.REPORTING_TYPE","concept.REF_AREA","concept.EDUCATION_LEV","concept.AGE"],"To":["concept.REPORTING_TYPE","concept.REF_AREA","concept.AGE","concept.SEX","concept.EDUCATION_LEV"]}
+{"From":["FREQ","REPORTING_TYPE","REF_AREA","EDUCATION_LEV","AGE"],"To":["REPORTING_TYPE","REF_AREA","AGE","SEX","EDUCATION_LEV"]}

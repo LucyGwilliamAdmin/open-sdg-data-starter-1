@@ -1,14 +1,14 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,,Percent,19.2
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,Urban,,,Percent,47.2
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,Rural,,,Percent,3.2
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Primary education,Percent,6.8
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Lower secondary education,Percent,10.5
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Upper secondary education,Percent,11.4
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Post-secondary non-tertiary education,Percent,19.7
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,,Short-cycle tertiary education,Percent,38.9
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,Quintile 1 (poorest),,Percent,10.0
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,Quintile 2,,Percent,2.6
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,Quintile 3,,Percent,6.1
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,Quintile 4,,Percent,9.3
-2018,Annual,National,Proportion of population with primary reliance on clean fuels and technology,Kyrgyzstan,,Quintile 5 (richest),,Percent,76.9
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,,,PT,19.2
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,Urban,,,PT,47.2
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,Rural,,,PT,3.2
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,,Primary education,PT,6.8
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,,Lower secondary education,PT,10.5
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,,Upper secondary education,PT,11.4
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,,Post-secondary non-tertiary education,PT,19.7
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,,Short-cycle tertiary education,PT,38.9
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,Quintile 1 (poorest),,PT,10.0
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,Quintile 2,,PT,2.6
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,Quintile 3,,PT,6.1
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,Quintile 4,,PT,9.3
+2018,Annual,National,EG_EGY_CLEAN,Kyrgyzstan,,Quintile 5 (richest),,PT,76.9

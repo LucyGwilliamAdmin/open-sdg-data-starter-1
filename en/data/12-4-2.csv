@@ -1,6 +1,6 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2014,Annual,National,Hazardous waste generated per capita,Kyrgyzstan,Kilograms,23.205713
-2015,Annual,National,Hazardous waste generated per capita,Kyrgyzstan,Kilograms,1736.99
-2016,Annual,National,Hazardous waste generated per capita,Kyrgyzstan,Kilograms,2008.5
-2017,Annual,National,Hazardous waste generated per capita,Kyrgyzstan,Kilograms,2015.49
-2018,Annual,National,Hazardous waste generated per capita,Kyrgyzstan,Kilograms,1878.49
+2014,Annual,National,EN_HAZ_PCAP,Kyrgyzstan,KG,23.205713
+2015,Annual,National,EN_HAZ_PCAP,Kyrgyzstan,KG,1736.99
+2016,Annual,National,EN_HAZ_PCAP,Kyrgyzstan,KG,2008.5
+2017,Annual,National,EN_HAZ_PCAP,Kyrgyzstan,KG,2015.49
+2018,Annual,National,EN_HAZ_PCAP,Kyrgyzstan,KG,1878.49

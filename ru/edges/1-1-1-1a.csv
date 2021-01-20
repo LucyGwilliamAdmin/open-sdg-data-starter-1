@@ -1,5 +1,5 @@
 From,To
-REF_AREA,URBANISATION
-URBANISATION,OBS_STATUS
-OBS_STATUS,COMMENT_TS
-COMMENT_TS,COMMENT_OBS
+Территория,Тип местности
+Тип местности,Статус наблюдения
+Статус наблюдения,Сноски для временных рядов
+Сноски для временных рядов,Сноски на уровне наблюдения

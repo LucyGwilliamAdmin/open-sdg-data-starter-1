@@ -1,11 +1,11 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Age,Units,Value
-2009,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,8.1
-2010,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,10.0
-2011,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,24.6
-2012,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,11.2
-2013,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,12.2
-2014,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,51.1
-2015,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,55.0
-2016,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,74.4
-2017,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,75.9
-2018,Annual,National,Participation rate in organized learning (one year before the official primary entry age),Kyrgyzstan,under 6 years old,Percent,84.9
+2009,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,8.1
+2010,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,10.0
+2011,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,24.6
+2012,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,11.2
+2013,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,12.2
+2014,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,51.1
+2015,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,55.0
+2016,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,74.4
+2017,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,75.9
+2018,Annual,National,SE_PRE_PARTN,Kyrgyzstan,under 6 years old,PT,84.9
