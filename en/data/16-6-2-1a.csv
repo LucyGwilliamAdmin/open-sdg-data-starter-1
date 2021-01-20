@@ -1,9 +1,9 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2015,Annual,National,_L_KG_160602_1A,Kyrgyzstan,IX,235
-2016,Annual,National,_L_KG_160602_1A,Kyrgyzstan,IX,285
-2017,Annual,National,_L_KG_160602_1A,Kyrgyzstan,IX,311
-2018,Annual,National,_L_KG_160602_1A,Kyrgyzstan,IX,273
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Kyrgyzstan,IX,273
+2015,Annual,National,_L_KG_160602_1A,,IX,235
+2016,Annual,National,_L_KG_160602_1A,,IX,285
+2017,Annual,National,_L_KG_160602_1A,,IX,311
+2018,Annual,National,_L_KG_160602_1A,,IX,273
+2019,"Half-yearly, semester",National,_L_KG_160602_1A,,IX,273
 2015,Annual,National,_L_KG_160602_1A,Batken,IX,294
 2016,Annual,National,_L_KG_160602_1A,Batken,IX,479
 2017,Annual,National,_L_KG_160602_1A,Batken,IX,462

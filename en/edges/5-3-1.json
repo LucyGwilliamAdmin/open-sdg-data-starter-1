@@ -1,1 +1,1 @@
-{"From":["Frequency of observation","Reporting type","Reference area","Sex","Age","Age","Age"],"To":["Reporting type","Reference area","Sex","Age","Income or wealth quantile","Education level","Disability status"]}
+{"From":["Frequency of observation","Reporting type","Age","Sex","Age","Age","Age"],"To":["Reporting type","Sex","Reference area","Age","Income or wealth quantile","Education level","Disability status"]}

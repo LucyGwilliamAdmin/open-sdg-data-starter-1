@@ -1,10 +1,10 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2010,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,21
-2011,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,5
-2012,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,6
-2013,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,9
-2014,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,19
-2015,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,8
-2016,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,10
-2017,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,5
-2018,Annual,National,VC_HTF_DETV,Kyrgyzstan,NUMBER,8
+2010,Annual,National,VC_HTF_DETV,,NUMBER,21
+2011,Annual,National,VC_HTF_DETV,,NUMBER,5
+2012,Annual,National,VC_HTF_DETV,,NUMBER,6
+2013,Annual,National,VC_HTF_DETV,,NUMBER,9
+2014,Annual,National,VC_HTF_DETV,,NUMBER,19
+2015,Annual,National,VC_HTF_DETV,,NUMBER,8
+2016,Annual,National,VC_HTF_DETV,,NUMBER,10
+2017,Annual,National,VC_HTF_DETV,,NUMBER,5
+2018,Annual,National,VC_HTF_DETV,,NUMBER,8

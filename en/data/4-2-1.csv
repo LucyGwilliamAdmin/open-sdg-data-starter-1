@@ -1,6 +1,6 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Income or wealth quantile,Education level,Units,Value
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,,PT,78.3
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,,PT,71.7
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,,PT,78.3
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,,PT,71.7
 2014,Annual,National,SE_DEV_ONTRK,Batken,,under 5 years old,,,PT,81.2
 2018,Annual,National,SE_DEV_ONTRK,Batken,,under 5 years old,,,PT,83.3
 2014,Annual,National,SE_DEV_ONTRK,Jalal-Abad,,under 5 years old,,,PT,87.1
@@ -19,25 +19,25 @@ Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Incom
 2018,Annual,National,SE_DEV_ONTRK,Bishkek (city),,under 5 years old,,,PT,81.3
 2014,Annual,National,SE_DEV_ONTRK,Osh (city),,under 5 years old,,,PT,52.0
 2018,Annual,National,SE_DEV_ONTRK,Osh (city),,under 5 years old,,,PT,71.5
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,Male,under 5 years old,,,PT,76.1
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,Male,under 5 years old,,,PT,68.2
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,Female,under 5 years old,,,PT,80.6
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,Female,under 5 years old,,,PT,75.0
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Lower secondary education,PT,70.1
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Lower secondary education,PT,71.0
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Upper secondary education,PT,77.2
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Upper secondary education,PT,73.8
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Post-secondary non-tertiary education,PT,80.8
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Post-secondary non-tertiary education,PT,70.6
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Short-cycle tertiary education,PT,81.8
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,,Short-cycle tertiary education,PT,69.6
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 1 (poorest),,PT,76.5
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 1 (poorest),,PT,72.5
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 2,,PT,80.3
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 2,,PT,70.6
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 3,,PT,73.0
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 3,,PT,67.2
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 4,,PT,79.3
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 4,,PT,71.0
-2014,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 5 (richest),,PT,84.3
-2018,Annual,National,SE_DEV_ONTRK,Kyrgyzstan,,under 5 years old,Quintile 5 (richest),,PT,78.0
+2014,Annual,National,SE_DEV_ONTRK,,Male,under 5 years old,,,PT,76.1
+2018,Annual,National,SE_DEV_ONTRK,,Male,under 5 years old,,,PT,68.2
+2014,Annual,National,SE_DEV_ONTRK,,Female,under 5 years old,,,PT,80.6
+2018,Annual,National,SE_DEV_ONTRK,,Female,under 5 years old,,,PT,75.0
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Lower secondary education,PT,70.1
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Lower secondary education,PT,71.0
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Upper secondary education,PT,77.2
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Upper secondary education,PT,73.8
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Post-secondary non-tertiary education,PT,80.8
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Post-secondary non-tertiary education,PT,70.6
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Short-cycle tertiary education,PT,81.8
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,,Short-cycle tertiary education,PT,69.6
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 1 (poorest),,PT,76.5
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 1 (poorest),,PT,72.5
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 2,,PT,80.3
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 2,,PT,70.6
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 3,,PT,73.0
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 3,,PT,67.2
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 4,,PT,79.3
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 4,,PT,71.0
+2014,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 5 (richest),,PT,84.3
+2018,Annual,National,SE_DEV_ONTRK,,,under 5 years old,Quintile 5 (richest),,PT,78.0

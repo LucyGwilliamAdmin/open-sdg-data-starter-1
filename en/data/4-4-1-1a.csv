@@ -1,43 +1,43 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Education level,Units,Value
-2010,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1432
-2013,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1551
-2014,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1272
-2015,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1236
-2016,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,891
-2017,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,766
-2010,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Short-cycle tertiary education,NUMBER,2544
-2013,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Short-cycle tertiary education,NUMBER,2663
-2014,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Short-cycle tertiary education,NUMBER,5189
-2015,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Short-cycle tertiary education,NUMBER,4961
-2016,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Short-cycle tertiary education,NUMBER,4754
-2017,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Short-cycle tertiary education,NUMBER,5106
-2010,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Short-cycle tertiary education,NUMBER,1244
-2013,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Short-cycle tertiary education,NUMBER,1347
-2014,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Short-cycle tertiary education,NUMBER,1873
-2015,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Short-cycle tertiary education,NUMBER,1785
-2016,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Short-cycle tertiary education,NUMBER,3050
-2017,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Short-cycle tertiary education,NUMBER,1380
-2010,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Short-cycle tertiary education,NUMBER,1300
-2013,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Short-cycle tertiary education,NUMBER,1316
-2014,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Short-cycle tertiary education,NUMBER,3316
-2015,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Short-cycle tertiary education,NUMBER,3176
-2016,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Short-cycle tertiary education,NUMBER,1704
-2017,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Short-cycle tertiary education,NUMBER,3722
-2010,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,12291
-2013,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,8890
-2014,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,9214
-2015,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,8551
-2016,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,7089
-2017,Annual,National,_L_KG_040401_1A,Kyrgyzstan,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,8522
-2010,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,5530
-2013,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4469
-2014,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4096
-2015,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,3916
-2016,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,3020
-2017,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4023
-2010,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,6761
-2013,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4421
-2014,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,5118
-2015,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4635
-2016,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4069
-2017,Annual,National,_L_KG_040401_1A,Kyrgyzstan,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4491
+2010,Annual,National,_L_KG_040401_1A,,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1432
+2013,Annual,National,_L_KG_040401_1A,,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1551
+2014,Annual,National,_L_KG_040401_1A,,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1272
+2015,Annual,National,_L_KG_040401_1A,,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,1236
+2016,Annual,National,_L_KG_040401_1A,,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,891
+2017,Annual,National,_L_KG_040401_1A,,,Secondary and post-secondary non-tertiary education (intermediate),NUMBER,766
+2010,Annual,National,_L_KG_040401_1A,,,Short-cycle tertiary education,NUMBER,2544
+2013,Annual,National,_L_KG_040401_1A,,,Short-cycle tertiary education,NUMBER,2663
+2014,Annual,National,_L_KG_040401_1A,,,Short-cycle tertiary education,NUMBER,5189
+2015,Annual,National,_L_KG_040401_1A,,,Short-cycle tertiary education,NUMBER,4961
+2016,Annual,National,_L_KG_040401_1A,,,Short-cycle tertiary education,NUMBER,4754
+2017,Annual,National,_L_KG_040401_1A,,,Short-cycle tertiary education,NUMBER,5106
+2010,Annual,National,_L_KG_040401_1A,,Female,Short-cycle tertiary education,NUMBER,1244
+2013,Annual,National,_L_KG_040401_1A,,Female,Short-cycle tertiary education,NUMBER,1347
+2014,Annual,National,_L_KG_040401_1A,,Female,Short-cycle tertiary education,NUMBER,1873
+2015,Annual,National,_L_KG_040401_1A,,Female,Short-cycle tertiary education,NUMBER,1785
+2016,Annual,National,_L_KG_040401_1A,,Female,Short-cycle tertiary education,NUMBER,3050
+2017,Annual,National,_L_KG_040401_1A,,Female,Short-cycle tertiary education,NUMBER,1380
+2010,Annual,National,_L_KG_040401_1A,,Male,Short-cycle tertiary education,NUMBER,1300
+2013,Annual,National,_L_KG_040401_1A,,Male,Short-cycle tertiary education,NUMBER,1316
+2014,Annual,National,_L_KG_040401_1A,,Male,Short-cycle tertiary education,NUMBER,3316
+2015,Annual,National,_L_KG_040401_1A,,Male,Short-cycle tertiary education,NUMBER,3176
+2016,Annual,National,_L_KG_040401_1A,,Male,Short-cycle tertiary education,NUMBER,1704
+2017,Annual,National,_L_KG_040401_1A,,Male,Short-cycle tertiary education,NUMBER,3722
+2010,Annual,National,_L_KG_040401_1A,,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,12291
+2013,Annual,National,_L_KG_040401_1A,,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,8890
+2014,Annual,National,_L_KG_040401_1A,,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,9214
+2015,Annual,National,_L_KG_040401_1A,,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,8551
+2016,Annual,National,_L_KG_040401_1A,,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,7089
+2017,Annual,National,_L_KG_040401_1A,,,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,8522
+2010,Annual,National,_L_KG_040401_1A,,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,5530
+2013,Annual,National,_L_KG_040401_1A,,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4469
+2014,Annual,National,_L_KG_040401_1A,,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4096
+2015,Annual,National,_L_KG_040401_1A,,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,3916
+2016,Annual,National,_L_KG_040401_1A,,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,3020
+2017,Annual,National,_L_KG_040401_1A,,Female,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4023
+2010,Annual,National,_L_KG_040401_1A,,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,6761
+2013,Annual,National,_L_KG_040401_1A,,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4421
+2014,Annual,National,_L_KG_040401_1A,,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,5118
+2015,Annual,National,_L_KG_040401_1A,,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4635
+2016,Annual,National,_L_KG_040401_1A,,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4069
+2017,Annual,National,_L_KG_040401_1A,,Male,Tertiary education (Bachelor’s and Master's or equivalent),NUMBER,4491

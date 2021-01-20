@@ -1,7 +1,7 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Units,Value
-2018,Annual,National,_L_KG_050601_1,Kyrgyzstan,Female,15 to 49 years old,,PT,99.7
-2018,Annual,National,_L_KG_050601_1,Kyrgyzstan,Female,15 to 49 years old,Urban,PT,99.8
-2018,Annual,National,_L_KG_050601_1,Kyrgyzstan,Female,15 to 49 years old,Rural,PT,99.6
+2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,,PT,99.7
+2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,Urban,PT,99.8
+2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,Rural,PT,99.6
 2018,Annual,National,_L_KG_050601_1,Batken,Female,15 to 49 years old,,PT,99.7
 2018,Annual,National,_L_KG_050601_1,Jalal-Abad,Female,15 to 49 years old,,PT,99.4
 2018,Annual,National,_L_KG_050601_1,Issyk-Kul,Female,15 to 49 years old,,PT,100.0

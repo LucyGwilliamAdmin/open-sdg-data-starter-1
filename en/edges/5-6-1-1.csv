@@ -1,6 +1,6 @@
 From,To
 Frequency of observation,Reporting type
-Reporting type,Reference area
-Reference area,Sex
+Reporting type,Sex
+Age,Reference area
 Sex,Age
 Age,Degree of urbanisation

@@ -1,37 +1,37 @@
 Year,Frequency of observation,Reporting type,Series,Reference area,Economic activity,Units,Value
-2007,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,87.7
-2008,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,59.8
-2009,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,49.9
-2010,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,47.7
-2011,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,43.3
-2012,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,43.7
-2013,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,38.5
-2014,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,36.9
-2015,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,31.5
-2016,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,27.9
-2017,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,26.9
-2018,Annual,National,_L_KG_070301_2A,Kyrgyzstan,,_L_TH_KWH_MN_KGS,26.3
-2007,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,20.5
-2008,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.0
-2009,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.6
-2010,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
-2011,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
-2012,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.7
-2013,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.9
-2014,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,12.9
-2015,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.1
-2016,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
-2017,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.3
-2018,Annual,National,_L_KG_070301_2A,Kyrgyzstan,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
-2007,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,71.8
-2008,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,46.0
-2009,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,40.1
-2010,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,33.1
-2011,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,30.0
-2012,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,41.2
-2013,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,35.0
-2014,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,43.0
-2015,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,31.8
-2016,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,26.3
-2017,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,25.0
-2018,Annual,National,_L_KG_070301_2A,Kyrgyzstan,Industry (total),_L_TH_KWH_MN_KGS,25.5
+2007,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,87.7
+2008,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,59.8
+2009,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,49.9
+2010,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,47.7
+2011,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,43.3
+2012,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,43.7
+2013,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,38.5
+2014,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,36.9
+2015,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,31.5
+2016,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,27.9
+2017,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,26.9
+2018,Annual,National,_L_KG_070301_2A,,,_L_TH_KWH_MN_KGS,26.3
+2007,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,20.5
+2008,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.0
+2009,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.6
+2010,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
+2011,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
+2012,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.7
+2013,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.9
+2014,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,12.9
+2015,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.1
+2016,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
+2017,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.3
+2018,Annual,National,_L_KG_070301_2A,,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
+2007,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,71.8
+2008,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,46.0
+2009,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,40.1
+2010,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,33.1
+2011,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,30.0
+2012,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,41.2
+2013,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,35.0
+2014,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,43.0
+2015,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,31.8
+2016,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,26.3
+2017,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,25.0
+2018,Annual,National,_L_KG_070301_2A,,Industry (total),_L_TH_KWH_MN_KGS,25.5
