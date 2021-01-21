@@ -1,4 +1,4 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,SEX,AGE,URBANISATION,Units,Value
-2018,A,N,VC_PRR_PHYV,,F,Y15T49,,PT,29.5
-2018,A,N,VC_PRR_PHYV,,F,Y15T49,U,PT,38.4
-2018,A,N,VC_PRR_PHYV,,F,Y15T49,R,PT,22.4
+Year,OBS_STATUS,UNIT_MULT,NATURE,SOURCE_DETAIL,FREQ,REPORTING_TYPE,Series,REF_AREA,SEX,AGE,URBANISATION,Units,Value
+2018,A,0,C,"According to the cluster survey in many respects, 2018.",A,N,VC_PRR_PHYV,,F,Y15T49,,PT,29.5
+2018,A,0,C,"According to the cluster survey in many respects, 2018.",A,N,VC_PRR_PHYV,,F,Y15T49,U,PT,38.4
+2018,A,0,C,"According to the cluster survey in many respects, 2018.",A,N,VC_PRR_PHYV,,F,Y15T49,R,PT,22.4

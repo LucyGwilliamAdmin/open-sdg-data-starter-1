@@ -1,6 +1,9 @@
 From,To
+Nature of data points,Source details
+Source details,Frequency of observation
 Frequency of observation,Reporting type
 Reporting type,Reference area
 Reporting type,Degree of urbanisation
 Reporting type,Income or wealth quantile
 Reporting type,Education level
+Education level,Observation-level footnotes

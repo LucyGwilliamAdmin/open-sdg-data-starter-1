@@ -1,10 +1,10 @@
-Year,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
-2010,A,N,_L_KG_110601_1,,KG,214.643352
-2011,A,N,_L_KG_110601_1,,KG,223.172865
-2012,A,N,_L_KG_110601_1,,KG,183.173589
-2013,A,N,_L_KG_110601_1,,KG,214.906582
-2014,A,N,_L_KG_110601_1,,KG,178.260402
-2015,A,N,_L_KG_110601_1,,KG,195.243858
-2016,A,N,_L_KG_110601_1,,KG,170.944426
-2017,A,N,_L_KG_110601_1,,KG,165.143944
-2018,A,N,_L_KG_110601_1,,KG,171.426688
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,Series,REF_AREA,Units,Value
+2010,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,214.643352
+2011,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,223.172865
+2012,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,183.173589
+2013,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,214.906582
+2014,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,178.260402
+2015,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,195.243858
+2016,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,170.944426
+2017,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,165.143944
+2018,A,0,C,*average annual number of present population,A,N,_L_KG_110601_1,,KG,171.426688

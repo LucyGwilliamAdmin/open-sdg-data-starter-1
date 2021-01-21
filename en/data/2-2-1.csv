@@ -1,62 +1,62 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
-2014,Annual,National,SH_STA_STNT,,,,,,,PT,12.9
-2018,Annual,National,SH_STA_STNT,,,,,,,PT,11.8
-2014,Annual,National,SH_STA_STNT,Batken,,,,,,PT,13.6
-2018,Annual,National,SH_STA_STNT,Batken,,,,,,PT,11.9
-2014,Annual,National,SH_STA_STNT,Jalal-Abad,,,,,,PT,21.3
-2018,Annual,National,SH_STA_STNT,Jalal-Abad,,,,,,PT,15.5
-2014,Annual,National,SH_STA_STNT,Issyk-Kul,,,,,,PT,14.1
-2018,Annual,National,SH_STA_STNT,Issyk-Kul,,,,,,PT,14.2
-2014,Annual,National,SH_STA_STNT,Naryn,,,,,,PT,16.4
-2018,Annual,National,SH_STA_STNT,Naryn,,,,,,PT,6.5
-2014,Annual,National,SH_STA_STNT,Osh,,,,,,PT,10.6
-2018,Annual,National,SH_STA_STNT,Osh,,,,,,PT,13.7
-2014,Annual,National,SH_STA_STNT,Talas,,,,,,PT,11.0
-2018,Annual,National,SH_STA_STNT,Talas,,,,,,PT,10.0
-2014,Annual,National,SH_STA_STNT,Chui,,,,,,PT,7.6
-2018,Annual,National,SH_STA_STNT,Chui,,,,,,PT,10.1
-2014,Annual,National,SH_STA_STNT,Bishkek (city),,,,,,PT,7.6
-2018,Annual,National,SH_STA_STNT,Bishkek (city),,,,,,PT,5.9
-2014,Annual,National,SH_STA_STNT,Osh (city),,,,,,PT,12.1
-2018,Annual,National,SH_STA_STNT,Osh (city),,,,,,PT,10.9
-2014,Annual,National,SH_STA_STNT,,Male,,,,,PT,13.8
-2018,Annual,National,SH_STA_STNT,,Male,,,,,PT,12.5
-2014,Annual,National,SH_STA_STNT,,Female,,,,,PT,12.0
-2018,Annual,National,SH_STA_STNT,,Female,,,,,PT,10.9
-2014,Annual,National,SH_STA_STNT,,,,Urban,,,PT,11.8
-2018,Annual,National,SH_STA_STNT,,,,Urban,,,PT,8.8
-2014,Annual,National,SH_STA_STNT,,,,Rural,,,PT,13.4
-2018,Annual,National,SH_STA_STNT,,,,Rural,,,PT,13.1
-2014,Annual,National,SH_STA_STNT,,,0 to 5 months old,,,,PT,5.3
-2018,Annual,National,SH_STA_STNT,,,0 to 5 months old,,,,PT,5.4
-2014,Annual,National,SH_STA_STNT,,,6 to 11 months old,,,,PT,7.2
-2018,Annual,National,SH_STA_STNT,,,6 to 11 months old,,,,PT,9.3
-2014,Annual,National,SH_STA_STNT,,,12 to 17 months old,,,,PT,11.2
-2018,Annual,National,SH_STA_STNT,,,12 to 17 months old,,,,PT,12.1
-2014,Annual,National,SH_STA_STNT,,,18 to 23 months old,,,,PT,18.2
-2018,Annual,National,SH_STA_STNT,,,18 to 23 months old,,,,PT,17.2
-2014,Annual,National,SH_STA_STNT,,,24 to 35 months old,,,,PT,18.6
-2018,Annual,National,SH_STA_STNT,,,24 to 35 months old,,,,PT,13.2
-2014,Annual,National,SH_STA_STNT,,,36 to 47 months old,,,,PT,14.6
-2018,Annual,National,SH_STA_STNT,,,36 to 47 months old,,,,PT,11.2
-2014,Annual,National,SH_STA_STNT,,,48 to 59 months old,,,,PT,10.5
-2018,Annual,National,SH_STA_STNT,,,48 to 59 months old,,,,PT,12.7
-2014,Annual,National,SH_STA_STNT,,,,,,Primary education,PT,26.5
-2014,Annual,National,SH_STA_STNT,,,,,,Lower secondary education,PT,17.1
-2018,Annual,National,SH_STA_STNT,,,,,,Lower secondary education,PT,14.8
-2014,Annual,National,SH_STA_STNT,,,,,,Upper secondary education,PT,13.5
-2018,Annual,National,SH_STA_STNT,,,,,,Upper secondary education,PT,12.0
-2014,Annual,National,SH_STA_STNT,,,,,,Post-secondary non-tertiary education,PT,11.8
-2018,Annual,National,SH_STA_STNT,,,,,,Post-secondary non-tertiary education,PT,12.2
-2014,Annual,National,SH_STA_STNT,,,,,,Short-cycle tertiary education,PT,9.8
-2018,Annual,National,SH_STA_STNT,,,,,,Short-cycle tertiary education,PT,10.0
-2014,Annual,National,SH_STA_STNT,,,,,Quintile 1 (poorest),,PT,17.7
-2018,Annual,National,SH_STA_STNT,,,,,Quintile 1 (poorest),,PT,14.0
-2014,Annual,National,SH_STA_STNT,,,,,Quintile 2,,PT,14.2
-2018,Annual,National,SH_STA_STNT,,,,,Quintile 2,,PT,13.8
-2014,Annual,National,SH_STA_STNT,,,,,Quintile 3,,PT,10.1
-2018,Annual,National,SH_STA_STNT,,,,,Quintile 3,,PT,12.0
-2014,Annual,National,SH_STA_STNT,,,,,Quintile 4,,PT,10.7
-2018,Annual,National,SH_STA_STNT,,,,,Quintile 4,,PT,8.2
-2014,Annual,National,SH_STA_STNT,,,,,Quintile 5 (richest),,PT,10.7
-2018,Annual,National,SH_STA_STNT,,,,,Quintile 5 (richest),,PT,9.2
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,,,,PT,12.9
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,,,,PT,11.8
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Batken,,,,,,PT,13.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Batken,,,,,,PT,11.9
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Jalal-Abad,,,,,,PT,21.3
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Jalal-Abad,,,,,,PT,15.5
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Issyk-Kul,,,,,,PT,14.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Issyk-Kul,,,,,,PT,14.2
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Naryn,,,,,,PT,16.4
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Naryn,,,,,,PT,6.5
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Osh,,,,,,PT,10.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Osh,,,,,,PT,13.7
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Talas,,,,,,PT,11.0
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Talas,,,,,,PT,10.0
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Chui,,,,,,PT,7.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Chui,,,,,,PT,10.1
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Bishkek (city),,,,,,PT,7.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Bishkek (city),,,,,,PT,5.9
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,Osh (city),,,,,,PT,12.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,Osh (city),,,,,,PT,10.9
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,Male,,,,,PT,13.8
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,Male,,,,,PT,12.5
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,Female,,,,,PT,12.0
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,Female,,,,,PT,10.9
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,Urban,,,PT,11.8
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,Urban,,,PT,8.8
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,Rural,,,PT,13.4
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,Rural,,,PT,13.1
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,0 to 5 months old,,,,PT,5.3
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,0 to 5 months old,,,,PT,5.4
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,6 to 11 months old,,,,PT,7.2
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,6 to 11 months old,,,,PT,9.3
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,12 to 17 months old,,,,PT,11.2
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,12 to 17 months old,,,,PT,12.1
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,18 to 23 months old,,,,PT,18.2
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,18 to 23 months old,,,,PT,17.2
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,24 to 35 months old,,,,PT,18.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,24 to 35 months old,,,,PT,13.2
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,36 to 47 months old,,,,PT,14.6
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,36 to 47 months old,,,,PT,11.2
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,48 to 59 months old,,,,PT,10.5
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,48 to 59 months old,,,,PT,12.7
+2014,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Primary education,PT,26.5
+2014,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Lower secondary education,PT,17.1
+2018,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Lower secondary education,PT,14.8
+2014,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Upper secondary education,PT,13.5
+2018,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Upper secondary education,PT,12.0
+2014,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Post-secondary non-tertiary education,PT,11.8
+2018,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Post-secondary non-tertiary education,PT,12.2
+2014,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Short-cycle tertiary education,PT,9.8
+2018,Normal value,Units,Country Data,Education of mother,Annual,National,SH_STA_STNT,,,,,,Short-cycle tertiary education,PT,10.0
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,,Quintile 1 (poorest),,PT,17.7
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,,Quintile 1 (poorest),,PT,14.0
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,,Quintile 2,,PT,14.2
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,,Quintile 2,,PT,13.8
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,,Quintile 3,,PT,10.1
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,,Quintile 3,,PT,12.0
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,,Quintile 4,,PT,10.7
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,,Quintile 4,,PT,8.2
+2014,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey,2014",Annual,National,SH_STA_STNT,,,,,Quintile 5 (richest),,PT,10.7
+2018,Normal value,Units,Country Data,"According to Multiple Indicator Cluster Survey, 2018.",Annual,National,SH_STA_STNT,,,,,Quintile 5 (richest),,PT,9.2

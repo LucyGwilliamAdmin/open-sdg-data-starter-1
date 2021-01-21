@@ -1,115 +1,115 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
-2007,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,51.9
-2008,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,55.0
-2009,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,63.5
-2010,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,51.3
-2011,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,54.8
-2012,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,49.1
-2013,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,36.0
-2014,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,50.1
-2015,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,38.5
-2016,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,30.3
-2017,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,31.9
-2018,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,28.6
-2007,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,74.8
-2008,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,66.6
-2009,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,41.7
-2010,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,59.7
-2011,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,66.9
-2012,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,43.5
-2013,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,42.0
-2014,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,108.7
-2015,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,26.1
-2016,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,41.9
-2017,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,51.9
-2018,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,33.6
-2007,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,32.8
-2008,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,66.6
-2009,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,40.3
-2010,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,31.1
-2011,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,36.5
-2012,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,55.9
-2013,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,33.0
-2014,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,53.7
-2015,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,53.3
-2016,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,33.5
-2017,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,53.6
-2018,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,38.2
-2007,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,89.7
-2008,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,122.9
-2009,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,72.0
-2010,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,70.4
-2011,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,62.6
-2012,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,97.2
-2013,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,37.2
-2014,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,55.3
-2015,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,26.7
-2016,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,34.7
-2017,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,37.0
-2018,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,71.2
-2007,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,62.3
-2008,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,46.2
-2009,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,105.5
-2010,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,69.6
-2011,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,83.3
-2012,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,56.2
-2013,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,29.0
-2014,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,135.7
-2015,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,30.6
-2016,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,43.7
-2018,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,105.7
-2007,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,26.0
-2008,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,54.4
-2009,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,93.2
-2010,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,78.6
-2011,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,62.5
-2012,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,58.1
-2013,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,42.8
-2014,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,43.4
-2015,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,43.4
-2016,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,24.9
-2017,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,25.6
-2018,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,19.5
-2007,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,120.3
-2008,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,51.1
-2009,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,61.3
-2010,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,87.0
-2011,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,40.9
-2012,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,14.1
-2013,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,14.8
-2014,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,44.6
-2015,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,15.1
-2007,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,78.3
-2008,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,34.4
-2009,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,61.1
-2010,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,49.5
-2011,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,69.0
-2012,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,41.2
-2013,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,50.4
-2014,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,44.4
-2015,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,40.3
-2016,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,47.9
-2017,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,22.9
-2018,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,4.0
-2007,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,17.3
-2008,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,22.0
-2009,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,20.4
-2010,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,19.4
-2011,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,43.3
-2012,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,18.0
-2013,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,26.1
-2014,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,16.4
-2015,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,30.5
-2016,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,17.6
-2017,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,13.4
-2018,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,18.0
-2007,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,100.6
-2008,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,38.6
-2009,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,168.4
-2011,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,35.7
-2012,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,60.3
-2013,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,15.0
-2015,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,40.9
-2016,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,13.5
-2017,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,64.9
-2018,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,8.3
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,51.9
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,55.0
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,63.5
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,51.3
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,54.8
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,49.1
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,36.0
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,50.1
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,38.5
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,30.3
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,31.9
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,,Female,PER_100000_LIVE_BIRTHS,28.6
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,74.8
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,66.6
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,41.7
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,59.7
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,66.9
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,43.5
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,42.0
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,108.7
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,26.1
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,41.9
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,51.9
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Batken,Female,PER_100000_LIVE_BIRTHS,33.6
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,32.8
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,66.6
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,40.3
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,31.1
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,36.5
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,55.9
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,33.0
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,53.7
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,53.3
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,33.5
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,53.6
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Jalal-Abad,Female,PER_100000_LIVE_BIRTHS,38.2
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,89.7
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,122.9
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,72.0
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,70.4
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,62.6
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,97.2
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,37.2
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,55.3
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,26.7
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,34.7
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,37.0
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Issyk-Kul,Female,PER_100000_LIVE_BIRTHS,71.2
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,62.3
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,46.2
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,105.5
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,69.6
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,83.3
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,56.2
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,29.0
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,135.7
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,30.6
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,43.7
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Naryn,Female,PER_100000_LIVE_BIRTHS,105.7
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,26.0
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,54.4
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,93.2
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,78.6
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,62.5
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,58.1
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,42.8
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,43.4
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,43.4
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,24.9
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,25.6
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh,Female,PER_100000_LIVE_BIRTHS,19.5
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,120.3
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,51.1
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,61.3
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,87.0
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,40.9
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,14.1
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,14.8
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,44.6
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Talas,Female,PER_100000_LIVE_BIRTHS,15.1
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,78.3
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,34.4
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,61.1
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,49.5
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,69.0
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,41.2
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,50.4
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,44.4
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,40.3
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,47.9
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,22.9
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Chui,Female,PER_100000_LIVE_BIRTHS,4.0
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,17.3
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,22.0
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,20.4
+2010,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,19.4
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,43.3
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,18.0
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,26.1
+2014,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,16.4
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,30.5
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,17.6
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,13.4
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Bishkek (city),Female,PER_100000_LIVE_BIRTHS,18.0
+2007,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,100.6
+2008,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,38.6
+2009,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,168.4
+2011,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,35.7
+2012,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,60.3
+2013,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,15.0
+2015,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,40.9
+2016,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,13.5
+2017,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,64.9
+2018,Normal value,Units,Country Data,Annual,National,SH_STA_MORT,Osh (city),Female,PER_100000_LIVE_BIRTHS,8.3

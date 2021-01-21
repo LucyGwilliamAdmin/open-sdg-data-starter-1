@@ -1,4 +1,5 @@
 From,To
+Nature of data points,Frequency of observation
 Frequency of observation,Reporting type
 Reporting type,Degree of urbanisation
 Reporting type,Income or wealth quantile

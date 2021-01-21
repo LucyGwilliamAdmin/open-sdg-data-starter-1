@@ -1,55 +1,55 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Composite breakdown,Units,Value
-2010,Annual,National,_L_KG_090401_1,,,KG,1536
-2011,Annual,National,_L_KG_090401_1,,,KG,2124
-2012,Annual,National,_L_KG_090401_1,,,KG,2177
-2013,Annual,National,_L_KG_090401_1,,,KG,2255
-2014,Annual,National,_L_KG_090401_1,,,KG,3026
-2015,Annual,National,_L_KG_090401_1,,,KG,3049
-2016,Annual,National,_L_KG_090401_1,,,KG,2643
-2017,Annual,National,_L_KG_090401_1,,,KG,2482
-2018,Annual,National,_L_KG_090401_1,,,KG,2836
-2010,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,745
-2011,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,906
-2012,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,909
-2013,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,800
-2014,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1127
-2015,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1218
-2016,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1013
-2017,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1261
-2018,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,910
-2010,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,790
-2011,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1218
-2012,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1268
-2013,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1456
-2014,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1899
-2015,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1831
-2016,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1630
-2017,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1221
-2018,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1926
-2010,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,395
-2011,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,470
-2012,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,271
-2013,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,631
-2014,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,923
-2015,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,954
-2016,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,806
-2017,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,390
-2018,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,903
-2010,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,170
-2011,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,484
-2012,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,498
-2013,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,523
-2014,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,615
-2015,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,499
-2016,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,471
-2017,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,471
-2018,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,607
-2010,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,125
-2011,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,154
-2012,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,176
-2013,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,173
-2014,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,212
-2015,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,200
-2016,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,218
-2017,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,195
-2018,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,228
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,Series,Reference area,Composite breakdown,Units,Value
+2010,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,1536
+2011,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,2124
+2012,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,2177
+2013,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,2255
+2014,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,3026
+2015,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,3049
+2016,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,2643
+2017,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,2482
+2018,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,,KG,2836
+2010,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,745
+2011,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,906
+2012,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,909
+2013,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,800
+2014,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1127
+2015,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1218
+2016,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1013
+2017,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,1261
+2018,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Solid,KG,910
+2010,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,790
+2011,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1218
+2012,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1268
+2013,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1456
+2014,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1899
+2015,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1831
+2016,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1630
+2017,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1221
+2018,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Gaseous and liquid,KG,1926
+2010,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,395
+2011,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,470
+2012,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,271
+2013,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,631
+2014,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,923
+2015,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,954
+2016,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,806
+2017,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,390
+2018,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Sulphur dioxide,KG,903
+2010,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,170
+2011,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,484
+2012,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,498
+2013,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,523
+2014,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,615
+2015,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,499
+2016,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,471
+2017,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,471
+2018,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Carbon monoxide,KG,607
+2010,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,125
+2011,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,154
+2012,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,176
+2013,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,173
+2014,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,212
+2015,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,200
+2016,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,218
+2017,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,195
+2018,Normal value,Units,Country Data,Annual,National,_L_KG_090401_1,,Pollutants: Nitrogen oxide ,KG,228

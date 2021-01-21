@@ -1,11 +1,11 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Age,Units,Value
-2009,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,8.1
-2010,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,10.0
-2011,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,24.6
-2012,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,11.2
-2013,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,12.2
-2014,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,51.1
-2015,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,55.0
-2016,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,74.4
-2017,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,75.9
-2018,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,84.9
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,Series,Reference area,Age,Units,Value
+2009,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,8.1
+2010,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,10.0
+2011,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,24.6
+2012,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,11.2
+2013,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,12.2
+2014,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,51.1
+2015,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,55.0
+2016,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,74.4
+2017,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,75.9
+2018,Normal value,Units,Country Data,Annual,National,SE_PRE_PARTN,,under 6 years old,PT,84.9

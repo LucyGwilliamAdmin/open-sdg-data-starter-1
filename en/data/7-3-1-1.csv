@@ -1,13 +1,13 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2007,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,78.2
-2008,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,54.3
-2009,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,48.7
-2010,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,45.5
-2011,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,42.0
-2012,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,35.3
-2013,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,31.4
-2014,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,26.1
-2015,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,26.7
-2016,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,22.0
-2017,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,25.3
-2018,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,25.5
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2007,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,78.2
+2008,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,54.3
+2009,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,48.7
+2010,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,45.5
+2011,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,42.0
+2012,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,35.3
+2013,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,31.4
+2014,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,26.1
+2015,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,26.7
+2016,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,22.0
+2017,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,25.3
+2018,Normal value,Units,Country Data,Annual,National,_L_KG_070301_1,,_L_TCE_MN_KGS,25.5

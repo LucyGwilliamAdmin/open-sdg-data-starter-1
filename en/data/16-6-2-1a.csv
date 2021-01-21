@@ -1,51 +1,51 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Units,Value
-2015,Annual,National,_L_KG_160602_1A,,IX,235
-2016,Annual,National,_L_KG_160602_1A,,IX,285
-2017,Annual,National,_L_KG_160602_1A,,IX,311
-2018,Annual,National,_L_KG_160602_1A,,IX,273
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,,IX,273
-2015,Annual,National,_L_KG_160602_1A,Batken,IX,294
-2016,Annual,National,_L_KG_160602_1A,Batken,IX,479
-2017,Annual,National,_L_KG_160602_1A,Batken,IX,462
-2018,Annual,National,_L_KG_160602_1A,Batken,IX,426
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Batken,IX,400
-2015,Annual,National,_L_KG_160602_1A,Bishkek (city),IX,436
-2016,Annual,National,_L_KG_160602_1A,Bishkek (city),IX,372
-2017,Annual,National,_L_KG_160602_1A,Bishkek (city),IX,354
-2018,Annual,National,_L_KG_160602_1A,Bishkek (city),IX,327
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Bishkek (city),IX,360
-2015,Annual,National,_L_KG_160602_1A,Chui,IX,-15
-2016,Annual,National,_L_KG_160602_1A,Chui,IX,166
-2017,Annual,National,_L_KG_160602_1A,Chui,IX,295
-2018,Annual,National,_L_KG_160602_1A,Chui,IX,195
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Chui,IX,252
-2015,Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,206
-2016,Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,199
-2017,Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,285
-2018,Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,307
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Issyk-Kul,IX,375
-2015,Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,343
-2016,Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,309
-2017,Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,327
-2018,Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,279
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Jalal-Abad,IX,307
-2015,Annual,National,_L_KG_160602_1A,Naryn,IX,364
-2016,Annual,National,_L_KG_160602_1A,Naryn,IX,341
-2017,Annual,National,_L_KG_160602_1A,Naryn,IX,312
-2018,Annual,National,_L_KG_160602_1A,Naryn,IX,341
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Naryn,IX,355
-2015,Annual,National,_L_KG_160602_1A,Osh,IX,314
-2016,Annual,National,_L_KG_160602_1A,Osh,IX,256
-2017,Annual,National,_L_KG_160602_1A,Osh,IX,385
-2018,Annual,National,_L_KG_160602_1A,Osh,IX,355
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Osh,IX,325
-2015,Annual,National,_L_KG_160602_1A,Osh (city),IX,96
-2016,Annual,National,_L_KG_160602_1A,Osh (city),IX,126
-2017,Annual,National,_L_KG_160602_1A,Osh (city),IX,163
-2018,Annual,National,_L_KG_160602_1A,Osh (city),IX,129
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Osh (city),IX,113
-2015,Annual,National,_L_KG_160602_1A,Talas,IX,169
-2016,Annual,National,_L_KG_160602_1A,Talas,IX,408
-2017,Annual,National,_L_KG_160602_1A,Talas,IX,429
-2018,Annual,National,_L_KG_160602_1A,Talas,IX,383
-2019,"Half-yearly, semester",National,_L_KG_160602_1A,Talas,IX,366
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,Series,Reference area,Units,Value
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,,IX,235
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,,IX,285
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,,IX,311
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,,IX,273
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,,IX,273
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Batken,IX,294
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Batken,IX,479
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Batken,IX,462
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Batken,IX,426
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Batken,IX,400
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Bishkek (city),IX,436
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Bishkek (city),IX,372
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Bishkek (city),IX,354
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Bishkek (city),IX,327
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Bishkek (city),IX,360
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Chui,IX,-15
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Chui,IX,166
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Chui,IX,295
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Chui,IX,195
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Chui,IX,252
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,206
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,199
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,285
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Issyk-Kul,IX,307
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Issyk-Kul,IX,375
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,343
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,309
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,327
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Jalal-Abad,IX,279
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Jalal-Abad,IX,307
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Naryn,IX,364
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Naryn,IX,341
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Naryn,IX,312
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Naryn,IX,341
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Naryn,IX,355
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh,IX,314
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh,IX,256
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh,IX,385
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh,IX,355
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Osh,IX,325
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh (city),IX,96
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh (city),IX,126
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh (city),IX,163
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Osh (city),IX,129
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Osh (city),IX,113
+2015,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Talas,IX,169
+2016,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Talas,IX,408
+2017,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Talas,IX,429
+2018,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.",Annual,National,_L_KG_160602_1A,Talas,IX,383
+2019,Normal value,Units,Country Data,"Источник: Нацстатком,опрос населения по определению уровня доверия населения к  государственным органам исполнительной власти.","Half-yearly, semester",National,_L_KG_160602_1A,Talas,IX,366

@@ -1,23 +1,23 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Units,Value
-2018,Annual,National,SH_SAN_SAFE,,,,,PT,96.3
-2018,Annual,National,SH_SAN_SAFE,,Urban,,,PT,96.1
-2018,Annual,National,SH_SAN_SAFE,,Rural,,,PT,96.5
-2018,Annual,National,SH_SAN_SAFE,Batken,,,,PT,99.6
-2018,Annual,National,SH_SAN_SAFE,Jalal-Abad,,,,PT,93.4
-2018,Annual,National,SH_SAN_SAFE,Issyk-Kul,,,,PT,99.1
-2018,Annual,National,SH_SAN_SAFE,Naryn,,,,PT,99.4
-2018,Annual,National,SH_SAN_SAFE,Osh,,,,PT,99.1
-2018,Annual,National,SH_SAN_SAFE,Talas,,,,PT,99.8
-2018,Annual,National,SH_SAN_SAFE,Chui,,,,PT,91.6
-2018,Annual,National,SH_SAN_SAFE,Bishkek (city),,,,PT,95.7
-2018,Annual,National,SH_SAN_SAFE,Osh (city),,,,PT,96.8
-2018,Annual,National,SH_SAN_SAFE,,,,Primary education,PT,92.1
-2018,Annual,National,SH_SAN_SAFE,,,,Lower secondary education,PT,94.7
-2018,Annual,National,SH_SAN_SAFE,,,,Upper secondary education,PT,97.4
-2018,Annual,National,SH_SAN_SAFE,,,,Post-secondary non-tertiary education,PT,96.6
-2018,Annual,National,SH_SAN_SAFE,,,,Short-cycle tertiary education,PT,95.1
-2018,Annual,National,SH_SAN_SAFE,,,Quintile 1 (poorest),,PT,97.2
-2018,Annual,National,SH_SAN_SAFE,,,Quintile 2,,PT,95.9
-2018,Annual,National,SH_SAN_SAFE,,,Quintile 3,,PT,96.5
-2018,Annual,National,SH_SAN_SAFE,,,Quintile 4,,PT,96.4
-2018,Annual,National,SH_SAN_SAFE,,,Quintile 5 (richest),,PT,95.7
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,Series,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Units,Observation-level footnotes,Value
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,,,PT,,96.3
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,Urban,,,PT,,96.1
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,Rural,,,PT,,96.5
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Batken,,,,PT,,99.6
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Jalal-Abad,,,,PT,,93.4
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Issyk-Kul,,,,PT,,99.1
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Naryn,,,,PT,,99.4
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Osh,,,,PT,,99.1
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Talas,,,,PT,,99.8
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Chui,,,,PT,,91.6
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Bishkek (city),,,,PT,,95.7
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,Osh (city),,,,PT,,96.8
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,,Primary education,PT,household head education,92.1
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,,Lower secondary education,PT,household head education,94.7
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,,Upper secondary education,PT,household head education,97.4
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,,Post-secondary non-tertiary education,PT,household head education,96.6
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,,Short-cycle tertiary education,PT,household head education,95.1
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,Quintile 1 (poorest),,PT,,97.2
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,Quintile 2,,PT,,95.9
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,Quintile 3,,PT,,96.5
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,Quintile 4,,PT,,96.4
+2018,Normal value,Units,Country Data,"According to the cluster survey for many indicators, 2018.",Annual,National,SH_SAN_SAFE,,,Quintile 5 (richest),,PT,,95.7

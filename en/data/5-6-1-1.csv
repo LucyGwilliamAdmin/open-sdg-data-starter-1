@@ -1,13 +1,13 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Units,Value
-2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,,PT,99.7
-2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,Urban,PT,99.8
-2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,Rural,PT,99.6
-2018,Annual,National,_L_KG_050601_1,Batken,Female,15 to 49 years old,,PT,99.7
-2018,Annual,National,_L_KG_050601_1,Jalal-Abad,Female,15 to 49 years old,,PT,99.4
-2018,Annual,National,_L_KG_050601_1,Issyk-Kul,Female,15 to 49 years old,,PT,100.0
-2018,Annual,National,_L_KG_050601_1,Naryn,Female,15 to 49 years old,,PT,99.7
-2018,Annual,National,_L_KG_050601_1,Osh,Female,15 to 49 years old,,PT,99.8
-2018,Annual,National,_L_KG_050601_1,Talas,Female,15 to 49 years old,,PT,100.0
-2018,Annual,National,_L_KG_050601_1,Chui,Female,15 to 49 years old,,PT,99.5
-2018,Annual,National,_L_KG_050601_1,Bishkek (city),Female,15 to 49 years old,,PT,99.9
-2018,Annual,National,_L_KG_050601_1,Osh (city),Female,15 to 49 years old,,PT,99.5
+Year,Observation status,Unit multiplier,Nature of data points,Source details,Frequency of observation,Reporting type,Series,Reference area,Sex,Age,Degree of urbanisation,Units,Value
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,,PT,99.7
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,Urban,PT,99.8
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,,Female,15 to 49 years old,Rural,PT,99.6
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Batken,Female,15 to 49 years old,,PT,99.7
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Jalal-Abad,Female,15 to 49 years old,,PT,99.4
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Issyk-Kul,Female,15 to 49 years old,,PT,100.0
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Naryn,Female,15 to 49 years old,,PT,99.7
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Osh,Female,15 to 49 years old,,PT,99.8
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Talas,Female,15 to 49 years old,,PT,100.0
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Chui,Female,15 to 49 years old,,PT,99.5
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Bishkek (city),Female,15 to 49 years old,,PT,99.9
+2018,Normal value,Units,Country Data,По данным КОМП 2018,Annual,National,_L_KG_050601_1,Osh (city),Female,15 to 49 years old,,PT,99.5

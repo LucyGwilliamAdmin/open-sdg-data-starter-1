@@ -1,13 +1,13 @@
-Year,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
-2007,Annual,National,SG_GEN_PARL,,Female,PT,25.6
-2008,Annual,National,SG_GEN_PARL,,Female,PT,25.6
-2009,Annual,National,SG_GEN_PARL,,Female,PT,25.6
-2010,Annual,National,SG_GEN_PARL,,Female,PT,23.5
-2011,Annual,National,SG_GEN_PARL,,Female,PT,20.8
-2012,Annual,National,SG_GEN_PARL,,Female,PT,20.8
-2013,Annual,National,SG_GEN_PARL,,Female,PT,22.5
-2014,Annual,National,SG_GEN_PARL,,Female,PT,21.7
-2015,Annual,National,SG_GEN_PARL,,Female,PT,21.7
-2016,Annual,National,SG_GEN_PARL,,Female,PT,15.8
-2017,Annual,National,SG_GEN_PARL,,Female,PT,16.7
-2018,Annual,National,SG_GEN_PARL,,Female,PT,15.8
+Year,Observation status,Unit multiplier,Nature of data points,Frequency of observation,Reporting type,Series,Reference area,Sex,Units,Value
+2007,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,25.6
+2008,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,25.6
+2009,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,25.6
+2010,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,23.5
+2011,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,20.8
+2012,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,20.8
+2013,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,22.5
+2014,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,21.7
+2015,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,21.7
+2016,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,15.8
+2017,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,16.7
+2018,Normal value,Units,Country Data,Annual,National,SG_GEN_PARL,,Female,PT,15.8
